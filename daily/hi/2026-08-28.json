@@ -1,1 +1,129 @@
+{
+  "date": "2026-08-28",
+  "language": "hi",
+  "title": "दैनिक खुराक — 28 अगस्त 2026",
+  "questions": [
+    {
+      "id": "daily_20260828_hi_01",
+      "subject": "Physics",
+      "topic": "मात्रक एवं मापन",
+      "question": "प्लांक नियतांक का विमीय सूत्र है:",
+      "options": ["[ML²T⁻¹]", "[MLT⁻²]", "[ML²T⁻²]", "[ML²T⁻³]"],
+      "correctAnswer": 0,
+      "explanation": "प्लांक नियतांक h की इकाई J·s = kg·m²/s है, अतः इसका विमीय सूत्र [ML²T⁻¹] है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260828_hi_02",
+      "subject": "Physics",
+      "topic": "सरल रेखा में गति",
+      "question": "कोई पिंड ऊर्ध्वाधर ऊपर की ओर u वेग से फेंका जाता है। अधिकतम ऊँचाई h है:",
+      "options": ["u/2g", "u²/2g", "u²/g", "u/g"],
+      "correctAnswer": 1,
+      "explanation": "v² = u² − 2gh से, अधिकतम ऊँचाई पर v = 0, अतः h = u²/2g।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260828_hi_03",
+      "subject": "Chemistry",
+      "topic": "परमाणु की संरचना",
+      "question": "l = 2 वाले उपकोश में इलेक्ट्रॉनों की अधिकतम संख्या है:",
+      "options": ["6", "10", "14", "2"],
+      "correctAnswer": 1,
+      "explanation": "किसी उपकोश में अधिकतम इलेक्ट्रॉन = 2(2l + 1)। l = 2 (d-उपकोश) के लिए अधिकतम = 10।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260828_hi_04",
+      "subject": "Chemistry",
+      "topic": "रासायनिक बंधन",
+      "question": "निम्नलिखित में से किस अणु का द्विध्रुव आघूर्ण सबसे अधिक है?",
+      "options": ["CO₂", "BF₃", "NH₃", "CH₄"],
+      "correctAnswer": 2,
+      "explanation": "NH₃ पिरामिडाकार है और इसमें शुद्ध द्विध्रुव आघूर्ण होता है। CO₂, BF₃ और CH₄ सममित हैं।",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260828_hi_05",
+      "subject": "Chemistry",
+      "topic": "साम्यावस्था",
+      "question": "अभिक्रिया N₂ + 3H₂ ⇌ 2NH₃ के लिए Kp और Kc का संबंध है:",
+      "options": ["Kp = Kc", "Kp = Kc(RT)²", "Kp = Kc(RT)⁻²", "Kp = Kc(RT)⁻¹"],
+      "correctAnswer": 2,
+      "explanation": "Δn = 2 − 4 = −2, अतः Kp = Kc(RT)^Δn = Kc(RT)⁻²।",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260828_hi_06",
+      "subject": "Botany",
+      "topic": "कोशिका: जीवन की इकाई",
+      "question": "राइबोसोम किसका स्थल है?",
+      "options": ["लिपिड संश्लेषण", "प्रोटीन संश्लेषण", "ATP संश्लेषण", "प्रकाश संश्लेषण"],
+      "correctAnswer": 1,
+      "explanation": "राइबोसोम mRNA का अनुवाद करके पॉलीपेप्टाइड श्रृंखला बनाते हैं — प्रोटीन संश्लेषण।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260828_hi_07",
+      "subject": "Botany",
+      "topic": "प्रकाश संश्लेषण",
+      "question": "C₄ पादपों में प्राथमिक CO₂ स्वीकारक है:",
+      "options": ["RuBP", "PEP", "ऑक्सालोएसेटिक अम्ल", "फॉस्फोग्लिसरिक अम्ल"],
+      "correctAnswer": 1,
+      "explanation": "C₄ पादपों में मेसोफिल कोशिकाओं में PEP प्राथमिक CO₂ स्वीकारक है, PEP कार्बोक्सिलेज द्वारा।",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260828_hi_08",
+      "subject": "Zoology",
+      "topic": "मानव स्वास्थ्य और रोग",
+      "question": "ELISA परीक्षण का उपयोग आमतौर पर किसका पता लगाने के लिए किया जाता है?",
+      "options": ["टाइफॉइड", "HIV/AIDS", "मलेरिया", "TB"],
+      "correctAnswer": 1,
+      "explanation": "ELISA (एंजाइम-लिंक्ड इम्यूनोसॉर्बेंट असे) का उपयोग HIV/AIDS संसूचन में व्यापक रूप से होता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260828_hi_09",
+      "subject": "Zoology",
+      "topic": "तंत्रिका नियंत्रण और समन्वय",
+      "question": "न्यूरॉन की विश्राम विभव लगभग होती है:",
+      "options": ["+70 mV", "−70 mV", "0 mV", "−30 mV"],
+      "correctAnswer": 1,
+      "explanation": "विश्राम अवस्था में न्यूरॉन के अंदर की ओर बाहर की तुलना में ऋणात्मक विभव होता है, लगभग −70 mV।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260828_hi_10",
+      "subject": "Physics",
+      "topic": "विद्युत धारा",
+      "question": "ओम का नियम कब मान्य होता है?",
+      "options": ["ताप बदलने पर", "भौतिक परिस्थितियाँ स्थिर रहें", "धारा बहुत अधिक हो", "विभव शून्य हो"],
+      "correctAnswer": 1,
+      "explanation": "ओम का नियम V = IR तब लागू होता है जब चालक का तापमान और अन्य भौतिक परिस्थितियाँ स्थिर रहें।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "hi"
+    }
+  ]
+}
 
