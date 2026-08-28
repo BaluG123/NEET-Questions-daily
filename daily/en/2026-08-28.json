@@ -1,1 +1,129 @@
+{
+  "date": "2026-08-28",
+  "language": "en",
+  "title": "Daily Dose — 28 Aug 2026",
+  "questions": [
+    {
+      "id": "daily_20260828_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "The dimensional formula of Planck's constant is:",
+      "options": ["[ML²T⁻¹]", "[MLT⁻²]", "[ML²T⁻²]", "[ML²T⁻³]"],
+      "correctAnswer": 0,
+      "explanation": "Planck's constant h has units J·s = kg·m²/s, so its dimensional formula is [ML²T⁻¹].",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260828_en_02",
+      "subject": "Physics",
+      "topic": "Motion in a Straight Line",
+      "question": "A body is thrown vertically upward with velocity u. The greatest height h is:",
+      "options": ["u/2g", "u²/2g", "u²/g", "u/g"],
+      "correctAnswer": 1,
+      "explanation": "Using v² = u² − 2gh, at maximum height v = 0, so h = u²/2g.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "en"
+    },
+    {
+      "id": "daily_20260828_en_03",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The maximum number of electrons in a subshell with l = 2 is:",
+      "options": ["6", "10", "14", "2"],
+      "correctAnswer": 1,
+      "explanation": "For a subshell, maximum electrons = 2(2l + 1). For l = 2 (d-subshell), max = 2(5) = 10.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "en"
+    },
+    {
+      "id": "daily_20260828_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding",
+      "question": "Which molecule has the highest dipole moment?",
+      "options": ["CO₂", "BF₃", "NH₃", "CH₄"],
+      "correctAnswer": 2,
+      "explanation": "NH₃ is pyramidal with a net dipole. CO₂, BF₃ and CH₄ are symmetric with zero or very small net dipole.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "language": "en"
+    },
+    {
+      "id": "daily_20260828_en_05",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "For the reaction N₂ + 3H₂ ⇌ 2NH₃, Kp and Kc are related by:",
+      "options": ["Kp = Kc", "Kp = Kc(RT)²", "Kp = Kc(RT)⁻²", "Kp = Kc(RT)⁻¹"],
+      "correctAnswer": 2,
+      "explanation": "Δn = 2 − 4 = −2, so Kp = Kc(RT)^Δn = Kc(RT)⁻².",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "language": "en"
+    },
+    {
+      "id": "daily_20260828_en_06",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "Ribosomes are the site of:",
+      "options": ["Lipid synthesis", "Protein synthesis", "ATP synthesis", "Photosynthesis"],
+      "correctAnswer": 1,
+      "explanation": "Ribosomes translate mRNA into polypeptide chains — protein synthesis.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "en"
+    },
+    {
+      "id": "daily_20260828_en_07",
+      "subject": "Botany",
+      "topic": "Photosynthesis",
+      "question": "In C₄ plants, the primary CO₂ acceptor is:",
+      "options": ["RuBP", "PEP", "Oxaloacetic acid", "Phosphoglyceric acid"],
+      "correctAnswer": 1,
+      "explanation": "In C₄ plants, PEP is the initial CO₂ acceptor in mesophyll cells, catalyzed by PEP carboxylase.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "language": "en"
+    },
+    {
+      "id": "daily_20260828_en_08",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "ELISA is commonly used to detect:",
+      "options": ["Typhoid", "HIV/AIDS", "Malaria", "TB"],
+      "correctAnswer": 1,
+      "explanation": "ELISA (Enzyme-Linked Immunosorbent Assay) is widely used for HIV/AIDS detection.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "en"
+    },
+    {
+      "id": "daily_20260828_en_09",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "The resting potential of a neuron is approximately:",
+      "options": ["+70 mV", "−70 mV", "0 mV", "−30 mV"],
+      "correctAnswer": 1,
+      "explanation": "The inside of a resting neuron is negative relative to the outside, about −70 mV.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "en"
+    },
+    {
+      "id": "daily_20260828_en_10",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "Ohm's law is valid when:",
+      "options": ["Temperature changes", "Physical conditions remain constant", "Current is very high", "Voltage is zero"],
+      "correctAnswer": 1,
+      "explanation": "Ohm's law V = IR holds when temperature and other physical conditions of the conductor remain constant.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "language": "en"
+    }
+  ]
+}
 
