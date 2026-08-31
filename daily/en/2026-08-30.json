@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-08-30",
+  "language": "en",
+  "title": "Daily Dose — 30 Aug 2026",
+  "questions": [
+    {
+      "id": "daily_20260830_en_01",
+      "subject": "Physics",
+      "topic": "Physical World",
+      "question": "Among the four fundamental forces of nature, which is the strongest at short (nuclear) range?",
+      "options": ["Gravitational force", "Weak nuclear force", "Electromagnetic force", "Strong nuclear force"],
+      "correctAnswer": 3,
+      "explanation": "Physics recognizes four fundamental forces: gravitational, weak nuclear, electromagnetic, and strong nuclear. Comparing their relative strengths at the same short range, the strong nuclear force is roughly 10² times stronger than the electromagnetic force, about 10¹³ times stronger than the weak force, and about 10³⁸ times stronger than gravity. It is this force that binds protons and neutrons together inside the nucleus despite the strong electrostatic repulsion between positively charged protons.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 1",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260830_en_02",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "Two vectors of magnitude 3 units and 4 units act on a body at right angles (90°) to each other. The magnitude of their resultant is:",
+      "options": ["1", "5", "7", "12"],
+      "correctAnswer": 1,
+      "explanation": "When two vectors are inclined at an angle θ, the resultant magnitude is R = √(P² + Q² + 2PQcosθ). For perpendicular vectors, θ = 90° so cosθ = 0, reducing this to R = √(P² + Q²) = √(3² + 4²) = √25 = 5 units. This is simply the Pythagorean theorem applied to vector addition, and the direction of the resultant can be found from tanα = Q/P.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260830_en_03",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "For a given pair of surfaces, which statement about friction is generally correct?",
+      "options": ["Kinetic friction is greater than maximum static friction", "Maximum static friction is greater than kinetic friction", "Static and kinetic friction are always exactly equal", "Friction does not depend on the nature of the surfaces"],
+      "correctAnswer": 1,
+      "explanation": "Static friction is a self-adjusting force that opposes the tendency of relative motion between surfaces in contact, and it rises up to a maximum value (limiting friction) just before motion begins. Once the body starts moving, kinetic friction takes over, and experimentally the maximum static friction is found to be slightly greater than kinetic friction — this is why it takes more force to start moving an object than to keep it moving at constant velocity. Both types of friction depend on the roughness of the surfaces (coefficient of friction) and the normal reaction force pressing them together.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260830_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "The empirical formula of a compound represents:",
+      "options": ["The actual number of atoms of each element in one molecule", "The simplest whole-number ratio of atoms of each element in the compound", "The molecular mass of the compound", "The number of moles of the compound"],
+      "correctAnswer": 1,
+      "explanation": "The empirical formula gives the simplest whole-number ratio of atoms of each element in a compound, while the molecular formula gives the actual number of atoms of each element in one molecule. For example, glucose has the molecular formula C₆H₁₂O₆, but dividing all subscripts by their common factor 6 gives the empirical formula CH₂O. The molecular formula is always a whole-number multiple of the empirical formula (molecular formula = n × empirical formula), where n is determined from the compound's molar mass.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260830_en_05",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "According to Bohr's model of the hydrogen atom, the energy of an electron in the nth orbit is proportional to:",
+      "options": ["n", "n²", "1/n", "1/n²"],
+      "correctAnswer": 3,
+      "explanation": "In Bohr's model, the energy of an electron in the nth orbit of a hydrogen-like atom is Eₙ = −13.6 Z²/n² eV, where Z is the atomic number. This shows the energy is inversely proportional to n², so orbits closer to the nucleus (small n) are more tightly bound (more negative energy), while orbits farther away (large n) have energy approaching zero. This 1/n² dependence also explains why the spacing between successive energy levels shrinks as n increases, matching the observed convergence of spectral lines toward higher energies.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260830_en_06",
+      "subject": "Chemistry",
+      "topic": "States of Matter",
+      "question": "For a fixed mass of gas at constant temperature, Boyle's law states that:",
+      "options": ["Volume is directly proportional to pressure", "Pressure is inversely proportional to volume", "Pressure is independent of volume", "Volume is directly proportional to temperature"],
+      "correctAnswer": 1,
+      "explanation": "Boyle's law states that at constant temperature, the pressure of a fixed mass of gas is inversely proportional to its volume, i.e., P ∝ 1/V, or PV = constant. So if the volume of a gas is halved while temperature stays the same, its pressure doubles. Kinetically, compressing a gas into a smaller volume increases how often its molecules collide with the container walls, which is what raises the pressure.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260830_en_07",
+      "subject": "Botany",
+      "topic": "Biological Classification",
+      "question": "The five kingdom classification system (Monera, Protista, Fungi, Plantae, Animalia) was proposed by:",
+      "options": ["Carl Linnaeus", "R.H. Whittaker", "Charles Darwin", "Robert Hooke"],
+      "correctAnswer": 1,
+      "explanation": "R.H. Whittaker proposed the five kingdom classification in 1969, grouping organisms into Monera, Protista, Fungi, Plantae, and Animalia based on cell structure (prokaryotic vs eukaryotic), body organization (unicellular vs multicellular), mode of nutrition, and evolutionary relationships. This was a major improvement over the older two-kingdom system, since it separately recognized prokaryotes as Monera and gave fungi their own kingdom, distinct from plants, because of their unique absorptive (non-photosynthetic) mode of nutrition.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 2",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260830_en_08",
+      "subject": "Botany",
+      "topic": "Morphology of Flowering Plants",
+      "question": "The edible part of a potato is a modified underground:",
+      "options": ["Root", "Stem", "Leaf", "Flower"],
+      "correctAnswer": 1,
+      "explanation": "A potato tuber is a modified underground stem, not a root, formed by the swelling of the tip of an underground stem branch called a stolon. The evidence lies in the presence of nodes and internodes on its surface — the 'eyes' of a potato are actually axillary buds sitting at nodes, a feature roots never have. Because it is a stem, a potato can sprout new shoots from these eye buds, which is exactly how potatoes are propagated vegetatively for farming.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 5",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260830_en_09",
+      "subject": "Zoology",
+      "topic": "Biomolecules",
+      "question": "Which of the following is a monosaccharide?",
+      "options": ["Sucrose", "Starch", "Glucose", "Cellulose"],
+      "correctAnswer": 2,
+      "explanation": "Monosaccharides are the simplest carbohydrates and cannot be hydrolyzed further into smaller sugar units; glucose (C₆H₁₂O₆) is a classic example. Sucrose is a disaccharide made of one glucose and one fructose unit joined together, while starch and cellulose are polysaccharides — long chains of many glucose units linked differently (α-glycosidic bonds in starch, used for energy storage in plants, versus β-glycosidic bonds in cellulose, used for structural support in cell walls).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 9",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260830_en_10",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "In the human lungs, the exchange of oxygen and carbon dioxide between alveolar air and blood occurs mainly by:",
+      "options": ["Active transport", "Simple diffusion", "Osmosis", "Facilitated transport via carrier proteins"],
+      "correctAnswer": 1,
+      "explanation": "Gas exchange in the alveoli happens by simple diffusion, driven purely by the partial pressure gradients of O₂ and CO₂ across the thin alveolar and capillary membranes — no ATP is spent in this process. Oxygen diffuses from the alveoli, where its partial pressure is higher, into the blood, while carbon dioxide diffuses from the blood, where its partial pressure is higher, into the alveoli to be exhaled. This is possible because alveolar walls are extremely thin (one cell thick) and richly supplied with capillaries, which maximizes surface area and minimizes diffusion distance.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17",
+      "language": "en"
+    }
+  ]
+}
