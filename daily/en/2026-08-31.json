@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-08-31",
+  "language": "en",
+  "title": "Daily Dose — 31 Aug 2026",
+  "questions": [
+    {
+      "id": "daily_20260831_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "Which of the following pairs of physical quantities has the same dimensional formula?",
+      "options": ["Work and Power", "Work and Torque", "Force and Pressure", "Energy and Momentum"],
+      "correctAnswer": 1,
+      "explanation": "Work is defined as W = F·d (force times displacement), giving dimensions [MLT⁻²][L] = [ML²T⁻²]. Torque is defined as τ = F×r (force times perpendicular distance), giving the identical dimensions [ML²T⁻²]. Even though work is a scalar and torque is a (pseudo)vector — physically very different quantities — dimensional analysis alone cannot distinguish them, a useful reminder that matching dimensions never guarantees two quantities are physically the same.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 2",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260831_en_02",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "According to the work-energy theorem, the net work done by all forces acting on a body equals:",
+      "options": ["The change in its momentum", "The change in its kinetic energy", "The change in its potential energy", "The total mechanical energy of the body"],
+      "correctAnswer": 1,
+      "explanation": "The work-energy theorem states that the net work done on a body by all forces acting on it equals the change in its kinetic energy: W_net = ΔKE = (1/2)mv² − (1/2)mu². This follows directly from Newton's second law: integrating F = ma over displacement gives ∫F dx = ∫mv dv, which evaluates to (1/2)mv² − (1/2)mu². The theorem is specifically about kinetic energy — it says nothing about momentum change (that relates to impulse) or potential energy (which applies only to conservative forces).",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260831_en_03",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "As we move from the Earth's surface towards its centre, the acceleration due to gravity:",
+      "options": ["Increases continuously and becomes maximum at the centre", "Remains constant throughout", "Decreases and becomes zero at the centre", "First increases then decreases"],
+      "correctAnswer": 2,
+      "explanation": "At a depth d below the surface, assuming uniform density, the acceleration due to gravity is g' = g(1 − d/R), where R is the Earth's radius. This shows g decreases linearly as we go deeper, because only the mass enclosed within radius (R − d) contributes to the net gravitational pull — the shell of mass outside that radius exerts no net force on points inside it. At the very centre (d = R), g' becomes zero, since the pull is equal in every direction and cancels out completely.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 8",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260831_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "According to VSEPR theory, the shape of a CH₄ (methane) molecule is:",
+      "options": ["Linear", "Trigonal planar", "Tetrahedral", "Pyramidal"],
+      "correctAnswer": 2,
+      "explanation": "VSEPR (Valence Shell Electron Pair Repulsion) theory predicts molecular shape by minimizing repulsion between electron pairs around the central atom. In CH₄, the central carbon has four bond pairs and no lone pairs, and these arrange themselves as far apart as possible in three-dimensional space, giving a tetrahedral shape with bond angles of 109.5°. This differs from NH₃, where one lone pair pushes the bonding pairs closer together, producing a pyramidal shape with a smaller bond angle (~107°).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260831_en_05",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "For a reaction occurring at constant pressure, the heat absorbed or released equals the change in:",
+      "options": ["Internal energy (ΔU)", "Enthalpy (ΔH)", "Entropy (ΔS)", "Gibbs free energy (ΔG)"],
+      "correctAnswer": 1,
+      "explanation": "Enthalpy is defined as H = U + PV, and it is specifically designed to track heat flow at constant pressure. For a process at constant pressure, qₚ = ΔH = ΔU + PΔV, where the PΔV term accounts for work done due to expansion or contraction against the constant external pressure. This is why enthalpy change, rather than internal energy change, is reported for reactions carried out in open containers at atmospheric pressure — which is how most reactions in the lab and in nature actually happen.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260831_en_06",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "According to Le Chatelier's principle, increasing the pressure on a gaseous equilibrium shifts the reaction towards the side with:",
+      "options": ["A greater number of gas moles", "A smaller number of gas moles", "No effect, since pressure does not affect equilibrium", "Equal moles on both sides always"],
+      "correctAnswer": 1,
+      "explanation": "Le Chatelier's principle states that a system at equilibrium responds to a change in conditions in a way that partially counteracts that change. Increasing pressure effectively decreases the system's volume, so the equilibrium shifts towards the side with fewer moles of gas, since fewer gas particles occupy less volume and partially relieve the increased pressure. For example, in N₂ + 3H₂ ⇌ 2NH₃, increasing pressure favors the forward reaction (2 moles of NH₃ from 4 moles of reactant gases), which is exactly why the industrial Haber process runs at high pressure.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 7",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260831_en_07",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "Which cell organelle is often referred to as the 'powerhouse of the cell'?",
+      "options": ["Golgi apparatus", "Mitochondria", "Endoplasmic reticulum", "Lysosome"],
+      "correctAnswer": 1,
+      "explanation": "Mitochondria are called the powerhouse of the cell because they are the main site of aerobic cellular respiration, where glucose-derived molecules are oxidized via the Krebs cycle and electron transport chain to generate ATP, the cell's main energy currency. Mitochondria are unique in having their own circular DNA and ribosomes, letting them synthesize some of their own proteins — a feature that supports the endosymbiotic theory, which proposes mitochondria originated as free-living aerobic bacteria engulfed by an ancestral eukaryotic cell.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260831_en_08",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "In flowering plants, the tissue mainly responsible for the upward conduction of water and dissolved minerals from roots to leaves is:",
+      "options": ["Phloem", "Xylem", "Cambium", "Epidermis"],
+      "correctAnswer": 1,
+      "explanation": "Xylem is the vascular tissue responsible for transporting water and dissolved minerals upward from roots to stem and leaves, mainly through its tracheids and vessel elements — dead, hollow, lignified cells that form continuous tubes. This one-way upward flow is driven mainly by transpiration pull generated at the leaves, combined with the cohesive and adhesive properties of water molecules. Phloem, by contrast, carries out bidirectional transport of food (mainly sucrose) made during photosynthesis, from source tissues (leaves) to sink tissues (roots, fruits, growing parts).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260831_en_09",
+      "subject": "Zoology",
+      "topic": "Cell Cycle and Cell Division",
+      "question": "During which phase of the cell cycle does DNA replication take place?",
+      "options": ["G1 phase", "S phase", "G2 phase", "M phase"],
+      "correctAnswer": 1,
+      "explanation": "Interphase is divided into G1 (cell growth and preparation), S phase (Synthesis, where DNA replication occurs), and G2 (further growth and preparation for division). During S phase, the entire genome is duplicated so that each daughter cell produced after mitosis (M phase) receives an identical, complete set of chromosomes. Cells not actively dividing may exit the cycle into a resting state called G0, from which they can later be signaled to re-enter G1 and eventually reach S phase again.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 10",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260831_en_10",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "Along with actin, which protein plays the key role in generating the force for muscle contraction?",
+      "options": ["Myosin", "Collagen", "Keratin", "Tubulin"],
+      "correctAnswer": 0,
+      "explanation": "Muscle contraction is explained by the sliding filament theory, in which thick myosin filaments and thin actin filaments slide past each other to shorten the muscle fiber. Powered by ATP hydrolysis, myosin heads attach to binding sites on actin, pull them inward in a 'power stroke,' detach, and repeat the cycle rapidly, progressively sliding actin over myosin and shortening the sarcomere. This coordinated cross-bridge cycling between myosin and actin is what converts chemical energy (ATP) into the mechanical force of muscle contraction.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 20",
+      "language": "en"
+    }
+  ]
+}
