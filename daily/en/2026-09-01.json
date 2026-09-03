@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-01",
+  "language": "en",
+  "title": "Daily Dose — 1 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260901_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "Which of the following physical quantities has the same unit as that of work?",
+      "options": ["Power", "Torque", "Momentum", "Force"],
+      "correctAnswer": 1,
+      "explanation": "Work is defined as Force × displacement, giving the SI unit Joule (J) or kg·m²/s². Torque is defined as Force × perpendicular distance, which also has the SI unit N·m or kg·m²/s². Thus, work and torque share the same unit and dimensions [ML²T⁻²].",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 2: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260901_en_02",
+      "subject": "Physics",
+      "topic": "Motion in a Straight Line",
+      "question": "If a particle moves with a uniform velocity of 15 m/s, its acceleration is:",
+      "options": ["15 m/s²", "9.8 m/s²", "0 m/s²", "Infinite"],
+      "correctAnswer": 2,
+      "explanation": "Acceleration is defined as the rate of change of velocity over time (a = Δv/Δt). Since uniform velocity means velocity remains constant over time (Δv = 0), the acceleration of the particle is exactly 0 m/s².",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Straight Line",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260901_en_03",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "What is the SI base unit for measuring the amount of a substance?",
+      "options": ["Gram", "Kilogram", "Mole", "Candela"],
+      "correctAnswer": 2,
+      "explanation": "According to the SI system, the 'mole' (symbol: mol) is the base unit used to measure the amount of substance. One mole contains exactly 6.02214076 × 10²³ elementary entities (Avogadro's number).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260901_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "Who discovered the fundamental subatomic particle 'Neutron'?",
+      "options": ["J.J. Thomson", "Ernest Rutherford", "James Chadwick", "John Dalton"],
+      "correctAnswer": 2,
+      "explanation": "James Chadwick discovered the neutron in 1932 by bombarding a thin sheet of beryllium with alpha particles, observing high-energy neutral radiation which consisted of particles with a mass nearly equal to that of protons.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260901_en_05",
+      "subject": "Botany",
+      "topic": "The Living World",
+      "question": "Which of the following is considered a defining property of living organisms?",
+      "options": ["Growth", "Reproduction", "Metabolism", "Movement"],
+      "correctAnswer": 2,
+      "explanation": "Metabolism is a defining feature of all living organisms without exception, as no non-living object exhibits metabolism. Growth and reproduction have exceptions (e.g., non-living things can grow by accretion, and sterile organisms like mules do not reproduce).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 1: The Living World",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260901_en_06",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "Which cell organelle is known as the 'Powerhouse of the Cell'?",
+      "options": ["Golgi apparatus", "Mitochondria", "Lysosome", "Endoplasmic Reticulum"],
+      "correctAnswer": 1,
+      "explanation": "Mitochondria are called the powerhouse of the cell because they produce cellular energy in the form of ATP (Adenosine Triphosphate) through aerobic respiration.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260901_en_07",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "Which phylum of the animal kingdom is characterized by the presence of a water vascular system?",
+      "options": ["Porifera", "Coelenterata", "Echinodermata", "Mollusca"],
+      "correctAnswer": 2,
+      "explanation": "Echinoderms (e.g., starfish) possess a distinctive water vascular system that aids in locomotion, capture and transport of food, and respiration.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260901_en_08",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "Animals with a true body cavity completely lined by mesoderm are called:",
+      "options": ["Acoelomates", "Pseudocoelomates", "Coelomates", "Hemicoelomates"],
+      "correctAnswer": 2,
+      "explanation": "Coelomates are organisms that possess a true coelom, which is a fluid-filled body cavity completely lined by mesodermal tissue (e.g., Annelids, Arthropods, Chordates).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260901_en_09",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "The number of significant figures in the measured value 0.005020 is:",
+      "options": ["2", "3", "4", "6"],
+      "correctAnswer": 2,
+      "explanation": "Leading zeros before the first non-zero digit are not significant. Non-zero digits (5, 2) and trailing zeros after a decimal point are significant. Hence, digits 5, 0, 2, and 0 give a total of 4 significant figures.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 2: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260901_en_10",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "The empirical formula of glucose (C₆H₁₂O₆) is:",
+      "options": ["CHO", "CH₂O", "C₂H₄O₂", "CH₃O"],
+      "correctAnswer": 1,
+      "explanation": "The empirical formula represents the simplest whole-number ratio of atoms in a compound. For glucose (C₆H₁₂O₆), dividing the atom subscripts (6, 12, 6) by their greatest common divisor 6 yields the ratio 1:2:1, resulting in CH₂O.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    }
+  ]
+}
