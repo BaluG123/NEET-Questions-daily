@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-07",
+  "language": "hi",
+  "title": "दैनिक खुराक — 7 सित 2026",
+  "questions": [
+    {
+      "id": "daily_20260907_hi_01",
+      "subject": "Physics",
+      "topic": "ठोसों के यांत्रिक गुण",
+      "question": "हुक का नियम (Hooke's Law) कहता है कि प्रत्यास्थता सीमा के भीतर, प्रतिबल (Stress) किसके सीधे समानुपाती होता है?",
+      "options": ["विकृति (Strain)", "दाब", "क्षेत्रफल", "आयतन"],
+      "correctAnswer": 0,
+      "explanation": "हुक के नियम के अनुसार अल्प विरूपण के लिए: प्रतिबल ∝ विकृति (प्रतिबल / विकृति = प्रत्यास्थता गुणांक)।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 9",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260907_hi_02",
+      "subject": "Physics",
+      "topic": "तरलों के यांत्रिकी गुण",
+      "question": "पास्कल का नियम (Pascal's Law) किस उपकरण का मुख्य कार्य सिद्धांत है?",
+      "options": ["द्रवचालित लिफ्ट (Hydraulic Lift)", "वायुदाबमापी (Barometer)", "तापमापी (Thermometer)", "साइफन"],
+      "correctAnswer": 0,
+      "explanation": "द्रवचालित लिफ्ट और हाइड्रोलिक ब्रेक पास्कल के नियम पर आधारित हैं, जो बताता है कि बंद द्रव पर डाला गया दाब सभी दिशाओं में समान रूप से संचारित होता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 10",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260907_hi_03",
+      "subject": "Chemistry",
+      "topic": "हाइड्रोकार्बन",
+      "question": "प्राकृतिक गैस / बायोगास का मुख्य घटक कौन सी गैस है?",
+      "options": ["एथेन", "मेथेन (Methane)", "प्रोपेन", "ब्यूटेन"],
+      "correctAnswer": 1,
+      "explanation": "प्राकृतिक गैस तथा बायोगैस में मुख्य रूप से मेथेन (CH₄) पाई जाती है (लगभग 75-90%)।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 13",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260907_hi_04",
+      "subject": "Chemistry",
+      "topic": "हाइड्रोकार्बन",
+      "question": "ऐल्केन (Alkanes) मुख्य रूप से किस प्रकार की अभिक्रिया प्रदर्शित करते हैं?",
+      "options": ["योगात्मक अभिक्रिया", "मुक्त मूलक प्रतिस्थापन अभिक्रिया", "इलेक्ट्रॉनरागी योग", "नाभिकरागी प्रतिस्थापन"],
+      "correctAnswer": 1,
+      "explanation": "ऐल्केन संतृप्त हाइड्रोकार्बन होते हैं और पराबैंगनी प्रकाश की उपस्थिति में मुख्य रूप से मुक्त मूलक प्रतिस्थापन अभिक्रियाएँ करते हैं।",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 13",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260907_hi_05",
+      "subject": "Botany",
+      "topic": "उच्च पादपों में प्रकाश-संश्लेषण",
+      "question": "हरितलवक (Chloroplast) में प्रकाश-संश्लेषण की 'प्रकाशिक अभिक्रिया' (Light reaction) कहाँ संपन्न होती है?",
+      "options": ["पीठिका (Stroma)", "थाइलेकॉइड / ग्रेना", "बाहरी झिल्ली", "मैट्रिक्स"],
+      "correctAnswer": 1,
+      "explanation": "प्रकाशिक अभिक्रिया थाइलेकॉइड/ग्रेना में होती है जहाँ वर्णक प्रकाश का अवशोषण करते हैं, जबकि अप्रकाशिक अभिक्रिया स्ट्रोमा में होती है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 13",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260907_hi_06",
+      "subject": "Botany",
+      "topic": "पादप में श्वसन",
+      "question": "ग्लाइकोलिसिस (Glycolysis) के दौरान प्रति ग्लूकोज अणु शुद्ध (Net) कितने ATP अणुओं का लाभ होता है?",
+      "options": ["2 ATP", "4 ATP", "36 ATP", "38 ATP"],
+      "correctAnswer": 0,
+      "explanation": "ग्लाइकोलिसिस प्रक्रिया में कुल 4 ATP बनते हैं और 2 ATP का उपयोग होता है, अतः शुद्ध लाभ 2 ATP का होता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 14",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260907_hi_07",
+      "subject": "Zoology",
+      "topic": "गमन एवं संचलन",
+      "question": "कंकाल पेशी के पतले तंतु (Thin filament) का निर्माण मुख्य रूप से किस प्रोटीन से होता है?",
+      "options": ["मायोसिन", "ऐक्टिन (Actin)", "कोलेजन", "ट्यूबुलिन"],
+      "correctAnswer": 1,
+      "explanation": "ऐक्टिन प्रोटीन पतले तंतु बनाती है, जबकि मायोसिन प्रोटीन मोटे तंतु (Thick filaments) का निर्माण करती है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 20",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260907_hi_08",
+      "subject": "Zoology",
+      "topic": "तंत्रिकीय नियंत्रण एवं समन्वय",
+      "question": "मानव मस्तिष्क का कौन सा भाग शरीर के तापमान, भूख और प्यास का नियंत्रण करता है?",
+      "options": ["अनुमस्तिष्क (Cerebellum)", "हाइपोथैलेमस", "मेड्यूला ऑबलोंगेटा", "थैलेमस"],
+      "correctAnswer": 1,
+      "explanation": "हाइपोथैलेमस में शरीर का तापमान, भूख तथा प्यास को नियंत्रित करने वाले केंद्र होते हैं।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 21",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260907_hi_09",
+      "subject": "Physics",
+      "topic": "दोलन",
+      "question": "सरल लोलक का आवर्तकाल T = 2π √(L/g) होता है। यदि लंबाई L को 4 गुना बढ़ा दिया जाए, तो आवर्तकाल कितना हो जाएगा?",
+      "options": ["2 गुना", "4 गुना", "1/2 गुना", "अपरिवर्तित"],
+      "correctAnswer": 0,
+      "explanation": "आवर्तकाल T ∝ √L होता है। लंबाई को 4L करने पर √4 = 2, जिससे आवर्तकाल 2 गुना हो जाता है।",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 14",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260907_hi_10",
+      "subject": "Chemistry",
+      "topic": "रासायनिक आबंधन तथा आण्विक संरचना",
+      "question": "मेथेन (CH₄) अणु में किस प्रकार का संकरण (Hybridization) पाया जाता है?",
+      "options": ["sp", "sp²", "sp³", "sp³d"],
+      "correctAnswer": 2,
+      "explanation": "मेथेन में कार्बन परमाणु 4 सिग्मा बंध बनाता है, जिससे यह sp³ संकरित होकर चतुष्फलकीय (Tetrahedral) आकृति बनाता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 4",
+      "language": "hi"
+    }
+  ]
+}
