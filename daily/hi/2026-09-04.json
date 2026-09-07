@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-04",
+  "language": "hi",
+  "title": "दैनिक खुराक — 4 सित 2026",
+  "questions": [
+    {
+      "id": "daily_20260904_hi_01",
+      "subject": "Physics",
+      "topic": "मात्रक एवं मापन",
+      "question": "निम्नलिखित में से कौन सा एक मूल SI मात्रक (Fundamental SI Unit) है?",
+      "options": ["न्यूटन", "जूल", "ऐम्पियर", "वाट"],
+      "correctAnswer": 2,
+      "explanation": "ऐम्पियर (A) विद्युत धारा को मापने का मूल SI मात्रक है। न्यूटन, जूल और वाट व्युत्पन्न मात्रक (Derived units) हैं।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 2",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260904_hi_02",
+      "subject": "Physics",
+      "topic": "सरल रेखा में गति",
+      "question": "जब किसी कण को लंबवत ऊपर की ओर फेंका जाता है, तो उच्चतम बिंदु पर इसका वेग क्या होता है?",
+      "options": ["9.8 m/s", "0 m/s", "अधिकतम वेग", "अनंत"],
+      "correctAnswer": 1,
+      "explanation": "उच्चतम बिंदु पर पहुँचकर वस्तु क्षणभर के लिए विराम में आती है, इसलिए इसका तात्क्षणिक वेग 0 m/s हो जाता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 3",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260904_hi_03",
+      "subject": "Chemistry",
+      "topic": "रसायन विज्ञान की कुछ मूल अवधारणाएँ",
+      "question": "जल (H₂O) का मोलर द्रव्यमान कितना होता है?",
+      "options": ["16 g/mol", "18 g/mol", "20 g/mol", "32 g/mol"],
+      "correctAnswer": 1,
+      "explanation": "जल का मोलर द्रव्यमान = 2(H का परमाणु भार) + 1(O का परमाणु भार) = 2(1) + 16 = 18 g/mol।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 1",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260904_hi_04",
+      "subject": "Chemistry",
+      "topic": "परमाणु की संरचना",
+      "question": "जे. जे. थॉमसन ने किस अपरमाणुक कण की खोज की थी?",
+      "options": ["प्रोटॉन", "न्यूट्रॉन", "इलेक्ट्रॉन", "पॉज़िट्रॉन"],
+      "correctAnswer": 2,
+      "explanation": "जे. जे. थॉमसन ने 1897 में कैथोड किरण प्रयोगों के माध्यम से इलेक्ट्रॉन की खोज की थी।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 2",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260904_hi_05",
+      "subject": "Botany",
+      "topic": "कोशिका: जीवन की इकाई",
+      "question": "किस कोशिकांग को 'कोशिका का बिजलीघर' (Powerhouse of the cell) कहा जाता है?",
+      "options": ["गॉल्जी काय", "अंतर्द्रव्यी जालिका", "माइटोकॉन्ड्रिया", "केंद्रिक (Nucleolus)"],
+      "correctAnswer": 2,
+      "explanation": "माइटोकॉन्ड्रिया एटीपी (ATP) के रूप में कोशिकीय ऊर्जा का निर्माण करता है, इसलिए इसे बिजलीघर कहते हैं।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 8",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260904_hi_06",
+      "subject": "Botany",
+      "topic": "जीव जगत का वर्गीकरण",
+      "question": "पांच जगत वर्गीकरण (Five Kingdom Classification) प्रणाली किसने प्रतिपादित की थी?",
+      "options": ["कार्ल लीनियस", "आर. एच. विह्टेकर", "अर्नेस्ट हैकेल", "रॉबर्ट ब्राउन"],
+      "correctAnswer": 1,
+      "explanation": "आर. एच. विह्टेकर (1969) ने पांच जगत वर्गीकरण: मोनेरा, प्रोटिस्टा, फंजाई, प्लांटी और एनीमेलिया का प्रस्ताव दिया।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 2",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260904_hi_07",
+      "subject": "Zoology",
+      "topic": "प्राणी जगत",
+      "question": "जल संवहन तंत्र (Water vascular system) किस संघ के जीवों की मुख्य विशेषता है?",
+      "options": ["पोरीफेरा", "मोलस्का", "इकाईनोडेर्मेटा", "सिलेंट्रेटा"],
+      "correctAnswer": 2,
+      "explanation": "जल संवहन तंत्र इकाईनोडेर्म्स की विशिष्ट पहचान है, जो गमन, भोजन पकड़ने और श्वसन में मदद करता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 4",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260904_hi_08",
+      "subject": "Zoology",
+      "topic": "प्राणियों में संरचनात्मक संगठन",
+      "question": "अस्थि (Bone) को पेशी (Muscle) से जोड़ने वाला ऊतक कौन सा है?",
+      "options": ["स्नायु (Ligament)", "कंडरा (Tendon)", "उपस्थि (Cartilage)", "वसा ऊतक (Adipose)"],
+      "correctAnswer": 1,
+      "explanation": "कंडरा (Tendon) कंकाल पेशियों को अस्थियों से जोड़ती है। स्नायु (Ligament) अस्थि को अस्थि से जोड़ता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 7",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260904_hi_09",
+      "subject": "Physics",
+      "topic": "समतल में गति",
+      "question": "प्रक्षेप्य गति (Projectile motion) में अधिकतम क्षैतिज परास (Maximum Horizontal Range) के लिए प्रक्षेप कोण क्या होना चाहिए?",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctAnswer": 1,
+      "explanation": "क्षैतिज परास R = (u² sin 2θ) / g होता है। यह 45° पर अधिकतम होता है क्योंकि sin(90°) = 1।",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 4",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260904_hi_10",
+      "subject": "Chemistry",
+      "topic": "तत्वों का वर्गीकरण एवं गुणधर्मों में आवर्तिता",
+      "question": "निम्नलिखित में से किस तत्व की विद्युत ऋणात्मकता (Electronegativity) सबसे अधिक है?",
+      "options": ["ऑक्सीजन", "क्लोरीन", "फ्लुओरीन", "नाइट्रोजन"],
+      "correctAnswer": 2,
+      "explanation": "आवर्त सारणी में फ्लुओरीन (F) सबसे अधिक विद्युत ऋणात्मक तत्व है (पॉलिंग पैमाने पर मान 4.0)।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 3",
+      "language": "hi"
+    }
+  ]
+}
