@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-06",
+  "language": "hi",
+  "title": "दैनिक खुराक — 6 सित 2026",
+  "questions": [
+    {
+      "id": "daily_20260906_hi_01",
+      "subject": "Physics",
+      "topic": "कणों के निकाय तथा घूर्णी गति",
+      "question": "रेखीय गति में जो भूमिका 'द्रव्यमान' की होती है, घूर्णन गति में वही भूमिका किसकी होती है?",
+      "options": ["कोणीय संवेग", "बल आघूर्ण", "जड़त्व आघूर्ण (Moment of Inertia)", "कोणीय वेग"],
+      "correctAnswer": 2,
+      "explanation": "जड़त्व आघूर्ण (I) घूर्णी गति में परिवर्तन का विरोध करता है, जो रेखीय गति में द्रव्यमान (m) के समान कार्य करता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 7",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260906_hi_02",
+      "subject": "Physics",
+      "topic": "गुरुत्वाकर्षण",
+      "question": "पृथ्वी की सतह से ऊपर जाने पर गुरुत्वीय त्वरण (g) के मान पर क्या प्रभाव पड़ता है?",
+      "options": ["बढ़ता है", "घटता है", "अपरिवर्तित रहता है", "पहले बढ़ता है फिर घटता है"],
+      "correctAnswer": 1,
+      "explanation": "ऊंचाई h बढ़ने पर सूत्र g' = g / (1 + h/R)² के अनुसार g का मान घटता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 8",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260906_hi_03",
+      "subject": "Chemistry",
+      "topic": "साम्यावस्था",
+      "question": "25°C पर शुद्ध उदासीन जल का pH मान कितना होता है?",
+      "options": ["0", "7", "14", "1"],
+      "correctAnswer": 1,
+      "explanation": "25°C ताप पर शुद्ध जल में [H⁺] = 10⁻⁷ M होता है, जिससे pH = -log(10⁻⁷) = 7 आता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 7",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260906_hi_04",
+      "subject": "Chemistry",
+      "topic": "अपचयोपचय अभिक्रियाएँ (Redox Reactions)",
+      "question": "अभिक्रिया Zn + Cu²⁺ → Zn²⁺ + Cu में किस पदार्थ का ऑक्सीकरण होता है?",
+      "options": ["Zn", "Cu²⁺", "Zn²⁺", "Cu"],
+      "correctAnswer": 0,
+      "explanation": "जिंक (Zn) 2 इलेक्ट्रॉन त्यागता है (ऑक्सीकरण संख्या 0 से +2 हो जाती है), अतः Zn का ऑक्सीकरण होता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 8",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260906_hi_05",
+      "subject": "Botany",
+      "topic": "पुष्पी पादपों की आकारिकी",
+      "question": "मूलांकुर (Radicle) के अलावा पौधे के किसी अन्य भाग से विकसित होने वाली जड़ों को क्या कहते हैं?",
+      "options": ["मूसला जड़ें", "अपस्थानिक मूल (Adventitious roots)", "झकड़ा मूल", "श्वसन मूल"],
+      "correctAnswer": 1,
+      "explanation": "मूलांकुर को छोड़कर पौधे के किसी भी अन्य भाग से निकलने वाली जड़ों को अपस्थानिक मूल कहते हैं (जैसे बरगद में)।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 5",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260906_hi_06",
+      "subject": "Botany",
+      "topic": "पुष्पी पादपों का शारीर",
+      "question": "पौधों में जड़ों से पत्तियों तक जल और खनिजों का परिवहन कौन सा ऊतक करता है?",
+      "options": ["फ्लोएम", "जाइलम (Xylem)", "कैम्बियम", "मज्जा (Pith)"],
+      "correctAnswer": 1,
+      "explanation": "जाइलम एक जटिल स्थायी ऊतक है जो जल एवं खनिज लवणों का संवहन करता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 6",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260906_hi_07",
+      "subject": "Zoology",
+      "topic": "शरीर द्रव तथा परिसंचरण",
+      "question": "मानव रक्त में पाई जाने वाली कौन सी कोशिकाएँ थक्का (Clotting) बनाने के लिए जिम्मेदार हैं?",
+      "options": ["लाल रक्त कणिकाएं", "श्वेत रक्त कणिकाएं", "पट्टिकाणु (Thrombocytes/Platelets)", "मोनोसाइट्स"],
+      "correctAnswer": 2,
+      "explanation": "पट्टिकाणु (Platelets) ऐसे कारक स्रावित करते हैं जो रक्त का थक्का ज़माने में मदद करते हैं।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 18",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260906_hi_08",
+      "subject": "Zoology",
+      "topic": "उत्सर्जी उत्पाद एवं उनका निष्कासन",
+      "question": "मानव वृक्क (Kidney) की संरचनात्मक एवं कार्यात्मक इकाई को क्या कहते हैं?",
+      "options": ["न्यूरॉन", "वृक्काणु (Nephron)", "केशिकागुच्छ (Glomerulus)", "मूत्रवाहिनी"],
+      "correctAnswer": 1,
+      "explanation": "प्रत्येक वृक्क में लगभग 10 लाख नलिकाकार संरचनाएँ पाई जाती हैं जिन्हें नेफ्रॉन (वृक्काणु) कहते हैं।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 19",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260906_hi_09",
+      "subject": "Physics",
+      "topic": "कार्य, ऊर्जा और शक्ति",
+      "question": "यदि किसी पिंड का वेग दोगुना कर दिया जाए, तो उसकी गतिज ऊर्जा कितने गुना हो जाएगी?",
+      "options": ["2 गुना", "4 गुना", "8 गुना", "आधी"],
+      "correctAnswer": 1,
+      "explanation": "गतिज ऊर्जा KE = 1/2 m v² होती है। v को 2v करने पर KE ∝ v² के नियम से (2)² = 4 गुना हो जाती है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 6",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260906_hi_10",
+      "subject": "Chemistry",
+      "topic": "कार्बनिक रसायन - कुछ आधारभूत सिद्धांत तथा तकनीकें",
+      "question": "आक्रमणकारी अभिकर्मक की उपस्थिति में π-इलेक्ट्रॉन युग्म का पूर्ण स्थानांतरण क्या कहलाता है?",
+      "options": ["प्रेरणिक प्रभाव (Inductive effect)", "इलेक्ट्रोमेरी प्रभाव (Electromeric effect)", "अनुनाद प्रभाव", "अतिसंयुग्मन"],
+      "correctAnswer": 1,
+      "explanation": "इलेक्ट्रोमेरी प्रभाव एक अस्थायी प्रभाव है जो केवल अभिकर्मक की उपस्थिति में π-इलेक्ट्रॉनों का स्थानांतरण करता है।",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 12",
+      "language": "hi"
+    }
+  ]
+}
