@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-07",
+  "language": "en",
+  "title": "Daily Dose — 7 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260907_en_01",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Solids",
+      "question": "Hooke's Law states that within elastic limits, stress is directly proportional to:",
+      "options": ["Strain", "Pressure", "Area", "Volume"],
+      "correctAnswer": 0,
+      "explanation": "Hooke's Law states that for small deformations, Stress ∝ Strain (Stress / Strain = Young's Modulus).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 9: Mechanical Properties of Solids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260907_en_02",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Fluids",
+      "question": "Pascal's Law is the underlying principle behind which device?",
+      "options": ["Hydraulic lift", "Barometer", "Thermometer", "Siphon"],
+      "correctAnswer": 0,
+      "explanation": "Hydraulic lifts and hydraulic brakes work on Pascal's law, which states that pressure applied to an enclosed fluid is transmitted equally in all directions.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 10: Mechanical Properties of Fluids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260907_en_03",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "Which gas is the chief component of Natural Gas / Biogas?",
+      "options": ["Ethane", "Methane", "Propane", "Butane"],
+      "correctAnswer": 1,
+      "explanation": "Methane (CH₄) accounts for over 75-90% of natural gas and is the principal constituent of biogas.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 13: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260907_en_04",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "What type of reaction do alkanes predominantly undergo?",
+      "options": ["Addition reaction", "Free radical substitution reaction", "Electrophilic addition", "Nucleophilic substitution"],
+      "correctAnswer": 1,
+      "explanation": "Alkanes are saturated hydrocarbons and primarily undergo free radical substitution reactions (e.g., halogenation in presence of UV light).",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 13: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260907_en_05",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "Where does the light reaction of photosynthesis take place in chloroplasts?",
+      "options": ["Stroma", "Thylakoid / Grana", "Outer membrane", "Matrix"],
+      "correctAnswer": 1,
+      "explanation": "Light reactions occur in the thylakoid membrane/grana where photosynthetic pigments absorb light energy, whereas dark reactions occur in the stroma.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 13: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260907_en_06",
+      "subject": "Botany",
+      "topic": "Respiration in Plants",
+      "question": "What is the net gain of ATP molecules produced during glycolysis per molecule of glucose?",
+      "options": ["2 ATP", "4 ATP", "36 ATP", "38 ATP"],
+      "correctAnswer": 0,
+      "explanation": "Glycolysis consumes 2 ATP molecules and yields 4 ATP molecules directly, resulting in a net gain of 2 ATP per glucose molecule.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 14: Respiration in Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260907_en_07",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "Which protein forms the 'thin filament' of a skeletal muscle myofibril?",
+      "options": ["Myosin", "Actin", "Collagen", "Tubulin"],
+      "correctAnswer": 1,
+      "explanation": "Actin filaments form the thin filaments, while myosin forms the thick filaments of muscle myofibrils.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 20: Locomotion and Movement",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260907_en_08",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "Which part of the human brain controls body temperature, hunger, and thirst?",
+      "options": ["Cerebellum", "Hypothalamus", "Medulla oblongata", "Thalamus"],
+      "correctAnswer": 1,
+      "explanation": "The hypothalamus contains centers for controlling body temperature, urge for eating (hunger), and drinking (thirst).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 21: Neural Control and Coordination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260907_en_09",
+      "subject": "Physics",
+      "topic": "Oscillations",
+      "question": "The time period of a simple pendulum of length L is given by T = 2π √(L/g). If length becomes 4 times, its time period becomes:",
+      "options": ["2 times", "4 times", "1/2 times", "Unchanged"],
+      "correctAnswer": 0,
+      "explanation": "Time period T is directly proportional to √L. If L becomes 4L, √4 = 2, so the time period doubles.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 14: Oscillations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260907_en_10",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "Which type of hybridization is present in a methane (CH₄) molecule?",
+      "options": ["sp", "sp²", "sp³", "sp³d"],
+      "correctAnswer": 2,
+      "explanation": "In CH₄, Carbon forms 4 single sigma bonds with hydrogen atoms, adopting sp³ hybridization with a tetrahedral shape (109.5°).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding",
+      "language": "en"
+    }
+  ]
+}
