@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-05",
+  "language": "en",
+  "title": "Daily Dose — 5 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260905_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "Newton's First Law of Motion defines which physical concept?",
+      "options": ["Force", "Inertia", "Momentum", "Work"],
+      "correctAnswer": 1,
+      "explanation": "Newton's First Law is also known as the Law of Inertia, stating that a body remains at rest or in uniform motion unless acted upon by an external force.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260905_en_02",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "SI unit of linear momentum is:",
+      "options": ["kg m/s²", "kg m/s", "N s⁻¹", "J s"],
+      "correctAnswer": 1,
+      "explanation": "Momentum (p) = mass × velocity. Mass is in kg and velocity in m/s, yielding the SI unit kg m/s.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260905_en_03",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "Which of the following molecules has a linear shape according to VSEPR theory?",
+      "options": ["H₂O", "CO₂", "NH₃", "CH₄"],
+      "correctAnswer": 1,
+      "explanation": "CO₂ has two double bonds around central Carbon with zero lone pairs, giving it a sp-hybridized linear geometry (180°).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260905_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The total number of orbitals in a subshell with azimuthal quantum number l = 2 is:",
+      "options": ["3", "5", "7", "1"],
+      "correctAnswer": 1,
+      "explanation": "Number of orbitals in a subshell = (2l + 1). For l = 2 (d-subshell), number of orbitals = 2(2) + 1 = 5.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260905_en_05",
+      "subject": "Botany",
+      "topic": "Plant Kingdom",
+      "question": "Algae containing chlorophyll a, c, and fucoxanthin belong to which class?",
+      "options": ["Chlorophyceae", "Phaeophyceae", "Rhodophyceae", "Cyanophyceae"],
+      "correctAnswer": 1,
+      "explanation": "Brown algae (Phaeophyceae) contain chlorophyll a, c, carotenoids, and the brown pigment fucoxanthin.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 3: Plant Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260905_en_06",
+      "subject": "Botany",
+      "topic": "Cell Cycle and Cell Division",
+      "question": "In which stage of mitosis do chromosomes align at the equatorial plate?",
+      "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+      "correctAnswer": 1,
+      "explanation": "During Metaphase, chromosomes assemble at the equator (metaphase plate) attached via spindle fibers to their kinetochores.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 10: Cell Cycle and Cell Division",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260905_en_07",
+      "subject": "Zoology",
+      "topic": "Biomolecules",
+      "question": "Which nitrogenous base is present in RNA but absent in DNA?",
+      "options": ["Adenine", "Guanine", "Uracil", "Thymine"],
+      "correctAnswer": 2,
+      "explanation": "RNA contains Uracil (U) instead of Thymine (T), which is present in DNA.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 9: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260905_en_08",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "What is the primary site of gaseous exchange in human lungs?",
+      "options": ["Trachea", "Bronchi", "Alveoli", "Larynx"],
+      "correctAnswer": 2,
+      "explanation": "Alveoli are tiny thin-walled vascularized structures that serve as the primary site for oxygen and CO₂ exchange.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Breathing and Exchange of Gases",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260905_en_09",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "Work done by a force is zero when the angle between force and displacement is:",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correctAnswer": 2,
+      "explanation": "Work W = F · s cos θ. When θ = 90°, cos 90° = 0, so work done is zero (e.g., centripetal force).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260905_en_10",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "For an isolated system, the change in internal energy (ΔU) during any process is:",
+      "options": ["Greater than 0", "Less than 0", "Equal to 0", "Variable"],
+      "correctAnswer": 2,
+      "explanation": "An isolated system exchanges neither energy nor matter with surroundings, so q = 0 and w = 0, making ΔU = 0.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Thermodynamics",
+      "language": "en"
+    }
+  ]
+}
