@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-04",
+  "language": "en",
+  "title": "Daily Dose — 4 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260904_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "Which of the following is a fundamental SI unit?",
+      "options": ["Newton", "Joule", "Ampere", "Watt"],
+      "correctAnswer": 2,
+      "explanation": "Ampere (A) is one of the seven basic fundamental SI units used to measure electric current. Newton, Joule, and Watt are derived units.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 2: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260904_en_02",
+      "subject": "Physics",
+      "topic": "Motion in a Straight Line",
+      "question": "When a particle is thrown vertically upwards, what is its velocity at the highest point?",
+      "options": ["9.8 m/s", "0 m/s", "Maximum velocity", "Infinite"],
+      "correctAnswer": 1,
+      "explanation": "At the peak of its trajectory, a vertically thrown object momentarily comes to rest before descending, making its instantaneous velocity equal to 0 m/s.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Straight Line",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260904_en_03",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "What is the molar mass of water (H₂O)?",
+      "options": ["16 g/mol", "18 g/mol", "20 g/mol", "32 g/mol"],
+      "correctAnswer": 1,
+      "explanation": "Molar mass of H₂O = 2(Atomic mass of H) + 1(Atomic mass of O) = 2(1.008) + 16.00 ≈ 18 g/mol.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260904_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "Which subatomic particle was discovered by J.J. Thomson?",
+      "options": ["Proton", "Neutron", "Electron", "Positron"],
+      "correctAnswer": 2,
+      "explanation": "J.J. Thomson discovered the electron in 1897 through his cathode ray tube experiments.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260904_en_05",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "Which organelle is known as the powerhouse of the cell?",
+      "options": ["Golgi apparatus", "Endoplasmic reticulum", "Mitochondria", "Nucleolus"],
+      "correctAnswer": 2,
+      "explanation": "Mitochondria produce cellular energy in the form of ATP via aerobic respiration, hence called the powerhouses of the cell.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260904_en_06",
+      "subject": "Botany",
+      "topic": "Biological Classification",
+      "question": "In Five Kingdom Classification, who proposed the system?",
+      "options": ["Carl Linnaeus", "R.H. Whittaker", "Ernst Haeckel", "Robert Brown"],
+      "correctAnswer": 1,
+      "explanation": "R.H. Whittaker (1969) proposed the Five Kingdom Classification: Monera, Protista, Fungi, Plantae, and Animalia.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 2: Biological Classification",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260904_en_07",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "Which phylum consists of organisms with a water vascular system?",
+      "options": ["Porifera", "Mollusca", "Echinodermata", "Coelenterata"],
+      "correctAnswer": 2,
+      "explanation": "The water vascular system is a distinctive feature of echinoderms, helping in locomotion, capture and transport of food, and respiration.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260904_en_08",
+      "subject": "Zoology",
+      "topic": "Structural Organisation in Animals",
+      "question": "Which type of tissue connects bone to muscle?",
+      "options": ["Ligament", "Tendon", "Cartilage", "Adipose"],
+      "correctAnswer": 1,
+      "explanation": "Tendons are dense regular connective tissues that attach skeletal muscles to bones. Ligaments connect bone to bone.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 7: Structural Organisation in Animals",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260904_en_09",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "What is the angle of projection for maximum horizontal range in projectile motion?",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctAnswer": 1,
+      "explanation": "Horizontal range R = (u² sin 2θ) / g. Range is maximum when sin 2θ = 1, which implies 2θ = 90°, so θ = 45°.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260904_en_10",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "Which of the following elements has the highest electronegativity?",
+      "options": ["Oxygen", "Chlorine", "Fluorine", "Nitrogen"],
+      "correctAnswer": 2,
+      "explanation": "Fluorine (F) is the most electronegative element in the periodic table, with a value of 4.0 on the Pauling scale.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements",
+      "language": "en"
+    }
+  ]
+}
