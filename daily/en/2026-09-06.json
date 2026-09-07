@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-06",
+  "language": "en",
+  "title": "Daily Dose — 6 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260906_en_01",
+      "subject": "Physics",
+      "topic": "System of Particles and Rotational Motion",
+      "question": "The rotational analogue of mass in linear motion is:",
+      "options": ["Angular momentum", "Torque", "Moment of inertia", "Angular velocity"],
+      "correctAnswer": 2,
+      "explanation": "Moment of inertia (I) resists changes in rotational motion, performing the exact same role as mass (m) in translational motion.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 7: System of Particles and Rotational Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260906_en_02",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "How does acceleration due to gravity (g) change as we move above the surface of Earth?",
+      "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"],
+      "correctAnswer": 1,
+      "explanation": "Acceleration due to gravity g' = g / (1 + h/R)². As height h increases, g decreases.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 8: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260906_en_03",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "What is the pH of pure neutral water at 25°C?",
+      "options": ["0", "7", "14", "1"],
+      "correctAnswer": 1,
+      "explanation": "At 25°C, [H⁺] = 10⁻⁷ M in pure water. Therefore, pH = -log(10⁻⁷) = 7.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 7: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260906_en_04",
+      "subject": "Chemistry",
+      "topic": "Redox Reactions",
+      "question": "In the reaction Zn + Cu²⁺ → Zn²⁺ + Cu, which species undergoes oxidation?",
+      "options": ["Zn", "Cu²⁺", "Zn²⁺", "Cu"],
+      "correctAnswer": 0,
+      "explanation": "Zinc loses 2 electrons (oxidation state goes from 0 to +2), so Zn undergoes oxidation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Redox Reactions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260906_en_05",
+      "subject": "Botany",
+      "topic": "Morphology of Flowering Plants",
+      "question": "Roots that arise from parts of the plant other than the radicle are termed as:",
+      "options": ["Tap roots", "Adventitious roots", "Fibrous roots", "Pneumatophores"],
+      "correctAnswer": 1,
+      "explanation": "Roots developing from any part of the plant other than the embryonic radicle are adventitious roots (e.g., banyan tree, maize).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 5: Morphology of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260906_en_06",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "Which plant tissue is responsible for transport of water and minerals from roots to leaves?",
+      "options": ["Phloem", "Xylem", "Cambium", "Pith"],
+      "correctAnswer": 1,
+      "explanation": "Xylem is a complex permanent tissue that conducts water and dissolved minerals unidirectionally from roots to stems and leaves.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260906_en_07",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "Which cell type in human blood is responsible for clotting?",
+      "options": ["Erythrocytes", "Leukocytes", "Thrombocytes", "Monocytes"],
+      "correctAnswer": 2,
+      "explanation": "Thrombocytes (platelets) release factors essential for blood coagulation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260906_en_08",
+      "subject": "Zoology",
+      "topic": "Excretory Products and their Elimination",
+      "question": "The functional unit of the human kidney is called:",
+      "options": ["Neuron", "Nephron", "Glomerulus", "Ureter"],
+      "correctAnswer": 1,
+      "explanation": "Each human kidney contains roughly 1 million tubular structures called nephrons, which serve as functional filtration units.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Excretory Products",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260906_en_09",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "The kinetic energy of a body becomes how many times if its velocity is doubled?",
+      "options": ["2 times", "4 times", "8 times", "Half"],
+      "correctAnswer": 1,
+      "explanation": "Kinetic Energy KE = 1/2 m v². Since KE is proportional to v², doubling v increases KE by 2² = 4 times.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260906_en_10",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry - Some Basic Principles and Techniques",
+      "question": "Which effect involves complete transfer of a shared pair of π-electrons to one of the atoms in the presence of an attacking reagent?",
+      "options": ["Inductive effect", "Electromeric effect", "Resonance effect", "Hyperconjugation"],
+      "correctAnswer": 1,
+      "explanation": "The electromeric effect (E effect) is a temporary effect operating only in the presence of an attacking reagent involving π-electron transfer.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 12: Organic Chemistry - Basic Principles",
+      "language": "en"
+    }
+  ]
+}
