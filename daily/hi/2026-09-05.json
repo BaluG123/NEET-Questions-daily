@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-05",
+  "language": "hi",
+  "title": "दैनिक खुराक — 5 सित 2026",
+  "questions": [
+    {
+      "id": "daily_20260905_hi_01",
+      "subject": "Physics",
+      "topic": "गति के नियम",
+      "question": "न्यूटन का गति का पहला नियम किस भौतिक अवधारणा को परिभाषित करता है?",
+      "options": ["बल", "जड़त्व (Inertia)", "संवेग", "कार्य"],
+      "correctAnswer": 1,
+      "explanation": "प्रथम नियम को 'जड़त्व का नियम' भी कहा जाता है, जो बताता है कि बाह्य बल के बिना वस्तु अपनी अवस्था नहीं बदलती।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 5",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260905_hi_02",
+      "subject": "Physics",
+      "topic": "गति के नियम",
+      "question": "रेखीय संवेग (Linear momentum) का SI मात्रक क्या है?",
+      "options": ["kg m/s²", "kg m/s", "N s⁻¹", "J s"],
+      "correctAnswer": 1,
+      "explanation": "संवेग (p) = द्रव्यमान (kg) × वेग (m/s) = kg m/s।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 5",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260905_hi_03",
+      "subject": "Chemistry",
+      "topic": "रासायनिक आबंधन तथा आण्विक संरचना",
+      "question": "VSEPR सिद्धांत के अनुसार निम्नलिखित में से किस अणु की आकृति रेखीय (Linear) होती है?",
+      "options": ["H₂O", "CO₂", "NH₃", "CH₄"],
+      "correctAnswer": 1,
+      "explanation": "CO₂ में sp-संकरण होता है तथा एकाकी युग्म (Lone pair) न होने के कारण इसकी आकृति रेखीय (180°) होती है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 4",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260905_hi_04",
+      "subject": "Chemistry",
+      "topic": "परमाणु की संरचना",
+      "question": "द्विगंशी क्वांटम संख्या l = 2 वाले उपकोश में कक्षकों की कुल संख्या कितनी होती है?",
+      "options": ["3", "5", "7", "1"],
+      "correctAnswer": 1,
+      "explanation": "उपकोश में कक्षकों की संख्या = (2l + 1) होती है। l = 2 (d-उपकोश) के लिए कक्षकों की संख्या = 2(2) + 1 = 5 है।",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 2",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260905_hi_05",
+      "subject": "Botany",
+      "topic": "पादप जगत",
+      "question": "क्लोरोफिल a, c और फ्यूकोजैंथिन (Fucoxanthin) युक्त शैवाल किस वर्ग से संबंधित हैं?",
+      "options": ["क्लोरोफाइसी", "फियोफाइसी (भूरे शैवाल)", "रोडोफाइसी", "साइनोफाइसी"],
+      "correctAnswer": 1,
+      "explanation": "भूरे शैवाल (फियोफाइसी) में क्लोरोफिल a, c के साथ फ्यूकोजैंथिन वर्णक पाया जाता है।",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 3",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260905_hi_06",
+      "subject": "Botany",
+      "topic": "कोशिका चक्र और कोशिका विभाजन",
+      "question": "समसूत्री विभाजन (Mitosis) की किस अवस्था में गुणसूत्र मध्यरेखा पट्टिका (Equatorial plate) पर व्यवस्थित होते हैं?",
+      "options": ["पूर्वावस्था (Prophase)", "मध्यावस्था (Metaphase)", "पश्चावस्था (Anaphase)", "अंत्यावस्था (Telophase)"],
+      "correctAnswer": 1,
+      "explanation": "मध्यावस्था (Metaphase) में सभी गुणसूत्र कोशिका के मध्य भाग (Metaphase plate) में एकत्र हो जाते हैं।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 10",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260905_hi_07",
+      "subject": "Zoology",
+      "topic": "जैव अणु",
+      "question": "कौन सा नाइट्रोजन युक्त क्षार (Nitrogenous base) RNA में पाया जाता है लेकिन DNA में अनुपस्थित होता है?",
+      "options": ["ऐडेनीन", "ग्वानीन", "यूरैसेल", "थायमीन"],
+      "correctAnswer": 2,
+      "explanation": "RNA में थायमीन (Thymine) के स्थान पर यूरैसेल (Uracil) पाया जाता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 9",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260905_hi_08",
+      "subject": "Zoology",
+      "topic": "श्वसन और गैसों का विनिमय",
+      "question": "मानव फेफड़ों में गैसों के विनिमय का प्राथमिक स्थल कौन सा है?",
+      "options": ["श्वासप्रणाल (Trachea)", "श्वसनी (Bronchi)", "कूपिकाएँ (Alveoli)", "स्वरयंत्र (Larynx)"],
+      "correctAnswer": 2,
+      "explanation": "वायु कूपिकाएँ (Alveoli) बहुत पतली दीवार वाली संरचनाएँ हैं जहाँ O₂ और CO₂ का विनिमय होता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 17",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260905_hi_09",
+      "subject": "Physics",
+      "topic": "कार्य, ऊर्जा और शक्ति",
+      "question": "बल और विस्थापन के बीच का कोण कितना होने पर किया गया कार्य शून्य होता है?",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correctAnswer": 2,
+      "explanation": "W = F s cos θ। जब कोण θ = 90° होता है, तो cos 90° = 0 होने के कारण कार्य शून्य हो जाता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 6",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260905_hi_10",
+      "subject": "Chemistry",
+      "topic": "ऊष्मागतिकी",
+      "question": "एक विलगित निकाय (Isolated system) के लिए आंतरिक ऊर्जा परिवर्तन (ΔU) का मान क्या होता है?",
+      "options": ["0 से अधिक", "0 से कम", "शून्य (0)", "परिवर्तनशील"],
+      "correctAnswer": 2,
+      "explanation": "विलगित निकाय परिवेश के साथ न तो ऊर्जा और न ही द्रव्य का विनिमय करता है, अतः q = 0, w = 0, जिससे ΔU = 0।",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 6",
+      "language": "hi"
+    }
+  ]
+}
