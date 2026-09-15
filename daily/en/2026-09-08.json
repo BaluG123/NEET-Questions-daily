@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-08",
+  "language": "en",
+  "title": "Daily Dose — 8 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260908_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "Which of the following physical quantities has the dimensional formula [M¹ L² T⁻³]?",
+      "options": ["Work", "Power", "Force", "Pressure"],
+      "correctAnswer": 1,
+      "explanation": "Power = Work / Time = [M¹ L² T⁻²] / [T] = [M¹ L² T⁻³].",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 2: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260908_en_02",
+      "subject": "Physics",
+      "topic": "Motion in a Straight Line",
+      "question": "The area under a Velocity-Time graph represents which physical quantity?",
+      "options": ["Acceleration", "Displacement", "Speed", "Force"],
+      "correctAnswer": 1,
+      "explanation": "The area enclosed under a velocity-time graph gives the total displacement of the body over that time interval.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Straight Line",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260908_en_03",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "What is the molarity of a solution containing 4 grams of NaOH dissolved in 250 mL of solution? (Molar mass of NaOH = 40 g/mol)",
+      "options": ["0.1 M", "0.4 M", "0.2 M", "1.0 M"],
+      "correctAnswer": 1,
+      "explanation": "Moles of NaOH = 4/40 = 0.1 mol. Volume in Liters = 250/1000 = 0.25 L. Molarity = 0.1 / 0.25 = 0.4 M.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260908_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The maximum number of electrons that can be accommodated in a subshell with azimuthal quantum number l = 2 is:",
+      "options": ["2", "6", "10", "14"],
+      "correctAnswer": 2,
+      "explanation": "The maximum number of electrons in a subshell is given by 2(2l + 1). For l = 2 (d subshell), electrons = 2(2(2) + 1) = 10.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260908_en_05",
+      "subject": "Botany",
+      "topic": "The Living World",
+      "question": "Which of the following taxonomic categories includes all the others in hierarchical organization?",
+      "options": ["Genus", "Family", "Order", "Class"],
+      "correctAnswer": 3,
+      "explanation": "Class is a higher category containing one or more related Orders, which in turn contain Families and Genera.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 1: The Living World",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260908_en_06",
+      "subject": "Botany",
+      "topic": "Biological Classification",
+      "question": "Methanogens, Halophiles, and Thermoacidophiles belong to which kingdom/group?",
+      "options": ["Eubacteria", "Archaebacteria", "Protista", "Fungi"],
+      "correctAnswer": 1,
+      "explanation": "Archaebacteria are special bacteria that live in extreme environments, such as halophiles (salty areas) and methanogens (marshy areas).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 2: Biological Classification",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260908_en_07",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "Which phylum is characterized by the presence of a water vascular system?",
+      "options": ["Porifera", "Coelenterata", "Echinodermata", "Mollusca"],
+      "correctAnswer": 2,
+      "explanation": "Echinoderms possess a unique water vascular system that helps in locomotion, capture/transport of food, and respiration.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260908_en_08",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "Which brain structure primarily regulates the respiratory rhythm rate?",
+      "options": ["Cerebellum", "Medulla oblongata", "Pons varolii", "Hypothalamus"],
+      "correctAnswer": 1,
+      "explanation": "A specialized center called the respiratory rhythm center in the medulla region of the brain is primarily responsible for regulating respiration.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Breathing and Exchange of Gases",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260908_en_09",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "An object of mass 2 kg moves with a constant velocity of 5 m/s. What is the net external force acting on it?",
+      "options": ["10 N", "2.5 N", "0 N", "5 N"],
+      "correctAnswer": 2,
+      "explanation": "According to Newton's First Law, if velocity is constant, acceleration is 0. Therefore, Net Force = mass × acceleration = 0 N.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260908_en_10",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "Which of the following elements has the highest negative electron gain enthalpy?",
+      "options": ["Fluorine", "Chlorine", "Bromine", "Iodine"],
+      "correctAnswer": 1,
+      "explanation": "Chlorine has the highest negative electron gain enthalpy because Fluorine has a very compact 2p subshell causing inter-electronic repulsions.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    }
+  ]
+}
