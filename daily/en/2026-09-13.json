@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-13",
+  "language": "en",
+  "title": "Daily Dose — 13 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260913_en_01",
+      "subject": "Physics",
+      "topic": "Dual Nature of Radiation and Matter",
+      "question": "The de Broglie wavelength λ associated with a particle of momentum p is given by:",
+      "options": ["λ = hp", "λ = h / p", "λ = p / h", "λ = h / p²"],
+      "correctAnswer": 1,
+      "explanation": "According to de Broglie hypothesis, matter wavelength λ = h / p.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 11: Dual Nature of Radiation and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260913_en_02",
+      "subject": "Physics",
+      "topic": "Atoms",
+      "question": "In Bohr's atomic model, angular momentum of an electron in a stable orbit is an integral multiple of:",
+      "options": ["h / π", "h / 2π", "2π / h", "h / 4π"],
+      "correctAnswer": 1,
+      "explanation": "Bohr's quantization condition states L = mvr = nh / (2π).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 12: Atoms",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260913_en_03",
+      "subject": "Chemistry",
+      "topic": "Alcohols, Phenols and Ethers",
+      "question": "Phenol reacts with concentrated Nitric Acid in presence of conc. H₂SO₄ to give predominantly:",
+      "options": ["o-Nitrophenol", "p-Nitrophenol", "Picric acid (2,4,6-trinitrophenol)", "Benzoic acid"],
+      "correctAnswer": 2,
+      "explanation": "Phenol treated with concentrated HNO₃ undergoes nitration at 2, 4, and 6 positions yielding 2,4,6-trinitrophenol (Picric Acid).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 7: Alcohols, Phenols and Ethers",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260913_en_04",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "Which reagent is used in Fehling's test to distinguish aldehydes from ketones?",
+      "options": ["Ammoniacal Silver Nitrate", "Alkaline Solution of Cu²⁺ complexed with Tartrate", "Neutral FeCl₃", "Iodine in NaOH"],
+      "correctAnswer": 1,
+      "explanation": "Fehling's solution consists of aqueous CuSO₄ (Fehling A) and alkaline sodium potassium tartrate (Fehling B).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260913_en_05",
+      "subject": "Botany",
+      "topic": "Microbes in Human Welfare",
+      "question": "Which microorganism is commercially utilized for large-scale production of citric acid?",
+      "options": ["Acetobacter aceti", "Aspergillus niger", "Clostridium butylicum", "Lactobacillus"],
+      "correctAnswer": 1,
+      "explanation": "Aspergillus niger (a fungus) is the microbial source used for industrial citric acid production.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 8: Microbes in Human Welfare",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260913_en_06",
+      "subject": "Botany",
+      "topic": "Ecosystem",
+      "question": "Which organism typically occupies the primary producer level in aquatic ecosystems?",
+      "options": ["Zooplankton", "Phytoplankton", "Benthic invertebrates", "Fishes"],
+      "correctAnswer": 1,
+      "explanation": "Phytoplanktons act as autotrophic primary producers driving aquatic food chains.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 12: Ecosystem",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260913_en_07",
+      "subject": "Zoology",
+      "topic": "Biotechnology: Principles and Processes",
+      "question": "Which enzyme is popularly known as 'molecular scissors' in recombinant DNA technology?",
+      "options": ["DNA Ligase", "Restriction Endonuclease", "DNA Polymerase", "RNA Polymerase"],
+      "correctAnswer": 1,
+      "explanation": "Restriction endonucleases cut double-stranded DNA at specific recognition sequences.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 9: Biotechnology - Principles and Processes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260913_en_08",
+      "subject": "Zoology",
+      "topic": "Biotechnology and its Applications",
+      "question": "Bt toxin protein produced by Bacillus thuringiensis is activated inside pest gut due to:",
+      "options": ["Acidic pH of gut", "Alkaline pH of gut", "Action of salivary amylase", "High temperature"],
+      "correctAnswer": 1,
+      "explanation": "Inactive protoxin dissolves and converts to active toxin under alkaline pH of the insect midgut.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 10: Biotechnology and its Applications",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260913_en_09",
+      "subject": "Physics",
+      "topic": "Semiconductor Electronics",
+      "question": "An n-type semiconductor is obtained by doping pure intrinsic Silicon with which pentavalent impurity?",
+      "options": ["Boron", "Aluminum", "Phosphorus", "Gallium"],
+      "correctAnswer": 2,
+      "explanation": "Doping silicon with pentavalent elements (Phosphorus/Arsenic) supplies extra free electrons forming n-type semiconductor.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 14: Semiconductor Electronics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260913_en_10",
+      "subject": "Chemistry",
+      "topic": "Amines",
+      "question": "Which primary amine test gives a foul-smelling isocyanide compound upon heating with CHCl₃ and KOH?",
+      "options": ["Hinsberg test", "Carbylamine test", "Azo dye test", "Lucas test"],
+      "correctAnswer": 1,
+      "explanation": "Carbylamine reaction is a diagnostic test exclusively for primary aliphatic and aromatic amines.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 9: Amines",
+      "language": "en"
+    }
+  ]
+}
