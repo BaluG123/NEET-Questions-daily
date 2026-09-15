@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-15",
+  "language": "en",
+  "title": "Daily Dose — 15 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260915_en_01",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Fluids",
+      "question": "According to Bernoulli's principle, along a streamline in a non-viscous incompressible fluid flow, which total energy remains constant?",
+      "options": ["Pressure energy + Kinetic energy + Potential energy per unit volume", "Only Kinetic energy", "Only Pressure energy", "Potential energy + Mechanical power"],
+      "correctAnswer": 0,
+      "explanation": "Bernoulli's equation states P + ½ρv² + ρgh = constant along a streamline.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 10: Mechanical Properties of Fluids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260915_en_02",
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "question": "Which region of the electromagnetic spectrum is used in RADAR systems for aircraft navigation?",
+      "options": ["X-rays", "Microwaves", "Ultraviolet rays", "Infrared waves"],
+      "correctAnswer": 1,
+      "explanation": "Microwaves (short wavelength radiowaves) are utilized in RADAR systems due to good directional beaming capability.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 8: Electromagnetic Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260915_en_03",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "According to VSEPR theory, what is the geometry of a Water (H₂O) molecule?",
+      "options": ["Linear", "Bent / V-shaped", "Trigonal Planar", "Tetrahedral"],
+      "correctAnswer": 1,
+      "explanation": "H₂O has sp³ hybridization with 2 bond pairs and 2 lone pairs giving it a bent/V-shaped molecular geometry.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260915_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "The time required for a first-order reaction to complete 50% reaction depends on initial concentration as:",
+      "options": ["t_1/2 ∝ [A]₀", "t_1/2 ∝ 1/[A]₀", "Independent of [A]₀", "t_1/2 ∝ [A]₀²"],
+      "correctAnswer": 2,
+      "explanation": "Half life t_1/2 = 0.693 / k for first order reaction, which is independent of initial concentration [A]₀.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260915_en_05",
+      "subject": "Botany",
+      "topic": "Cell Cycle and Cell Division",
+      "question": "Crossing over and recombination between non-sister chromatids occurs during which substage of Prophase I in meiosis?",
+      "options": ["Leptotene", "Zygotene", "Pachytene", "Diplotene"],
+      "correctAnswer": 2,
+      "explanation": "Crossing over mediated by recombinase complex occurs specifically during Pachytene stage.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 10: Cell Cycle and Cell Division",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260915_en_06",
+      "subject": "Botany",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "ABO Blood Grouping in human beings is a classical example of:",
+      "options": ["Multiple Allelism and Co-dominance", "Incomplete Dominance", "Polygenic Inheritance", "Pleiotropy"],
+      "correctAnswer": 0,
+      "explanation": "ABO blood group is controlled by gene I having three alleles (Iᴬ, Iᴮ, i), showing co-dominance between Iᴬ and Iᴮ.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260915_en_07",
+      "subject": "Zoology",
+      "topic": "Digestion and Absorption",
+      "question": "Which enzyme converts inactive Pepsinogen into active Pepsin in human stomach?",
+      "options": ["Trypsin", "Hydrochloric Acid (HCl)", "Enterokinase", "Bile salts"],
+      "correctAnswer": 1,
+      "explanation": "Gastric HCl provides acidic pH (~1.8) and cleaves pepsinogen into active pepsin.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 16: Digestion and Absorption",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260915_en_08",
+      "subject": "Zoology",
+      "topic": "Biotechnology: Principles and Processes",
+      "question": "Polymerase Chain Reaction (PCR) technique utilizes heat-stable DNA polymerase obtained from:",
+      "options": ["Escherichia coli", "Thermus aquaticus", "Agrobacterium tumefaciens", "Bacillus subtilis"],
+      "correctAnswer": 1,
+      "explanation": "Taq Polymerase is isolated from thermophilic bacterium Thermus aquaticus.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 9: Biotechnology - Principles and Processes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260915_en_09",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "Kirchhoff's First Law (Junction Rule) ΣI = 0 is based on conservation of:",
+      "options": ["Energy", "Charge", "Linear Momentum", "Angular Momentum"],
+      "correctAnswer": 1,
+      "explanation": "Kirchhoff's Junction Rule expresses Conservation of Electric Charge.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 3: Current Electricity",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260915_en_10",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "Which complex compound acts as an anti-cancer drug in chemotherapy?",
+      "options": ["cis-Platin", "trans-Platin", "EDTA", "Ferrocene"],
+      "correctAnswer": 0,
+      "explanation": "cis-Platin [Pt(NH₃)₂Cl₂] is widely used in oncology to inhibit tumor cell replication.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    }
+  ]
+}
