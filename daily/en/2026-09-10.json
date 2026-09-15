@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-10",
+  "language": "en",
+  "title": "Daily Dose — 10 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260910_en_01",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "The acceleration due to gravity (g) at the center of the Earth is equal to:",
+      "options": ["9.8 m/s²", "Infinite", "Zero", "4.9 m/s²"],
+      "correctAnswer": 2,
+      "explanation": "Acceleration due to gravity varies as g' = g(1 - d/R). At the earth's center depth d = R, so g' = 0.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 8: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260910_en_02",
+      "subject": "Physics",
+      "topic": "Thermal Properties of Matter",
+      "question": "Heat transfer without requiring any intervening medium takes place through:",
+      "options": ["Conduction", "Convection", "Radiation", "Advection"],
+      "correctAnswer": 2,
+      "explanation": "Radiation transfers energy through electromagnetic waves and does not require a material medium.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 11: Thermal Properties of Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260910_en_03",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry - Basic Principles and Techniques",
+      "question": "Which functional group shows the highest priority according to IUPAC nomenclature rules?",
+      "options": ["-OH (Alcohol)", "-CHO (Aldehyde)", "-COOH (Carboxylic Acid)", "-COOR (Ester)"],
+      "correctAnswer": 2,
+      "explanation": "Carboxylic acids (-COOH) have the highest priority among the listed functional groups.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 12: Organic Chemistry - Basic Principles",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260910_en_04",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry - Basic Principles and Techniques",
+      "question": "Two compounds having the same molecular formula but different carbon chain skeletons exhibit:",
+      "options": ["Position isomerism", "Chain isomerism", "Functional isomerism", "Metamerism"],
+      "correctAnswer": 1,
+      "explanation": "Chain isomerism occurs when compounds have identical molecular formulas but different arrangements of the carbon skeleton.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 12: Organic Chemistry - Basic Principles",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260910_en_05",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "Casparian strips are impermeable water-proof bands found in which tissue layer of roots?",
+      "options": ["Epidermis", "Cortex", "Endodermis", "Pericycle"],
+      "correctAnswer": 2,
+      "explanation": "Endodermal cells have tangential and radial walls deposited with suberin forming water-impermeable Casparian strips.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260910_en_06",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "Which cell organelle is known as the 'suicide bag' of the cell?",
+      "options": ["Ribosome", "Lysosome", "Golgi apparatus", "Mitochondria"],
+      "correctAnswer": 1,
+      "explanation": "Lysosomes contain hydrolytic digestive enzymes capable of breaking down cellular components during autolysis.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260910_en_07",
+      "subject": "Zoology",
+      "topic": "Biomolecules",
+      "question": "Which bond links individual amino acids together to form a primary protein structure?",
+      "options": ["Glycosidic bond", "Peptide bond", "Phosphodiester bond", "Ester bond"],
+      "correctAnswer": 1,
+      "explanation": "Amino acids are linked covalently by peptide bonds (-CO-NH-) formed by condensation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 9: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260910_en_08",
+      "subject": "Zoology",
+      "topic": "Excretory Products and their Elimination",
+      "question": "What is the primary structural and functional unit of the human kidney?",
+      "options": ["Neuron", "Nephron", "Alveolus", "Glomerulus"],
+      "correctAnswer": 1,
+      "explanation": "Each human kidney contains roughly 1 million functional tubular structures called nephrons.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Excretory Products and their Elimination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260910_en_09",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "question": "In an isothermal process, which property of the system remains constant throughout?",
+      "options": ["Pressure", "Volume", "Temperature", "Entropy"],
+      "correctAnswer": 2,
+      "explanation": "An isothermal process is a thermodynamic transformation occurring at constant system temperature (ΔT = 0).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 12: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260910_en_10",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The orientation of an atomic orbital in space is determined by which quantum number?",
+      "options": ["Principal quantum number (n)", "Azimuthal quantum number (l)", "Magnetic quantum number (m_l)", "Spin quantum number (m_s)"],
+      "correctAnswer": 2,
+      "explanation": "The magnetic quantum number (m_l) defines spatial orientation of an orbital relative to axes.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    }
+  ]
+}
