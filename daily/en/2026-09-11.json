@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-11",
+  "language": "en",
+  "title": "Daily Dose — 11 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260911_en_01",
+      "subject": "Physics",
+      "topic": "Electric Charges and Fields",
+      "question": "The force between two point charges separated by distance r is F. If the distance is doubled, the force becomes:",
+      "options": ["2F", "F/2", "F/4", "4F"],
+      "correctAnswer": 2,
+      "explanation": "According to Coulomb's Law, F ∝ 1/r². If distance becomes 2r, new force F' = F/(2)² = F/4.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 1: Electric Charges and Fields",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260911_en_02",
+      "subject": "Physics",
+      "topic": "Electrostatic Potential and Capacitance",
+      "question": "What is the equivalent capacitance when two capacitors of 6 µF each are connected in series?",
+      "options": ["12 µF", "3 µF", "6 µF", "1.5 µF"],
+      "correctAnswer": 1,
+      "explanation": "In series: 1/C_eq = 1/C₁ + 1/C₂ = 1/6 + 1/6 = 2/6 => C_eq = 3 µF.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 2: Electrostatic Potential and Capacitance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260911_en_03",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "Henry's law constant (K_H) for solubility of a gas in liquid increases with:",
+      "options": ["Increase in temperature", "Decrease in temperature", "Increase in pressure", "Decrease in solute concentration"],
+      "correctAnswer": 0,
+      "explanation": "Henry's law constant K_H depends on nature of gas and temperature; K_H increases with increasing temperature, decreasing gas solubility.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260911_en_04",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "The SI unit of molar conductivity (Λ_m) is:",
+      "options": ["S cm² mol⁻¹", "S m² mol⁻¹", "S cm⁻¹", "Ω⁻¹ cm⁻¹"],
+      "correctAnswer": 1,
+      "explanation": "The SI unit of molar conductivity is S m² mol⁻¹ (Siemens meter squared per mole).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260911_en_05",
+      "subject": "Botany",
+      "topic": "Sexual Reproduction in Flowering Plants",
+      "question": "Double fertilization in angiosperms involves which two fusion events?",
+      "options": ["Syngamy and Triple Fusion", "Syngamy and Parthenogenesis", "Triple Fusion and Apomixis", "Autogamy and Geitonogamy"],
+      "correctAnswer": 0,
+      "explanation": "Double fertilization comprises syngamy (egg + male gamete -> zygote) and triple fusion (polar nuclei + male gamete -> primary endosperm nucleus).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 1: Sexual Reproduction in Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260911_en_06",
+      "subject": "Botany",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "What phenotypic ratio is obtained in a typical Mendelian monohybrid cross in F₂ generation?",
+      "options": ["1:2:1", "3:1", "9:3:3:1", "1:1"],
+      "correctAnswer": 1,
+      "explanation": "The monohybrid cross yields a 3 dominant : 1 recessive phenotypic ratio in F₂ generation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260911_en_07",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "Where does fertilization normally occur in the human female reproductive tract?",
+      "options": ["Uterus", "Ovary", "Ampullary region of Fallopian tube", "Cervix"],
+      "correctAnswer": 2,
+      "explanation": "Fertilization occurs at the ampullary-isthmic junction / ampullary region of the Fallopian tube.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260911_en_08",
+      "subject": "Zoology",
+      "topic": "Reproductive Health",
+      "question": "Which of the following is a non-medicated Intrauterine Device (IUD)?",
+      "options": ["Copper T", "Lippes Loop", "Mirena", "LNG-20"],
+      "correctAnswer": 1,
+      "explanation": "Lippes loop is a classical non-medicated IUD, whereas CuT is copper-releasing and LNG-20 is hormone-releasing.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 3: Reproductive Health",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260911_en_09",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "Ohm's Law is obeyed by conductor devices provided which factor remains constant?",
+      "options": ["Current", "Potential Difference", "Temperature", "Resistance"],
+      "correctAnswer": 2,
+      "explanation": "Ohm's law (V = IR) holds true provided physical conditions like temperature remain strictly constant.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 3: Current Electricity",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260911_en_10",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "The unit of rate constant for a zero-order chemical reaction is:",
+      "options": ["s⁻¹", "mol L⁻¹ s⁻¹", "L mol⁻¹ s⁻¹", "L² mol⁻² s⁻¹"],
+      "correctAnswer": 1,
+      "explanation": "Rate = k[A]⁰ = k. Unit of rate is Concentration/Time = mol L⁻¹ s⁻¹.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    }
+  ]
+}
