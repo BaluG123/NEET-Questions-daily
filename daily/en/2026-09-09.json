@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-09",
+  "language": "en",
+  "title": "Daily Dose — 9 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260909_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "For a projectile thrown at an angle θ with horizontal, the horizontal range is maximum when θ is equal to:",
+      "options": ["30°", "45°", "60°", "90°"],
+      "correctAnswer": 1,
+      "explanation": "Range R = (u² sin 2θ) / g. Range is maximum when sin 2θ = 1, which means 2θ = 90° or θ = 45°.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260909_en_02",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "If the kinetic energy of a body is quadrupled (increased by 4 times), its momentum becomes:",
+      "options": ["Doubled", "Quadrupled", "Halved", "Unchanged"],
+      "correctAnswer": 0,
+      "explanation": "Momentum p = √(2m * KE). If KE becomes 4 times, momentum p' = √(2m * 4KE) = 2√(2m * KE) = 2p.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260909_en_03",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "For an isolated system undergoing a process, the change in internal energy (ΔU) is always:",
+      "options": ["Zero", "Positive", "Negative", "Infinite"],
+      "correctAnswer": 0,
+      "explanation": "An isolated system cannot exchange energy or matter with surroundings (q = 0, w = 0). By First Law of Thermodynamics, ΔU = q + w = 0.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260909_en_04",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "What is the pH of a 10⁻³ M HCl solution at 25°C?",
+      "options": ["1", "3", "7", "11"],
+      "correctAnswer": 1,
+      "explanation": "HCl is a strong acid, so [H⁺] = 10⁻³ M. pH = -log[H⁺] = -log(10⁻³) = 3.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 7: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260909_en_05",
+      "subject": "Botany",
+      "topic": "Plant Kingdom",
+      "question": "Which plant group is known as the 'Amphibians of the Plant Kingdom'?",
+      "options": ["Algae", "Bryophytes", "Pteridophytes", "Gymnosperms"],
+      "correctAnswer": 1,
+      "explanation": "Bryophytes live in soil but depend on water for sexual reproduction (flagellated antherozoids swim in water).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 3: Plant Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260909_en_06",
+      "subject": "Botany",
+      "topic": "Morphology of Flowering Plants",
+      "question": "Pneumatophores (respiratory roots) are characteristically found in plants growing in:",
+      "options": ["Deserts", "Swampy and marshy areas", "Freshwater lakes", "Alpine regions"],
+      "correctAnswer": 1,
+      "explanation": "Pneumatophores are specialized negative geotropic roots found in halophytes (like Rhizophora) growing in swampy areas for respiration.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 5: Morphology of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260909_en_07",
+      "subject": "Zoology",
+      "topic": "Structural Organisation in Animals",
+      "question": "Which tissue type covers the body surface and lines internal organs and cavities?",
+      "options": ["Connective tissue", "Epithelial tissue", "Muscular tissue", "Nervous tissue"],
+      "correctAnswer": 1,
+      "explanation": "Epithelial tissue forms protective coverings and inner linings for body surfaces and organs.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 7: Structural Organisation in Animals",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260909_en_08",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "Which blood cell type is directly involved in blood clotting?",
+      "options": ["Erythrocytes", "Neutrophils", "Thrombocytes (Platelets)", "Lymphocytes"],
+      "correctAnswer": 2,
+      "explanation": "Thrombocytes (platelets) release clotting factors like thromboplastin needed for blood coagulation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260909_en_09",
+      "subject": "Physics",
+      "topic": "System of Particles and Rotational Motion",
+      "question": "The rotational analogue of mass in linear motion is:",
+      "options": ["Torque", "Angular momentum", "Moment of inertia", "Angular acceleration"],
+      "correctAnswer": 2,
+      "explanation": "Moment of inertia measures a body's resistance to rotational acceleration, analogous to mass in linear translation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 7: System of Particles and Rotational Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260909_en_10",
+      "subject": "Chemistry",
+      "topic": "Redox Reactions",
+      "question": "What is the oxidation state of Manganese in Potassium Permanganate (KMnO₄)?",
+      "options": ["+2", "+4", "+6", "+7"],
+      "correctAnswer": 3,
+      "explanation": "In KMnO₄: (+1 for K) + x + 4(-2 for O) = 0 => 1 + x - 8 = 0 => x = +7.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Redox Reactions",
+      "language": "en"
+    }
+  ]
+}
