@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-14",
+  "language": "en",
+  "title": "Daily Dose — 14 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260914_en_01",
+      "subject": "Physics",
+      "topic": "Nuclei",
+      "question": "Nuclear force acting between nucleons inside an atomic nucleus is:",
+      "options": ["Long range and repulsive", "Short range and charge independent", "Gravitational in nature", "Electrostatic in nature"],
+      "correctAnswer": 1,
+      "explanation": "Nuclear force is strong, short-ranged (< 1-2 fm), and virtually independent of electric charge.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 13: Nuclei",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260914_en_02",
+      "subject": "Physics",
+      "topic": "Wave Optics",
+      "question": "In Young's double-slit experiment, fringe width β is proportional to wavelength λ as:",
+      "options": ["β ∝ λ", "β ∝ 1/λ", "β ∝ λ²", "Independent of λ"],
+      "correctAnswer": 0,
+      "explanation": "Fringe width β = (λD)/d, showing fringe width β is directly proportional to light wavelength λ.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 10: Wave Optics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260914_en_03",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "Which of the following nitrogenous bases is present in RNA but absent in DNA?",
+      "options": ["Adenine", "Guanine", "Uracil", "Thymine"],
+      "correctAnswer": 2,
+      "explanation": "RNA contains Uracil in place of Thymine present in DNA.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260914_en_04",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "A solution that obeys Raoult's Law over the entire range of concentrations is called an:",
+      "options": ["Ideal solution", "Non-ideal solution with positive deviation", "Non-ideal solution with negative deviation", "Azeotropic mixture"],
+      "correctAnswer": 0,
+      "explanation": "Ideal solutions obey Raoult's law perfectly across all temperature and concentration ranges.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260914_en_05",
+      "subject": "Botany",
+      "topic": "Biodiversity and Conservation",
+      "question": "Which of the following is an example of Ex-situ conservation of biodiversity?",
+      "options": ["National Park", "Wildlife Sanctuary", "Botanical Garden", "Biosphere Reserve"],
+      "correctAnswer": 2,
+      "explanation": "Botanical gardens and seed banks preserve species outside their natural habitat (Ex-situ).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 13: Biodiversity and Conservation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260914_en_06",
+      "subject": "Botany",
+      "topic": "Plant Growth and Development",
+      "question": "Which plant growth regulator hormone is widely responsible for fruit ripening?",
+      "options": ["Auxin", "Gibberellin", "Ethylene", "Abscisic acid"],
+      "correctAnswer": 2,
+      "explanation": "Ethylene is a gaseous phytohormone promoting climacteric fruit ripening.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Plant Growth and Development",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260914_en_07",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "The resting membrane potential of a neuron is primarily maintained by the:",
+      "options": ["Sodium-Potassium Pump (3 Na⁺ out / 2 K⁺ in)", "Calcium channels", "Voltage-gated Sodium channels", "Passive diffusion of proteins"],
+      "correctAnswer": 0,
+      "explanation": "The active Na⁺/K⁺ pump transports 3 Na⁺ outwards and 2 K⁺ inwards maintaining resting potential (-70 mV).",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 21: Neural Control and Coordination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260914_en_08",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "Which hormone is secreted by Thyroid gland to regulate basal metabolic rate (BMR)?",
+      "options": ["Insulin", "Thyroxine (T₄)", "Parathyroid hormone", "Cortisol"],
+      "correctAnswer": 1,
+      "explanation": "Thyroxine plays a pivotal role in regulating Basal Metabolic Rate (BMR) and cellular metabolism.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 22: Chemical Coordination and Integration",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260914_en_09",
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "question": "In a purely inductive AC circuit, phase difference between current and voltage is:",
+      "options": ["Current leads voltage by π/2", "Voltage leads current by π/2", "Current and voltage are in phase", "Phase angle is π"],
+      "correctAnswer": 1,
+      "explanation": "In an inductor circuit, alternating voltage leads current by a phase angle of 90° (π/2).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 7: Alternating Current",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260914_en_10",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "Amount of substance deposited at an electrode during electrolysis is directly proportional to quantity of electricity according to:",
+      "options": ["Faraday's First Law of Electrolysis", "Faraday's Second Law of Electrolysis", "Kohlrausch's Law", "Nernst Equation"],
+      "correctAnswer": 0,
+      "explanation": "Faraday's First Law states mass deposited m = Z * Q = Z * I * t.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    }
+  ]
+}
