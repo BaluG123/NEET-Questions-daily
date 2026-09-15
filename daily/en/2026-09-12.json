@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-12",
+  "language": "en",
+  "title": "Daily Dose — 12 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260912_en_01",
+      "subject": "Physics",
+      "topic": "Moving Charges and Magnetism",
+      "question": "The magnetic force experienced by a charge q moving with velocity v parallel to a uniform magnetic field B is:",
+      "options": ["qvB", "Zero", "qvB / 2", "qB / v"],
+      "correctAnswer": 1,
+      "explanation": "Force F = q(v × B) = qvB sin θ. Since path is parallel, θ = 0°, so sin 0° = 0, giving F = 0.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 4: Moving Charges and Magnetism",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260912_en_02",
+      "subject": "Physics",
+      "topic": "Electromagnetic Induction",
+      "question": "Lenz's Law is a direct consequence of which conservation law?",
+      "options": ["Conservation of Charge", "Conservation of Energy", "Conservation of Momentum", "Conservation of Mass"],
+      "correctAnswer": 1,
+      "explanation": "Lenz's law complies directly with the Law of Conservation of Energy.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 6: Electromagnetic Induction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260912_en_03",
+      "subject": "Chemistry",
+      "topic": "The d- and f-Block Elements",
+      "question": "Which transition metal ion exhibits a color-less aqueous solution due to fully filled d-orbitals?",
+      "options": ["Cu²⁺", "Fe³⁺", "Zn²⁺", "Cr³⁺"],
+      "correctAnswer": 2,
+      "explanation": "Zn²⁺ has electronic configuration [Ar] 3d¹⁰. Absence of unpaired d-electrons prevents d-d transitions.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 4: The d- and f-Block Elements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260912_en_04",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "What is the coordination number of Central Metal Ion in [Fe(CN)₆]⁴⁻?",
+      "options": ["2", "4", "6", "8"],
+      "correctAnswer": 2,
+      "explanation": "Cyanide (CN⁻) is a monodentate ligand. Six CN⁻ ligands coordinate to central Fe²⁺ ion, so coordination number = 6.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260912_en_05",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "In a double-stranded DNA molecule, if Cytosine is 20%, what is the percentage of Adenine?",
+      "options": ["20%", "30%", "40%", "60%"],
+      "correctAnswer": 1,
+      "explanation": "By Chargaff's rule: G = C = 20%. Total G+C = 40%. Remaining A+T = 60%. Since A = T, Adenine = 30%.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260912_en_06",
+      "subject": "Botany",
+      "topic": "Organisms and Populations",
+      "question": "An interaction where one species benefits while the other is neither harmed nor benefited is called:",
+      "options": ["Mutualism", "Commensalism", "Parasitism", "Amensalism"],
+      "correctAnswer": 1,
+      "explanation": "Commensalism is (+, 0) interaction where one organism benefits and the other remains unaffected.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 11: Organisms and Populations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260912_en_07",
+      "subject": "Zoology",
+      "topic": "Evolution",
+      "question": "Flippers of Penguins and Dolphins are classic examples of which evolutionary pattern?",
+      "options": ["Homologous organs (Divergent evolution)", "Analogous organs (Convergent evolution)", "Vestigial structures", "Atavism"],
+      "correctAnswer": 1,
+      "explanation": "Flippers perform similar swimming functions but have different origins, demonstrating analogy / convergent evolution.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 6: Evolution",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260912_en_08",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Malarial parasite Plasmodium enters the human body as an infectious stage called:",
+      "options": ["Trophozoite", "Sporozoite", "Gametocyte", "Merozoite"],
+      "correctAnswer": 1,
+      "explanation": "Infectious form of Plasmodium transmitted through female Anopheles mosquito bites is the sporozoite stage.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260912_en_09",
+      "subject": "Physics",
+      "topic": "Ray Optics and Optical Instruments",
+      "question": "Power of a convex lens having a focal length of +50 cm is:",
+      "options": ["+2 D", "+0.5 D", "-2 D", "+5 D"],
+      "correctAnswer": 0,
+      "explanation": "Power P = 1 / f(in meters). Focal length f = 0.5 m. Power P = 1 / 0.5 = +2 Diopters.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 9: Ray Optics and Optical Instruments",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260912_en_10",
+      "subject": "Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "question": "SN1 reactions proceed with predominant:",
+      "options": ["Inversion of configuration", "Racemization", "Retention of configuration", "Elimination"],
+      "correctAnswer": 1,
+      "explanation": "SN1 reactions involve planar carbocation intermediates open to nucleophilic attack from both sides, leading to racemization.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 6: Haloalkanes and Haloarenes",
+      "language": "en"
+    }
+  ]
+}
