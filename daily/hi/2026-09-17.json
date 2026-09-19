@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-17",
+  "language": "hi",
+  "title": "दैनिक खुराक — 17 सित 2026",
+  "questions": [
+    {
+      "id": "daily_20260917_hi_01",
+      "subject": "Physics",
+      "topic": "अर्धचालक इलेक्ट्रॉनिकी",
+      "question": "उत्क्रम अभिनति (Reverse Bias) की स्थिति में p-n संधि डायोड की ह्रासी परत (Depletion layer) की चौड़ाई पर क्या प्रभाव पड़ता है?",
+      "options": ["घटती है", "बढ़ती है", "अपरिवर्तित रहती है", "शून्य हो जाती है"],
+      "correctAnswer": 1,
+      "explanation": "उत्क्रम अभिनति बहुसंख्यक आवेश वाहकों को संधि से दूर खींचती है, जिससे ह्रासी परत की चौड़ाई बढ़ जाती है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 12, अध्याय 14",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260917_hi_02",
+      "subject": "Physics",
+      "topic": "कार्य, ऊर्जा और शक्ति",
+      "question": "जब पिंड पर लगाया गया बल उसके विस्थापन के लंबवत होता है, तो किया गया कार्य कितना होगा?",
+      "options": ["अधिकतम धनात्मक", "शून्य", "ऋणात्मक", "अनंत"],
+      "correctAnswer": 1,
+      "explanation": "कार्य W = Fd cos(θ)। जब θ = 90° होता है, तो cos(90°) = 0, अतः किया गया कार्य शून्य होता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 6",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260917_hi_03",
+      "subject": "Chemistry",
+      "topic": "साम्यावस्था",
+      "question": "ली-शातेलिए नियम के अनुसार, गैसीय साम्यावस्था में दाब बढ़ाने पर साम्य किस ओर विस्थापित होता है?",
+      "options": ["अधिक मोलों की संख्या वाली ओर", "कम गैसीय मोलों की संख्या वाली ओर", "विस्थापित नहीं होता", "सदैव उत्पादों की ओर"],
+      "correctAnswer": 1,
+      "explanation": "दाब बढ़ाने पर साम्य उस दिशा में खिसकता है जिस ओर गैसीय मोलों की संख्या कम होती है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 7",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260917_hi_04",
+      "subject": "Chemistry",
+      "topic": "हेलोऐल्केन तथा हेलोऐरीन",
+      "question": "किस क्रियाविधि में विन्यास का पूर्ण प्रतिलोमन (Walden Inversion) होता है?",
+      "options": ["S_N1 अभिक्रिया", "S_N2 अभिक्रिया", "E1 अभिक्रिया", "E2 अभिक्रिया"],
+      "correctAnswer": 1,
+      "explanation": "S_N2 अभिक्रिया एकल-पद में होती है जिसमें नाभिकरागी पीछे से प्रहार करता है, जिससे विन्यास का प्रतिलोमन (Inversion) होता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 12, अध्याय 6",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260917_hi_05",
+      "subject": "Botany",
+      "topic": "पादप में श्वसन",
+      "question": "एक ग्लूकोज अणु के ग्लाइकोलिसिस के दौरान कुल शुद्ध (Net) कितने ATP अणुओं का लाभ होता है?",
+      "options": ["2 ATP", "4 ATP", "36 ATP", "38 ATP"],
+      "correctAnswer": 0,
+      "explanation": "ग्लाइकोलिसिस में कुल 4 ATP बनते हैं लेकिन 2 ATP प्रारंभिक चरणों में खर्च होते हैं, अतः शुद्ध लाभ 2 ATP का होता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 14",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260917_hi_06",
+      "subject": "Botany",
+      "topic": "वंशागति के आणविक आधार",
+      "question": "DNA प्रतिकृति (Replication) के दौरान DNA के द्विकुंडल को खोलने का कार्य कौन सा एन्जाइम करता है?",
+      "options": ["DNA पॉलीमरेज", "DNA लाइगेज", "हेलिकेज (Helicase)", "टोपोआइसोमेरेज़"],
+      "correctAnswer": 2,
+      "explanation": "DNA हेलिकेज हाइड्रोजन आबंधों को तोड़कर DNA के दोनों रज्जुकों को अलग/अनावृत करता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 12, अध्याय 5",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260917_hi_07",
+      "subject": "Zoology",
+      "topic": "उत्सर्जी उत्पाद एवं उनका निष्कासन",
+      "question": "वृक्काणु (Nephron) के किस भाग में जल तथा आवश्यक विद्युत-अपघट्यों का सर्वाधिक पुनरावशोषण होता है?",
+      "options": ["समीपस्थ संवलित नलिका (PCT)", "हेनले लूप", "दूरस्थ संवलित नलिका (DCT)", "संग्राहक नलिका"],
+      "correctAnswer": 0,
+      "explanation": "PCT निस्यंद (Filtrate) के लगभग 70-80% जल तथा विद्युत-अपघट्यों का पुनरावशोषण कर लेती है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 19",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260917_hi_08",
+      "subject": "Zoology",
+      "topic": "जननात्मक स्वास्थ्य",
+      "question": "CDRI लखनऊ द्वारा विकसित 'सहेली' नामक गर्भनिरोधक गोली है:",
+      "options": ["स्टेरॉयडल दैनिक गोली", "गैर-स्टेरॉयडल सप्ताह में एक बार ली जाने वाली गोली", "हॉर्मोनल इम्प्लांट", "आपातकालीन गर्भनिरोधक"],
+      "correctAnswer": 1,
+      "explanation": "'सहेली' एक गैर-स्टेरॉयडल (Centchroman) गोली है जिसे सप्ताह में केवल एक बार लिया जाता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 12, अध्याय 4",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260917_hi_09",
+      "subject": "Physics",
+      "topic": "स्थिरवैद्युत विभव तथा धारिता",
+      "question": "परावैद्युतांक K वाले पदार्थ से भरे समांतर पट्टिका संधारित्र की धारिता क्या हो जाती है?",
+      "options": ["C₀ / K", "K × C₀", "C₀ + K", "C₀ - K"],
+      "correctAnswer": 1,
+      "explanation": "परावैद्युत पदार्थ भरने पर संधारित्र की धारिता K गुना बढ़कर K C₀ हो जाती है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 12, अध्याय 2",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260917_hi_10",
+      "subject": "Chemistry",
+      "topic": "जैव-अणु",
+      "question": "निम्नलिखित में से कौन सा नाइट्रोजन क्षारक RNA में पाया जाता है परंतु DNA में अनुपस्थित होता है?",
+      "options": ["ऐडेनीन", "ग्वानीन", "यूरेसिल", "थायमीन"],
+      "correctAnswer": 2,
+      "explanation": "RNA में थायमीन के स्थान पर यूरेसिल (Uracil) पाया जाता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 12, अध्याय 10",
+      "language": "hi"
+    }
+  ]
+}
