@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-16",
+  "language": "en",
+  "title": "Daily Dose — 16 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260916_en_01",
+      "subject": "Physics",
+      "topic": "Ray Optics and Optical Instruments",
+      "question": "An object is placed at the focus of a concave mirror. Where is its image formed?",
+      "options": ["At Focus", "At Center of Curvature", "At Infinity", "Between Pole and Focus"],
+      "correctAnswer": 2,
+      "explanation": "When an object is placed at the principal focus of a concave mirror, the reflected rays become parallel to the principal axis and meet at infinity.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 9: Ray Optics and Optical Instruments",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260916_en_02",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "question": "Which thermodynamic process occurs at a constant volume?",
+      "options": ["Isothermal", "Isobaric", "Isochoric", "Adiabatic"],
+      "correctAnswer": 2,
+      "explanation": "An isochoric process is a thermodynamic process in which the volume of the system remains constant (dV = 0, work done W = 0).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 12: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260916_en_03",
+      "subject": "Chemistry",
+      "topic": "p-Block Elements",
+      "question": "Which oxide of Nitrogen is neutral in nature?",
+      "options": ["NO₂", "N₂O₅", "N₂O", "N₂O₃"],
+      "correctAnswer": 2,
+      "explanation": "Nitrous oxide (N₂O) and Nitric oxide (NO) are neutral oxides of nitrogen, whereas NO₂, N₂O₃, and N₂O₅ are acidic.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 7: p-Block Elements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260916_en_04",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "Which reagent is used in the Wurtz reaction to prepare higher alkanes from alkyl halides?",
+      "options": ["Sodium in dry ether", "Zinc in dilute HCl", "Magnesium in dry ether", "Potassium hydroxide"],
+      "correctAnswer": 0,
+      "explanation": "Wurtz reaction involves the reaction of two molecules of alkyl halides with metallic sodium in the presence of dry ether to yield higher alkanes.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 13: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260916_en_05",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "The primary CO₂ acceptor molecule in C₄ plants is:",
+      "options": ["Ribulose-1,5-bisphosphate (RuBP)", "Phosphoenolpyruvate (PEP)", "Oxaloacetic acid (OAA)", "Phosphoglyceric acid (PGA)"],
+      "correctAnswer": 1,
+      "explanation": "In C₄ plants, the primary CO₂ acceptor present in mesophyll cells is Phosphoenolpyruvate (PEP), catalyzed by PEP carboxylase.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 13: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260916_en_06",
+      "subject": "Botany",
+      "topic": "Sexual Reproduction in Flowering Plants",
+      "question": "Functional megaspore in an angiosperm embryo sac develops into:",
+      "options": ["Endosperm", "Embryo sac", "Ovule", "Pollen grain"],
+      "correctAnswer": 1,
+      "explanation": "In most angiosperms, three megaspores degenerate and one functional megaspore undergoes mitoses to form the 7-celled, 8-nucleate embryo sac (female gametophyte).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Sexual Reproduction in Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260916_en_07",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "Spermatogenesis is initiated at puberty due to a significant increase in the secretion of:",
+      "options": ["Prolactin", "Gonadotropin Releasing Hormone (GnRH)", "Oxytocin", "Progesterone"],
+      "correctAnswer": 1,
+      "explanation": "At puberty, the hypothalamus secretes increased amounts of GnRH, which acts on the anterior pituitary to stimulate LH and FSH release.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 3: Human Reproduction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260916_en_08",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "What is the primary form in which carbon dioxide is transported in human blood?",
+      "options": ["As dissolved gas in plasma", "As Bicarbonate ions (HCO₃⁻)", "As Carbamino-hemoglobin", "As Carbonic acid"],
+      "correctAnswer": 1,
+      "explanation": "About 70% of CO₂ is transported as bicarbonate ions (HCO₃⁻) in blood plasma, 20-25% as carbamino-hemoglobin, and 7% in dissolved form.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Breathing and Exchange of Gases",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260916_en_09",
+      "subject": "Physics",
+      "topic": "Dual Nature of Radiation and Matter",
+      "question": "The de Broglie wavelength associated with a particle of momentum 'p' is given by:",
+      "options": ["λ = h / p", "λ = hp", "λ = p / h", "λ = h / p²"],
+      "correctAnswer": 0,
+      "explanation": "According to de Broglie's hypothesis, wavelength λ = h / p, where h is Planck's constant and p is momentum.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 11: Dual Nature of Radiation and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260916_en_10",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "Which of the following is an example of a colligative property?",
+      "options": ["Viscosity", "Surface tension", "Osmotic pressure", "Refractive index"],
+      "correctAnswer": 2,
+      "explanation": "Osmotic pressure depends solely on the number of solute particles present in the solution, making it a colligative property.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Solutions",
+      "language": "en"
+    }
+  ]
+}
