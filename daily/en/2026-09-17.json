@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-17",
+  "language": "en",
+  "title": "Daily Dose — 17 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260917_en_01",
+      "subject": "Physics",
+      "topic": "Semiconductor Electronics",
+      "question": "In a p-n junction diode under reverse bias condition, the width of the depletion layer:",
+      "options": ["Decreases", "Increases", "Remains constant", "Becomes zero"],
+      "correctAnswer": 1,
+      "explanation": "Reverse bias pulls majority charge carriers away from the junction, thereby increasing the width of the depletion region.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 14: Semiconductor Electronics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260917_en_02",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "When a force applied on a body produces a displacement perpendicular to the direction of force, the work done is:",
+      "options": ["Maximum positive", "Zero", "Negative", "Infinite"],
+      "correctAnswer": 1,
+      "explanation": "Work done W = Fd cos(θ). When θ = 90°, cos(90°) = 0, so work done is zero.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260917_en_03",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "According to Le Chatelier's principle, increasing the pressure on a gaseous system at equilibrium shifts the equilibrium towards:",
+      "options": ["Side with greater number of moles", "Side with fewer number of gaseous moles", "Does not shift", "Always towards products"],
+      "correctAnswer": 1,
+      "explanation": "Increasing pressure shifts equilibrium to the direction that decreases pressure, i.e., towards fewer gaseous moles.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 7: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260917_en_04",
+      "subject": "Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "question": "Which mechanism involves complete inversion of configuration (Walden Inversion)?",
+      "options": ["S_N1 reaction", "S_N2 reaction", "E1 reaction", "E2 reaction"],
+      "correctAnswer": 1,
+      "explanation": "S_N2 proceeds via a single-step bimolecular transition state where nucleophilic attack from the backside causes inversion of configuration.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 6: Haloalkanes and Haloarenes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260917_en_05",
+      "subject": "Botany",
+      "topic": "Respiration in Plants",
+      "question": "What is the net gain of ATP molecules during the glycolysis of one glucose molecule?",
+      "options": ["2 ATP", "4 ATP", "36 ATP", "38 ATP"],
+      "correctAnswer": 0,
+      "explanation": "Glycolysis produces 4 ATP molecules directly, but consumes 2 ATP in initial steps, resulting in a net gain of 2 ATP molecules.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 14: Respiration in Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260917_en_06",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "Which enzyme unwinds the double helix of DNA during replication?",
+      "options": ["DNA Polymerase", "DNA Ligase", "Helicase", "Topoisomerase"],
+      "correctAnswer": 2,
+      "explanation": "DNA Helicase breaks the hydrogen bonds between complementary base pairs to unwind the double helix.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260917_en_07",
+      "subject": "Zoology",
+      "topic": "Excretory Products and their Elimination",
+      "question": "Reabsorption of maximum water and essential electrolytes occurs in which part of the nephron?",
+      "options": ["Proximal Convoluted Tubule (PCT)", "Loop of Henle", "Distal Convoluted Tubule (DCT)", "Collecting Duct"],
+      "correctAnswer": 0,
+      "explanation": "PCT reabsorbs nearly 70-80% of electrolytes and water from the glomerular filtrate.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Excretory Products and their Elimination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260917_en_08",
+      "subject": "Zoology",
+      "topic": "Reproductive Health",
+      "question": "'Saheli', an oral contraceptive pill for females developed at CDRI Lucknow, is a:",
+      "options": ["Steroidal daily pill", "Non-steroidal once-a-week pill", "Hormonal implant", "Emergency contraceptive"],
+      "correctAnswer": 1,
+      "explanation": "Saheli contains Centchroman (non-steroidal preparation) and is taken once a week with high contraceptive value and very few side effects.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Reproductive Health",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260917_en_09",
+      "subject": "Physics",
+      "topic": "Electrostatic Potential and Capacitance",
+      "question": "The capacitance of a parallel plate capacitor filled with a dielectric material of dielectric constant K becomes:",
+      "options": ["C₀ / K", "K × C₀", "C₀ + K", "C₀ - K"],
+      "correctAnswer": 1,
+      "explanation": "Introducing a dielectric of constant K increases the capacitance by a factor of K, making C = K C₀.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 2: Electrostatic Potential and Capacitance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260917_en_10",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "Which of the following nitrogenous bases is present in RNA but absent in DNA?",
+      "options": ["Adenine", "Guanine", "Uracil", "Thymine"],
+      "correctAnswer": 2,
+      "explanation": "RNA contains Uracil instead of Thymine along with Adenine, Guanine, and Cytosine.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    }
+  ]
+}
