@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-18",
+  "language": "hi",
+  "title": "दैनिक खुराक — 18 सित 2026",
+  "questions": [
+    {
+      "id": "daily_20260918_hi_01",
+      "subject": "Physics",
+      "topic": "गतिमान आवेश और चुंबकत्व",
+      "question": "एक समान चुंबकीय क्षेत्र 'B' के समांतर 'v' वेग से गतिमान आवेशित कण पर लगने वाले चुंबकीय बल का परिमाण कितना होगा?",
+      "options": ["qvB", "qvB / 2", "शून्य", "qvB²"],
+      "correctAnswer": 2,
+      "explanation": "चुंबकीय बल F = qvB sin(θ)। चुंबकीय क्षेत्र के समांतर होने पर θ = 0°, अत: sin(0°) = 0 होने से बल शून्य होगा।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 12, अध्याय 4",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260918_hi_02",
+      "subject": "Physics",
+      "topic": "गुरुत्वाकर्षण",
+      "question": "पृथ्वी के विषुवत वृत्त (Equator) से ध्रुवों (Poles) की ओर जाने पर गुरुत्वीय त्वरण (g) का मान किस प्रकार परिवर्तित होता है?",
+      "options": ["घटता है", "बढ़ता है", "समान रहता है", "पहले घटता है फिर बढ़ता है"],
+      "correctAnswer": 1,
+      "explanation": "पृथ्वी के आकार एवं घूर्णन प्रभाव के कारण गुरुत्वीय त्वरण (g) का मान ध्रुवों पर अधिकतम तथा विषुवत वृत्त पर न्यूनतम होता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 11, अध्याय 8",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260918_hi_03",
+      "subject": "Chemistry",
+      "topic": "वैद्युतरसायन",
+      "question": "मोलर चालकता (Λ_m) की SI इकाई क्या है?",
+      "options": ["S cm² mol⁻¹", "S m² mol⁻¹", "Ω⁻¹ cm⁻¹", "S m mol⁻¹"],
+      "correctAnswer": 1,
+      "explanation": "मोलर चालकता की SI इकाई सीमेंस मीटर वर्ग प्रति मोल (S m² mol⁻¹) होती है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 12, अध्याय 3",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260918_hi_04",
+      "subject": "Chemistry",
+      "topic": "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल",
+      "question": "ऐल्डिहाइड तथा कीटोन में अंतर स्पष्ट करने के लिए किस अभिकर्मक का उपयोग किया जाता है?",
+      "options": ["फेलिंग विलयन / टॉलेन अभिकर्मक", "ग्रिन्यार अभिकर्मक", "लिटमस पत्र", "ल्यूकास अभिकर्मक"],
+      "correctAnswer": 0,
+      "explanation": "ऐल्डिहाइड टॉलेन तथा फेलिंग अभिकर्मक को अपचयित कर देते हैं जबकि कीटोन यह परीक्षण नहीं देते।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 12, अध्याय 8",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260918_hi_05",
+      "subject": "Botany",
+      "topic": "पादप वृद्धि एवं परिवर्धन",
+      "question": "फलों को पकाने को बढ़ावा देने के लिए कौन सा पादप वृद्धि नियामक उत्तरदायी है?",
+      "options": ["ऑक्सिन", "जिबरेलिन", "एथिलीन", "एब्सिसिक अम्ल (ABA)"],
+      "correctAnswer": 2,
+      "explanation": "एथिलीन (Ethylene) एक गैसीय पादप हॉर्मोन है जो फलों को पकाने की दर को तेज करता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 15",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260918_hi_06",
+      "subject": "Botany",
+      "topic": "पारितंत्र",
+      "question": "किसी भी प्राकृतिक पारितंत्र में ऊर्जा का पिरामिड सदैव कैसा होता है?",
+      "options": ["उल्टा", "सीधा (Upright)", "तर्कुरूप", "कलश रूपी"],
+      "correctAnswer": 1,
+      "explanation": "एक पोषी स्तर से दूसरे पोषी स्तर पर जाने में ऊर्जा का ह्रास (10% नियम) होता है, अतः ऊर्जा पिरामिड सदैव सीधा बनता है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 12, अध्याय 12",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260918_hi_07",
+      "subject": "Zoology",
+      "topic": "शरीर द्रव तथा परिसंचरण",
+      "question": "मानव रक्त का कौन सा अवयव रक्त का थक्का (Blood clotting) जमाने में मुख्य भूमिका निभाता है?",
+      "options": ["लाल रक्त कणिकाएं (RBC)", "पट्टिकाणु / प्लेटलेट्स (Thrombocytes)", "श्वेत रक्त कणिकाएं (WBC)", "लसिकाणु"],
+      "correctAnswer": 1,
+      "explanation": "प्लेटलेट्स रक्त का थक्का बनाने वाले कारकों को स्रावित करते हैं जो चोट लगने पर थक्का जमाते हैं।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 11, अध्याय 18",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260918_hi_08",
+      "subject": "Zoology",
+      "topic": "विकास (Evolution)",
+      "question": "पेंगुइन और डॉल्फ़िन के फ़्लिपर (Flippers) किसके उत्कृष्ट उदाहरण हैं?",
+      "options": ["समजात अंग", "समवृत्ति अंग (Analogous organs)", "अवशेषी अंग", "अपूर्वजता"],
+      "correctAnswer": 1,
+      "explanation": "पेंगुइन एवं डॉल्फिन के फ्लिपर की उत्पत्ति भिन्न है परंतु कार्य समान (तैरना) हैं, जो अभिसारी विकास/समवृत्तिता दर्शाते हैं।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "जीव विज्ञान कक्षा 12, अध्याय 6",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260918_hi_09",
+      "subject": "Physics",
+      "topic": "प्रत्यावर्ती धारा",
+      "question": "शुद्ध प्रेरकत्व वाले प्रत्यावर्ती परिपथ में धारा, वोल्टता से कला (Phase) में कितनी पश्चगामी होती है?",
+      "options": ["0", "π / 4", "π / 2 (90°)", "π (180°)"],
+      "correctAnswer": 2,
+      "explanation": "शुद्ध प्रेरक परिपथ में धारा (I), वोल्टता (V) से कला में 90° (π/2) पीछे रहती है।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "भौतिकी कक्षा 12, अध्याय 7",
+      "language": "hi"
+    },
+    {
+      "id": "daily_20260918_hi_10",
+      "subject": "Chemistry",
+      "topic": "परमाणु की संरचना",
+      "question": "द्विगंशी क्वांटम संख्या l = 2 (d-उपकोश) वाले उपकोश में अधिकतम कितने इलेक्ट्रॉन आ सकते हैं?",
+      "options": ["2", "6", "10", "14"],
+      "correctAnswer": 2,
+      "explanation": "अधिकतम इलेक्ट्रॉन क्षमता = 2(2l + 1)। l = 2 के लिए, 2(2*2 + 1) = 10 इलेक्ट्रॉन होते हैं।",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "रसायन विज्ञान कक्षा 11, अध्याय 2",
+      "language": "hi"
+    }
+  ]
+}
