@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-19",
+  "language": "en",
+  "title": "Daily Dose — 19 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260919_en_01",
+      "subject": "Physics",
+      "topic": "Wave Optics",
+      "question": "In Young's double-slit experiment, if the distance between slits is halved and distance to screen is doubled, fringe width becomes:",
+      "options": ["Half", "Double", "4 times", "Unchanged"],
+      "correctAnswer": 2,
+      "explanation": "Fringe width β = λD / d. If D becomes 2D and d becomes d/2, new β' = λ(2D)/(d/2) = 4 β.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 10: Wave Optics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260919_en_02",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "Which of the following physical quantities has the same dimensional formula [M L T⁻²]?",
+      "options": ["Work and Energy", "Force and Weight", "Impulse and Momentum", "Pressure and Stress"],
+      "correctAnswer": 1,
+      "explanation": "Both Force and Weight represent gravitational or accelerating force having unit Newton and dimensions [M L T⁻²].",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 2: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260919_en_03",
+      "subject": "Chemistry",
+      "topic": "Amines",
+      "question": "Which reaction is used for converting a primary amide into a primary amine containing one carbon less?",
+      "options": ["Cannizzaro reaction", "Hoffmann bromamide degradation", "Reimer-Tiemann reaction", "Kolbe's reaction"],
+      "correctAnswer": 1,
+      "explanation": "Hoffmann bromamide degradation (RCONH₂ + Br₂ + 4NaOH → RNH₂ + Na₂CO₃ + 2NaBr + 2H₂O) yields 1° amine with one fewer carbon atom.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 9: Amines",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260919_en_04",
+      "subject": "Chemistry",
+      "topic": "Redox Reactions",
+      "question": "What is the oxidation number of Chromium (Cr) in Potassium dichromate (K₂Cr₂O₇)?",
+      "options": ["+3", "+4", "+6", "+7"],
+      "correctAnswer": 2,
+      "explanation": "In K₂Cr₂O₇: 2(+1) + 2(x) + 7(-2) = 0 ⇒ 2 + 2x - 14 = 0 ⇒ 2x = 12 ⇒ x = +6.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Redox Reactions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260919_en_05",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "Casparian strips are impermeable suberin deposits present in the cell walls of which plant layer?",
+      "options": ["Epidermis", "Cortex", "Endodermis", "Pericycle"],
+      "correctAnswer": 2,
+      "explanation": "Endodermal cells have waxy suberin deposition called Casparian strips on radial and tangential walls to control water movement into vascular cylinder.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260919_en_06",
+      "subject": "Botany",
+      "topic": "Biotechnology and its Applications",
+      "question": "Bt cotton plants are resistant to cotton bollworms due to crystal toxic proteins encoded by gene:",
+      "options": ["cry IAc / cry IIAb", "RNAi", "pBR322", "EcoRI"],
+      "correctAnswer": 0,
+      "explanation": "Proteins encoded by genes cry IAc and cry IIAb control cotton bollworms, while cry IAb controls corn borer.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 10: Biotechnology and its Applications",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260919_en_07",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "Which region of the human brain controls body temperature, urge for eating and drinking?",
+      "options": ["Cerebellum", "Hypothalamus", "Medulla Oblongata", "Thalamus"],
+      "correctAnswer": 1,
+      "explanation": "Hypothalamus contains centers for thermoregulation, hunger, and thirst.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 21: Neural Control and Coordination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260919_en_08",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "According to the sliding filament theory of muscle contraction, which band shortens during muscle contraction?",
+      "options": ["A band", "I band", "Z line thickness", "M line"],
+      "correctAnswer": 1,
+      "explanation": "During muscle contraction, thin actin filaments slide over thick myosin filaments, causing the I band and H zone to shorten while A band retains length.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 20: Locomotion and Movement",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260919_en_09",
+      "subject": "Physics",
+      "topic": "Atoms",
+      "question": "In Bohr's atomic model, the angular momentum of an electron orbiting in the nth orbit is quantized as:",
+      "options": ["L = n h / 2π", "L = n² h / 2π", "L = h / (2π n)", "L = 2π / (n h)"],
+      "correctAnswer": 0,
+      "explanation": "Bohr's second postulate states that orbital angular momentum L = mvr = n h / (2π), where n = 1, 2, 3...",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 12: Atoms",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260919_en_10",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "Which element in the periodic table possesses the highest electronegativity?",
+      "options": ["Chlorine (Cl)", "Fluorine (F)", "Oxygen (O)", "Helium (He)"],
+      "correctAnswer": 1,
+      "explanation": "Fluorine (F) has the highest electronegativity of 4.0 on Pauling scale due to small atomic size and high effective nuclear charge.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    }
+  ]
+}
