@@ -1,1 +1,137 @@
-
+{
+  "date": "2026-09-18",
+  "language": "en",
+  "title": "Daily Dose — 18 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260918_en_01",
+      "subject": "Physics",
+      "topic": "Moving Charges and Magnetism",
+      "question": "A charged particle moving with velocity 'v' parallel to a uniform magnetic field 'B' experiences a magnetic force of magnitude:",
+      "options": ["qvB", "qvB / 2", "Zero", "qvB²"],
+      "correctAnswer": 2,
+      "explanation": "Magnetic force F = q(v × B) = qvB sin(θ). Since velocity is parallel to magnetic field, θ = 0°, so sin(0°) = 0, giving force = 0.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 4: Moving Charges and Magnetism",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260918_en_02",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "How does acceleration due to gravity (g) change as one moves from the equator towards the poles of the Earth?",
+      "options": ["Decreases", "Increases", "Remains same", "First decreases then increases"],
+      "correctAnswer": 1,
+      "explanation": "Due to Earth's shape (equatorial bulge) and centrifugal effect of rotation, g is minimum at equator and maximum at poles.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 8: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260918_en_03",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "The SI unit of molar conductivity (Λ_m) is:",
+      "options": ["S cm² mol⁻¹", "S m² mol⁻¹", "Ω⁻¹ cm⁻¹", "S m mol⁻¹"],
+      "correctAnswer": 1,
+      "explanation": "Molar conductivity SI unit is Siemens meter squared per mole (S m² mol⁻¹). Commonly used unit is S cm² mol⁻¹.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260918_en_04",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "Which reagent is used to distinguish between Aldehydes and Ketones?",
+      "options": ["Fehling's solution / Tollen's reagent", "Grignard Reagent", "Litmus paper", "Lucas Reagent"],
+      "correctAnswer": 0,
+      "explanation": "Aldehydes reduce Tollen's reagent (silver mirror test) and Fehling's reagent, whereas Ketones do not easily undergo oxidation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260918_en_05",
+      "subject": "Botany",
+      "topic": "Plant Growth and Development",
+      "question": "Which plant growth regulator is responsible for promoting fruit ripening?",
+      "options": ["Auxin", "Gibberellin", "Ethylene", "Abscisic Acid (ABA)"],
+      "correctAnswer": 2,
+      "explanation": "Ethylene is a gaseous plant hormone that promotes respiratory climacteric and accelerates fruit ripening.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Plant Growth and Development",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260918_en_06",
+      "subject": "Botany",
+      "topic": "Ecosystem",
+      "question": "The pyramid of energy in any functioning natural ecosystem is always:",
+      "options": ["Inverted", "Upright", "Spindle shaped", "Urn shaped"],
+      "correctAnswer": 1,
+      "explanation": "Energy is lost as heat at each trophic level (10% law), so energy pyramid is strictly upright.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 12: Ecosystem",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260918_en_07",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "Which component of human blood plays a key role in blood clotting?",
+      "options": ["Erythrocytes (RBCs)", "Thrombocytes (Platelets)", "Leukocytes (WBCs)", "Lymphocytes"],
+      "correctAnswer": 1,
+      "explanation": "Platelets release factors like thromboplastin that initiate the coagulation cascade during injury.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260918_en_08",
+      "subject": "Zoology",
+      "topic": "Evolution",
+      "question": "Flippers of Penguins and Dolphins are classic examples of:",
+      "options": ["Homologous organs", "Analogous organs", "Vestigial organs", "Atavism"],
+      "correctAnswer": 1,
+      "explanation": "Penguin and dolphin flippers have different anatomical origin but perform similar functions (swimming), showing convergent evolution / analogy.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 6: Evolution",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260918_en_09",
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "question": "In a purely inductive AC circuit, the current lags behind the voltage in phase by:",
+      "options": ["0", "π / 4", "π / 2 (90°)", "π (180°)"],
+      "correctAnswer": 2,
+      "explanation": "In an AC circuit containing only an inductor, current lags voltage by 90° (π/2 radians).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 7: Alternating Current",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260918_en_10",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "What is the maximum number of electrons that can be accommodated in a subshell with azimuthal quantum number l = 2 (d-subshell)?",
+      "options": ["2", "6", "10", "14"],
+      "correctAnswer": 2,
+      "explanation": "Maximum capacity = 2(2l + 1). For l = 2, formula gives 2(2*2 + 1) = 10 electrons.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    }
+  ]
+}
