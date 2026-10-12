@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-20",
+  "language": "en",
+  "title": "Daily Dose — 20 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260920_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "A particle moves along a circular track of radius R and completes exactly half a revolution. The ratio of the distance travelled to the magnitude of its displacement is:",
+      "options": [
+        "π/2",
+        "2/π",
+        "π",
+        "1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Distance = half the circumference = πR. Displacement = diameter = 2R. Ratio = πR/2R = π/2.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260920_en_02",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "Newton's second law states that the net external force acting on a body is equal to its:",
+      "options": [
+        "Rate of change of linear momentum",
+        "Rate of change of kinetic energy",
+        "Total momentum",
+        "Displacement per unit time"
+      ],
+      "correctAnswer": 0,
+      "explanation": "F = dp/dt. For a body of constant mass this reduces to the familiar form F = ma.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260920_en_03",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "A uniform metallic wire of resistance R is stretched so that its length becomes twice the original. If the volume stays constant, the new resistance is:",
+      "options": [
+        "2R",
+        "4R",
+        "R/2",
+        "R/4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "R = ρl/A. Doubling the length halves the area (volume constant), so R' = ρ(2l)/(A/2) = 4R.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 3: Current Electricity",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260920_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "The number of molecules present in 22.4 L of an ideal gas at STP is:",
+      "options": [
+        "6.022 × 10²³",
+        "3.011 × 10²³",
+        "1.806 × 10²⁴",
+        "12.044 × 10²³"
+      ],
+      "correctAnswer": 0,
+      "explanation": "At STP the molar volume of any ideal gas is 22.4 L, which corresponds to 1 mole, i.e. 6.022 × 10²³ molecules.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260920_en_05",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The maximum number of electrons that can be accommodated in a subshell with azimuthal quantum number l = 2 is:",
+      "options": [
+        "2",
+        "6",
+        "10",
+        "14"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A subshell can hold 2(2l + 1) electrons. For l = 2 (the d-subshell) this gives 2(5) = 10.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260920_en_06",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry: Some Basic Principles and Techniques",
+      "question": "Which of the following carbocations is the most stable?",
+      "options": [
+        "CH₃⁺",
+        "CH₃CH₂⁺",
+        "(CH₃)₂CH⁺",
+        "(CH₃)₃C⁺"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Alkyl groups release electron density by the +I effect and hyperconjugation, so stability follows 3° > 2° > 1° > methyl.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260920_en_07",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "Which cell organelle is non-membrane bound and acts as the site of protein synthesis?",
+      "options": [
+        "Lysosome",
+        "Ribosome",
+        "Golgi apparatus",
+        "Peroxisome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ribosomes are made of rRNA and proteins and possess no membrane. They are 70S in prokaryotes and 80S in eukaryotes.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260920_en_08",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "In C₄ plants, the primary CO₂ acceptor present in mesophyll cells is:",
+      "options": [
+        "RuBP",
+        "Phosphoenolpyruvate (PEP)",
+        "Oxaloacetic acid",
+        "3-Phosphoglyceric acid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In the C₄ (Hatch and Slack) pathway, PEP in mesophyll cells accepts CO₂ using PEP carboxylase to form the 4-carbon acid OAA.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 11: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260920_en_09",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "The volume of air inspired or expired during a normal respiration is called:",
+      "options": [
+        "Tidal volume",
+        "Residual volume",
+        "Vital capacity",
+        "Inspiratory reserve volume"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tidal volume is roughly 500 mL of air moved in or out in each quiet breath.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 14: Breathing and Exchange of Gases",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260920_en_10",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "The pacemaker of the human heart is:",
+      "options": [
+        "Atrioventricular node",
+        "Sinoatrial node",
+        "Bundle of His",
+        "Purkinje fibres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The SA node lies in the right atrium and generates the fastest impulses (about 70-75 per minute), so it sets the cardiac rhythm.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    }
+  ]
+}
