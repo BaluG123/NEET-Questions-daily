@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-22",
+  "language": "en",
+  "title": "Daily Dose — 22 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260922_en_01",
+      "subject": "Physics",
+      "topic": "Oscillations",
+      "question": "If the length of a simple pendulum is made four times its original value, its time period becomes:",
+      "options": [
+        "Two times",
+        "Four times",
+        "Half",
+        "Unchanged"
+      ],
+      "correctAnswer": 0,
+      "explanation": "T = 2π√(l/g), so T is proportional to √l. Making l four times larger doubles the time period.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 13: Oscillations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260922_en_02",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "question": "For an ideal gas undergoing an isothermal expansion, the change in internal energy is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Equal to the heat supplied"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Internal energy of an ideal gas depends only on temperature. In an isothermal process T is constant, so ΔU = 0 and all the heat supplied appears as work.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 11: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260922_en_03",
+      "subject": "Physics",
+      "topic": "Electric Charges and Fields",
+      "question": "The electric field at any point inside a charged hollow conducting sphere is:",
+      "options": [
+        "Zero",
+        "Maximum at the centre",
+        "Same as on the surface",
+        "Inversely proportional to r"
+      ],
+      "correctAnswer": 0,
+      "explanation": "By Gauss's law the enclosed charge is zero for any Gaussian surface inside the shell, so E = 0 everywhere inside, although the potential is constant and non-zero.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 1: Electric Charges and Fields",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260922_en_04",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "In a galvanic cell, oxidation takes place at the:",
+      "options": [
+        "Anode, which is negatively charged",
+        "Cathode, which is negatively charged",
+        "Anode, which is positively charged",
+        "Salt bridge"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Oxidation always occurs at the anode. In a galvanic cell the anode is the negative electrode because electrons are released there.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260922_en_05",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "The correct order of atomic radii among the second period elements is:",
+      "options": [
+        "Li > Be > B > C",
+        "C > B > Be > Li",
+        "Be > Li > B > C",
+        "B > C > Li > Be"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Across a period the nuclear charge rises while the shell stays the same, so atomic radius decreases from left to right.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260922_en_06",
+      "subject": "Chemistry",
+      "topic": "Alcohols, Phenols and Ethers",
+      "question": "Which reagent is used to distinguish phenol from ethanol?",
+      "options": [
+        "Neutral FeCl₃ solution",
+        "Sodium metal",
+        "Dilute HCl",
+        "Bromine water in CCl₄"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Phenol gives a violet colour with neutral ferric chloride because of a coloured iron-phenoxide complex, while ethanol gives no colour.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 7: Alcohols, Phenols and Ethers",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260922_en_07",
+      "subject": "Botany",
+      "topic": "Plant Kingdom",
+      "question": "Bryophytes are called the amphibians of the plant kingdom because they:",
+      "options": [
+        "Live in water throughout life",
+        "Live on land but need water for fertilisation",
+        "Have both roots and flowers",
+        "Can survive only in deserts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bryophytes grow in damp soil but their flagellated antherozoids need a film of water to swim to the archegonium.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 3: Plant Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260922_en_08",
+      "subject": "Botany",
+      "topic": "Cell Cycle and Cell Division",
+      "question": "Crossing over between non-sister chromatids of homologous chromosomes occurs during which sub-stage of prophase I?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pachytene is marked by the appearance of recombination nodules where crossing over takes place, catalysed by recombinase.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 10: Cell Cycle and Cell Division",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260922_en_09",
+      "subject": "Zoology",
+      "topic": "Excretory Products and their Elimination",
+      "question": "Maximum reabsorption of the glomerular filtrate takes place in the:",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nearly 70-80 percent of electrolytes and water are reabsorbed in the PCT, which is lined by brush-border cuboidal epithelium.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 16: Excretory Products and their Elimination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260922_en_10",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "Saltatory conduction of a nerve impulse, in which the impulse jumps from one node of Ranvier to the next, occurs in:",
+      "options": [
+        "Unmyelinated nerve fibres",
+        "Myelinated nerve fibres",
+        "Dendrites only",
+        "Synaptic knobs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Myelin insulates the axon except at the nodes of Ranvier, so depolarisation jumps node to node and conduction is much faster.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    }
+  ]
+}

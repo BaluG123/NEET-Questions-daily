@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-08",
+  "language": "en",
+  "title": "Daily Dose — 8 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261008_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "Which of the following pairs does NOT have the same dimensions?",
+      "options": [
+        "Work and torque",
+        "Impulse and momentum",
+        "Stress and pressure",
+        "Force and power"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Force is [M L T⁻²] while power is [M L² T⁻³], so they differ. The other three pairs match dimensionally even though they are physically different quantities.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 1: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261008_en_02",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "question": "In an adiabatic process, which of the following is true?",
+      "options": [
+        "Q = 0, so ΔU = -W",
+        "ΔU = 0",
+        "W = 0",
+        "Temperature always stays constant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "No heat is exchanged in an adiabatic change, so any work done comes out of the internal energy. That is why adiabatic expansion cools a gas.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 11: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261008_en_03",
+      "subject": "Physics",
+      "topic": "Wave Optics",
+      "question": "The phenomenon of polarisation of light establishes that light waves are:",
+      "options": [
+        "Longitudinal",
+        "Transverse",
+        "Mechanical",
+        "Always unpolarised"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only transverse waves can be restricted to vibrate in one plane. Sound, being longitudinal, can never be polarised.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 10: Wave Optics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261008_en_04",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "Which of the following mixtures will act as an acidic buffer solution?",
+      "options": [
+        "HCl and NaCl",
+        "CH₃COOH and CH₃COONa",
+        "NaOH and NaCl",
+        "HCl and NaOH in equal amounts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An acidic buffer needs a weak acid together with its salt of a strong base, which can neutralise small additions of acid or alkali and hold the pH nearly fixed.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261008_en_05",
+      "subject": "Chemistry",
+      "topic": "The d- and f-Block Elements",
+      "question": "Transition elements show variable oxidation states mainly because:",
+      "options": [
+        "Their ns and (n-1)d electrons have comparable energies",
+        "They have very large atomic radii",
+        "They always lose all their electrons",
+        "Their d orbitals are completely filled"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Because the energy gap between 4s and 3d is small, a variable number of d electrons can also take part in bonding along with the s electrons.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 4: The d- and f-Block Elements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261008_en_06",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "Which of the following is the strongest acid?",
+      "options": [
+        "CH₃COOH",
+        "ClCH₂COOH",
+        "Cl₂CHCOOH",
+        "Cl₃CCOOH"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Each electron withdrawing chlorine pulls electron density away and stabilises the carboxylate ion, so acidity rises as the number of chlorine atoms increases.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261008_en_07",
+      "subject": "Botany",
+      "topic": "Morphology of Flowering Plants",
+      "question": "In Australian Acacia the leaf is reduced and the flattened green structure that performs photosynthesis is a modification of the:",
+      "options": [
+        "Stem",
+        "Petiole",
+        "Stipule",
+        "Root"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This flattened petiole is called a phyllode. Reducing the lamina lowers water loss, which suits the dry Australian habitat.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 5: Morphology of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261008_en_08",
+      "subject": "Botany",
+      "topic": "Microbes in Human Welfare",
+      "question": "Biogas produced from cattle dung is generated chiefly by the activity of:",
+      "options": [
+        "Methanogens",
+        "Lactic acid bacteria",
+        "Yeast",
+        "Mycorrhiza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Methanogens such as Methanobacterium live anaerobically in the rumen of cattle and in biogas plants, producing a mixture rich in methane.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 8: Microbes in Human Welfare",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261008_en_09",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "A true coelom, a body cavity lined completely by mesoderm, appears for the first time in phylum:",
+      "options": [
+        "Platyhelminthes",
+        "Aschelminthes",
+        "Annelida",
+        "Porifera"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Flatworms are acoelomate and roundworms are pseudocoelomate; annelids such as the earthworm are the first truly coelomate animals.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261008_en_10",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "Which hormone raises the calcium level of blood by mobilising calcium from bone?",
+      "options": [
+        "Calcitonin",
+        "Parathormone",
+        "Insulin",
+        "Aldosterone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Parathormone is hypercalcaemic: it stimulates bone resorption and reabsorption of calcium by the kidney. Calcitonin from the thyroid does the opposite.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Chemical Coordination and Integration",
+      "language": "en"
+    }
+  ]
+}

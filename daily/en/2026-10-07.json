@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-07",
+  "language": "en",
+  "title": "Daily Dose — 7 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261007_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "The maximum speed with which a car can safely take a circular turn of radius r on a level unbanked road, with coefficient of friction μ, is:",
+      "options": [
+        "√(μrg)",
+        "μrg",
+        "√(rg/μ)",
+        "μ√(rg)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Friction supplies the centripetal force, so μmg = mv²/r gives v(max) = √(μrg). Banking the road allows a higher safe speed.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261007_en_02",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Fluids",
+      "question": "Bernoulli's theorem for the steady flow of an ideal fluid is an application of the conservation of:",
+      "options": [
+        "Mass",
+        "Energy",
+        "Angular momentum",
+        "Charge"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The theorem states that pressure energy, kinetic energy and potential energy per unit volume add to a constant along a streamline. The equation of continuity is the one based on conservation of mass.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 9: Mechanical Properties of Fluids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261007_en_03",
+      "subject": "Physics",
+      "topic": "Semiconductor Electronics",
+      "question": "When a p-n junction diode is forward biased, the width of the depletion region:",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains unchanged",
+        "Becomes infinite"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Forward bias opposes the built-in potential barrier, so the depletion layer narrows and a large current flows. Reverse bias widens it instead.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 14: Semiconductor Electronics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261007_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "Water has a far higher boiling point than hydrogen sulphide mainly because of:",
+      "options": [
+        "Its larger molar mass",
+        "Extensive intermolecular hydrogen bonding",
+        "Its ionic character",
+        "Weaker covalent O-H bonds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oxygen is small and highly electronegative, so water molecules form strong hydrogen bonds. Sulphur is much less electronegative, so H₂S is a gas at room temperature despite its greater mass.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261007_en_05",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "According to Henry's law, the solubility of a gas in a liquid at a fixed pressure:",
+      "options": [
+        "Increases with rise in temperature",
+        "Decreases with rise in temperature",
+        "Is independent of temperature",
+        "First increases then becomes constant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dissolution of a gas is exothermic, so the Henry constant K(H) rises with temperature and solubility falls. This is why aquatic life suffers in warm water.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261007_en_06",
+      "subject": "Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "question": "Heating an alkyl halide with sodium metal in dry ether to obtain a symmetrical alkane is known as the:",
+      "options": [
+        "Wurtz reaction",
+        "Sandmeyer reaction",
+        "Finkelstein reaction",
+        "Swarts reaction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In the Wurtz reaction 2R-X + 2Na gives R-R, so it always produces an alkane with an even number of carbon atoms when a single halide is used.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 6: Haloalkanes and Haloarenes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261007_en_07",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "Photorespiration occurs in C₃ plants but not in C₄ plants because in C₄ plants:",
+      "options": [
+        "RuBisCO is completely absent",
+        "CO₂ concentration at the site of RuBisCO is kept high in bundle sheath cells",
+        "Oxygen is never produced",
+        "The Calvin cycle does not operate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "RuBisCO binds O₂ when CO₂ is scarce. The C₄ pathway pumps CO₂ into bundle sheath cells, so the enzyme always sees plenty of CO₂ and acts only as a carboxylase.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 11: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261007_en_08",
+      "subject": "Botany",
+      "topic": "Biotechnology: Principles and Processes",
+      "question": "The thermostable enzyme used in the polymerase chain reaction is:",
+      "options": [
+        "DNA ligase",
+        "Taq polymerase",
+        "Restriction endonuclease",
+        "Reverse transcriptase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Taq polymerase comes from the thermophilic bacterium Thermus aquaticus and survives the high denaturation temperature of each PCR cycle.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 9: Biotechnology: Principles and Processes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261007_en_09",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "The oxygen dissociation curve of haemoglobin shifts to the right when:",
+      "options": [
+        "pCO₂ falls and pH rises",
+        "pCO₂ rises, pH falls and temperature increases",
+        "Temperature falls sharply",
+        "Oxygen partial pressure rises in the alveoli"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is the Bohr effect. In active tissues higher CO₂, lower pH and higher temperature lower haemoglobin's affinity, so more oxygen is unloaded exactly where it is needed.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 14: Breathing and Exchange of Gases",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261007_en_10",
+      "subject": "Zoology",
+      "topic": "Evolution",
+      "question": "The wings of a butterfly and the wings of a bird are analogous organs, which indicates:",
+      "options": [
+        "Divergent evolution",
+        "Convergent evolution",
+        "Common ancestry",
+        "Genetic drift"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Analogous organs differ in structure and origin but serve the same function, showing that unrelated groups evolved similar adaptations under similar pressures.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 6: Evolution",
+      "language": "en"
+    }
+  ]
+}

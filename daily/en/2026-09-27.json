@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-27",
+  "language": "en",
+  "title": "Daily Dose — 27 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260927_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Straight Line",
+      "question": "The area under a velocity-time graph of a moving body gives its:",
+      "options": [
+        "Acceleration",
+        "Displacement",
+        "Average speed",
+        "Jerk"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Area = velocity × time, which is displacement. The slope of the same graph gives acceleration.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 2: Motion in a Straight Line",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260927_en_02",
+      "subject": "Physics",
+      "topic": "Kinetic Theory",
+      "question": "The average kinetic energy of a molecule of an ideal gas is directly proportional to:",
+      "options": [
+        "Pressure of the gas",
+        "Volume of the gas",
+        "Absolute temperature",
+        "Molecular mass"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Average kinetic energy per molecule is (3/2)kT, so it depends only on absolute temperature and not on the nature of the gas.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 12: Kinetic Theory",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260927_en_03",
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "question": "In a purely inductive AC circuit, the current:",
+      "options": [
+        "Is in phase with the voltage",
+        "Lags behind the voltage by π/2",
+        "Leads the voltage by π/2",
+        "Lags behind the voltage by π"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An inductor opposes any change of current, so the current lags the applied voltage by a quarter cycle and the average power consumed is zero.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 7: Alternating Current",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260927_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "The water molecule is bent rather than linear because the central oxygen atom is:",
+      "options": [
+        "sp hybridised with no lone pair",
+        "sp² hybridised with one lone pair",
+        "sp³ hybridised with two lone pairs",
+        "unhybridised"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Oxygen in water is sp³ hybridised with two bond pairs and two lone pairs; lone pair repulsion pushes the bond angle down to about 104.5°.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260927_en_05",
+      "subject": "Chemistry",
+      "topic": "The d- and f-Block Elements",
+      "question": "Lanthanoid contraction, the steady decrease in size along the lanthanoid series, is caused by:",
+      "options": [
+        "Poor shielding effect of 4f electrons",
+        "Increasing number of shells",
+        "Strong shielding by 5d electrons",
+        "Decreasing nuclear charge"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The diffuse 4f orbitals shield the outer electrons poorly, so the rising nuclear charge pulls them closer and the size shrinks steadily.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 4: The d- and f-Block Elements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260927_en_06",
+      "subject": "Chemistry",
+      "topic": "Amines",
+      "question": "The correct order of basic strength of methylamines in aqueous solution is:",
+      "options": [
+        "(CH₃)₃N > (CH₃)₂NH > CH₃NH₂ > NH₃",
+        "(CH₃)₂NH > CH₃NH₂ > (CH₃)₃N > NH₃",
+        "NH₃ > CH₃NH₂ > (CH₃)₂NH > (CH₃)₃N",
+        "CH₃NH₂ > NH₃ > (CH₃)₂NH > (CH₃)₃N"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In water, basicity balances the +I effect, solvation of the cation and steric crowding. For methyl amines this gives 2° > 1° > 3° > ammonia.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 9: Amines",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260927_en_07",
+      "subject": "Botany",
+      "topic": "Morphology of Flowering Plants",
+      "question": "In which of the following fruits is the edible part a fleshy thalamus rather than the pericarp?",
+      "options": [
+        "Mango",
+        "Apple",
+        "Tomato",
+        "Grape"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Apple is a false fruit or pome in which the thalamus grows fleshy and forms the edible portion, while the true fruit lies within.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 5: Morphology of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260927_en_08",
+      "subject": "Botany",
+      "topic": "Sexual Reproduction in Flowering Plants",
+      "question": "Double fertilisation in angiosperms produces:",
+      "options": [
+        "Two zygotes",
+        "A zygote and the primary endosperm nucleus",
+        "Two endosperm nuclei",
+        "A zygote and a suspensor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One male gamete fuses with the egg to give the diploid zygote (syngamy) and the other fuses with the two polar nuclei to give the triploid PEN (triple fusion).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 1: Sexual Reproduction in Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260927_en_09",
+      "subject": "Zoology",
+      "topic": "Structural Organisation in Animals",
+      "question": "The excretory organs of the earthworm Pheretima are:",
+      "options": [
+        "Malpighian tubules",
+        "Nephridia",
+        "Flame cells",
+        "Green glands"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Earthworms excrete through segmentally arranged nephridia. Malpighian tubules belong to insects such as the cockroach.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 7: Structural Organisation in Animals",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260927_en_10",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "Which part of the human brain acts as the main relay centre for sensory impulses travelling to the cerebrum?",
+      "options": [
+        "Thalamus",
+        "Hypothalamus",
+        "Cerebellum",
+        "Pons"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The thalamus sorts and relays almost all sensory input on its way to the cerebral cortex; the cerebellum instead handles balance and coordination.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    }
+  ]
+}

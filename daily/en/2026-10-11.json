@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-11",
+  "language": "en",
+  "title": "Daily Dose — 11 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261011_en_01",
+      "subject": "Physics",
+      "topic": "Oscillations",
+      "question": "The total mechanical energy of a particle executing simple harmonic motion is proportional to:",
+      "options": [
+        "Amplitude",
+        "Square of the amplitude",
+        "Displacement from the mean position",
+        "Time period"
+      ],
+      "correctAnswer": 1,
+      "explanation": "E = ½mω²A², so the energy depends on A² and stays constant through the motion even though kinetic and potential energy keep interchanging.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 13: Oscillations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261011_en_02",
+      "subject": "Physics",
+      "topic": "Thermal Properties of Matter",
+      "question": "The quantity of heat needed to change 1 kg of ice at 0 °C into water at 0 °C is called its:",
+      "options": [
+        "Specific heat capacity",
+        "Latent heat of fusion",
+        "Latent heat of vaporisation",
+        "Thermal capacity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "During melting the temperature does not change because the heat supplied, about 3.34 × 10⁵ J kg⁻¹ for ice, goes into breaking the bonds of the solid.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 10: Thermal Properties of Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261011_en_03",
+      "subject": "Physics",
+      "topic": "Ray Optics and Optical Instruments",
+      "question": "The least distance of distinct vision for a normal human eye is taken as:",
+      "options": [
+        "10 cm",
+        "25 cm",
+        "50 cm",
+        "Infinity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A normal eye can focus comfortably on objects from 25 cm up to infinity. This 25 cm value is used in the magnifying power formulas of a lens and a microscope.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 9: Ray Optics and Optical Instruments",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261011_en_04",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "The enthalpy change when one mole of a substance is completely burnt in excess oxygen is called the enthalpy of:",
+      "options": [
+        "Formation",
+        "Combustion",
+        "Neutralisation",
+        "Solution"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Enthalpy of combustion is always negative because burning releases heat, and it is the quantity measured in a bomb calorimeter.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261011_en_05",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "In the electrolysis of molten sodium chloride, the product obtained at the cathode is:",
+      "options": [
+        "Chlorine gas",
+        "Sodium metal",
+        "Hydrogen gas",
+        "Oxygen gas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reduction occurs at the cathode, so Na⁺ gains an electron to give sodium metal, while Cl⁻ is oxidised to chlorine at the anode. With aqueous NaCl, hydrogen appears instead.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261011_en_06",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry: Some Basic Principles and Techniques",
+      "question": "Which of the following compounds can show geometrical (cis-trans) isomerism?",
+      "options": [
+        "But-1-ene",
+        "But-2-ene",
+        "Propene",
+        "2-Methylpropene"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Geometrical isomerism needs restricted rotation about a double bond and two different groups on each doubly bonded carbon. Only but-2-ene satisfies both conditions here.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261011_en_07",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "Which of the following is NOT a property of the genetic code?",
+      "options": [
+        "It is degenerate",
+        "It is ambiguous",
+        "It is nearly universal",
+        "It is non-overlapping and commaless"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The code is unambiguous: one codon always specifies only one amino acid. It is degenerate because several codons may code for the same amino acid.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261011_en_08",
+      "subject": "Botany",
+      "topic": "Biotechnology and its Applications",
+      "question": "RNA interference has been used to develop transgenic tobacco plants resistant to:",
+      "options": [
+        "The nematode Meloidogyne incognita",
+        "Cotton bollworm",
+        "Bacterial blight",
+        "Drought stress"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Introducing both sense and antisense RNA creates double stranded RNA that silences the parasite's gene, so the nematode cannot survive in the transgenic host.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 10: Biotechnology and its Applications",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261011_en_09",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "Inside the seminiferous tubules, the cells that nourish and support the developing germ cells are:",
+      "options": [
+        "Leydig cells",
+        "Sertoli cells",
+        "Spermatogonia",
+        "Epithelial cells of the epididymis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sertoli or nurse cells provide nutrition to the germ cells, while the interstitial Leydig cells outside the tubules secrete androgens.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261011_en_10",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "Which class of vertebrates has a three chambered heart in all its members except the crocodile?",
+      "options": [
+        "Amphibia",
+        "Reptilia",
+        "Aves",
+        "Mammalia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reptiles have two atria and an incompletely divided ventricle, but the crocodile is an exception with a four chambered heart. Birds and mammals always have four chambers.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    }
+  ]
+}

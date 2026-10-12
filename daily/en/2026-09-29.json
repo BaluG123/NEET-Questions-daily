@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-29",
+  "language": "en",
+  "title": "Daily Dose — 29 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260929_en_01",
+      "subject": "Physics",
+      "topic": "Oscillations",
+      "question": "In simple harmonic motion, the acceleration of the particle is:",
+      "options": [
+        "Constant in magnitude and direction",
+        "Proportional to displacement and directed towards the mean position",
+        "Proportional to displacement and directed away from the mean position",
+        "Zero at the extreme positions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a = -ω²x, so the acceleration grows with displacement and always points back towards the mean position, which is what makes the motion oscillatory.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 13: Oscillations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260929_en_02",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "The drift velocity of free electrons in a metallic conductor carrying an ordinary current is of the order of:",
+      "options": [
+        "10⁸ m s⁻¹",
+        "10³ m s⁻¹",
+        "10⁻⁴ m s⁻¹",
+        "10⁻¹⁵ m s⁻¹"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Drift velocity is only about a fraction of a millimetre per second; current appears instantly because the electric field is set up along the wire at nearly the speed of light.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 3: Current Electricity",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260929_en_03",
+      "subject": "Physics",
+      "topic": "Wave Optics",
+      "question": "In Young's double slit experiment, if monochromatic light is replaced by white light, the central fringe appears:",
+      "options": [
+        "Dark",
+        "White, with coloured fringes on either side",
+        "Red",
+        "Violet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "At the centre the path difference is zero for every wavelength, so all colours reinforce and give a white fringe, flanked by coloured maxima.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 10: Wave Optics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260929_en_04",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "A process occurring at constant temperature and pressure is spontaneous when:",
+      "options": [
+        "ΔG is positive",
+        "ΔG is negative",
+        "ΔG is zero",
+        "ΔH is always negative"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ΔG = ΔH - TΔS. A negative ΔG means the process is spontaneous, while ΔG = 0 indicates equilibrium.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260929_en_05",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "The coordination number of cobalt in the complex [Co(NH₃)₆]Cl₃ is:",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Coordination number counts the ligand donor atoms bonded directly to the metal. Six ammonia molecules are in the coordination sphere, so it is 6.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260929_en_06",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "The half-life of a first order reaction with rate constant k is given by:",
+      "options": [
+        "0.693 / k",
+        "k / 0.693",
+        "1 / (k[A]₀)",
+        "[A]₀ / 2k"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For a first order reaction t½ = ln2/k = 0.693/k, which is independent of the initial concentration.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260929_en_07",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "The light reactions of photosynthesis take place in the:",
+      "options": [
+        "Stroma of the chloroplast",
+        "Thylakoid membranes",
+        "Cytoplasm",
+        "Outer chloroplast membrane"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Photosystems and the electron transport chain sit in the thylakoid membranes, while the carbon fixing dark reactions occur in the stroma.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 11: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260929_en_08",
+      "subject": "Botany",
+      "topic": "Biodiversity and Conservation",
+      "question": "Which of the following is an example of in-situ conservation of biodiversity?",
+      "options": [
+        "Zoological park",
+        "Biosphere reserve",
+        "Seed bank",
+        "Botanical garden"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In-situ conservation protects species in their own habitat, as in biosphere reserves, national parks and sanctuaries. The other options are ex-situ methods.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 13: Biodiversity and Conservation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260929_en_09",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "Oxytocin and vasopressin are released from which part of the pituitary gland?",
+      "options": [
+        "Anterior pituitary",
+        "Posterior pituitary",
+        "Intermediate lobe",
+        "Pineal gland"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both hormones are actually synthesised in the hypothalamus and are only stored in and released from the neurohypophysis or posterior pituitary.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Chemical Coordination and Integration",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260929_en_10",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "The protection a newborn gets from the antibodies present in the mother's colostrum is an example of:",
+      "options": [
+        "Active immunity",
+        "Passive immunity",
+        "Innate immunity",
+        "Autoimmunity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ready-made IgA antibodies are transferred to the infant rather than produced by it, so the immunity is passive and short lived.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    }
+  ]
+}

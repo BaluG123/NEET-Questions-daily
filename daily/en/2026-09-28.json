@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-28",
+  "language": "en",
+  "title": "Daily Dose — 28 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260928_en_01",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "A body of mass 2 kg is lifted vertically through a height of 5 m. The work done against gravity (take g = 10 m s⁻²) is:",
+      "options": [
+        "10 J",
+        "50 J",
+        "100 J",
+        "200 J"
+      ],
+      "correctAnswer": 2,
+      "explanation": "W = mgh = 2 × 10 × 5 = 100 J, which is stored as gravitational potential energy.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260928_en_02",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "For a satellite revolving very close to the Earth's surface, the escape velocity vₑ and the orbital velocity v₀ are related as:",
+      "options": [
+        "vₑ = v₀",
+        "vₑ = √2 v₀",
+        "vₑ = 2 v₀",
+        "vₑ = v₀/√2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "v₀ = √(gR) and vₑ = √(2gR), so vₑ = √2 v₀, giving about 11.2 km s⁻¹ against roughly 7.9 km s⁻¹.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 7: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260928_en_03",
+      "subject": "Physics",
+      "topic": "Semiconductor Electronics",
+      "question": "In a p-type semiconductor obtained by doping silicon with a trivalent impurity, the majority charge carriers are:",
+      "options": [
+        "Electrons",
+        "Holes",
+        "Protons",
+        "Negative ions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A trivalent dopant such as boron creates vacancies, so holes are the majority carriers and electrons the minority carriers.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 14: Semiconductor Electronics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260928_en_04",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "The formation of ammonia, N₂ + 3H₂ ⇌ 2NH₃, is exothermic. Raising the temperature at equilibrium will:",
+      "options": [
+        "Increase the yield of ammonia",
+        "Decrease the yield of ammonia",
+        "Leave the yield unchanged",
+        "Increase the value of Kp"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By Le Chatelier's principle, heating an exothermic equilibrium favours the backward endothermic direction, so less ammonia forms and Kp falls.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260928_en_05",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "On the basis of standard electrode potentials, which of the following is the strongest reducing agent?",
+      "options": [
+        "Li",
+        "Zn",
+        "Cu",
+        "F₂"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lithium has the most negative standard reduction potential (about -3.05 V), so it loses electrons most readily and is the strongest reducing agent.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260928_en_06",
+      "subject": "Chemistry",
+      "topic": "Alcohols, Phenols and Ethers",
+      "question": "Heating ethanol with excess concentrated sulphuric acid at 443 K chiefly gives:",
+      "options": [
+        "Ethene",
+        "Diethyl ether",
+        "Ethanal",
+        "Ethanoic acid"
+      ],
+      "correctAnswer": 0,
+      "explanation": "At the higher temperature of 443 K intramolecular dehydration dominates and gives ethene; at about 413 K diethyl ether is formed instead.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 7: Alcohols, Phenols and Ethers",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260928_en_07",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "Secondary growth in the stem of a dicot plant is brought about mainly by:",
+      "options": [
+        "Apical meristem",
+        "Vascular cambium",
+        "Intercalary meristem",
+        "Protoderm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lateral vascular cambium cuts off secondary xylem inwards and secondary phloem outwards, increasing the girth of the stem.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260928_en_08",
+      "subject": "Botany",
+      "topic": "Biotechnology: Principles and Processes",
+      "question": "Which class of enzymes is used to cut DNA at specific recognition sequences during gene cloning?",
+      "options": [
+        "DNA ligase",
+        "Restriction endonuclease",
+        "DNA polymerase",
+        "Exonuclease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Restriction endonucleases recognise palindromic sequences and cut within the DNA to leave sticky ends, which ligase then joins.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 9: Biotechnology: Principles and Processes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260928_en_09",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "How many functional spermatozoa are finally formed from one primary spermatocyte?",
+      "options": [
+        "One",
+        "Two",
+        "Four",
+        "Eight"
+      ],
+      "correctAnswer": 2,
+      "explanation": "One primary spermatocyte gives two secondary spermatocytes after meiosis I and four spermatids after meiosis II, all of which mature into sperms.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260928_en_10",
+      "subject": "Zoology",
+      "topic": "Excretory Products and their Elimination",
+      "question": "Antidiuretic hormone (vasopressin) reduces urine output mainly by acting on the:",
+      "options": [
+        "Glomerulus",
+        "Proximal convoluted tubule",
+        "Distal tubule and collecting duct",
+        "Ureter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ADH makes the distal tubule and collecting duct more permeable to water, so more water is reabsorbed and concentrated urine is passed.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 16: Excretory Products and their Elimination",
+      "language": "en"
+    }
+  ]
+}

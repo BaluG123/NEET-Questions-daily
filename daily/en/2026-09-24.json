@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-24",
+  "language": "en",
+  "title": "Daily Dose — 24 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260924_en_01",
+      "subject": "Physics",
+      "topic": "Waves",
+      "question": "The speed of sound is maximum in which of the following media?",
+      "options": [
+        "Vacuum",
+        "Air",
+        "Water",
+        "Steel"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Sound travels fastest in solids because of their high elasticity, and it cannot travel through vacuum at all.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 14: Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260924_en_02",
+      "subject": "Physics",
+      "topic": "System of Particles and Rotational Motion",
+      "question": "The moment of inertia of a thin uniform rod of mass M and length L about an axis passing through its centre and perpendicular to its length is:",
+      "options": [
+        "ML²/3",
+        "ML²/12",
+        "ML²/2",
+        "ML²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For a rod about its central perpendicular axis I = ML²/12. About one end it becomes ML²/3 by the parallel axis theorem.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: System of Particles and Rotational Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260924_en_03",
+      "subject": "Physics",
+      "topic": "Dual Nature of Radiation and Matter",
+      "question": "In the photoelectric effect, the maximum kinetic energy of the emitted photoelectrons depends on:",
+      "options": [
+        "Intensity of incident light",
+        "Frequency of incident light",
+        "Area of the metal plate",
+        "Time of exposure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Einstein's equation KEmax = hν - φ₀ shows the maximum kinetic energy rises with frequency; intensity only changes the number of photoelectrons.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 11: Dual Nature of Radiation and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260924_en_04",
+      "subject": "Chemistry",
+      "topic": "Redox Reactions",
+      "question": "In the reaction Zn + CuSO₄ → ZnSO₄ + Cu, zinc behaves as:",
+      "options": [
+        "Oxidising agent",
+        "Reducing agent",
+        "Catalyst",
+        "Neither oxidised nor reduced"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zinc goes from 0 to +2, that is it is oxidised, and in doing so it reduces Cu²⁺ to Cu. The species that is oxidised is the reducing agent.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 7: Redox Reactions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260924_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "The unit of the rate constant for a first order reaction is:",
+      "options": [
+        "mol L⁻¹ s⁻¹",
+        "s⁻¹",
+        "L mol⁻¹ s⁻¹",
+        "L² mol⁻² s⁻¹"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The unit of k is (mol L⁻¹)^(1-n) s⁻¹. For n = 1 this becomes simply s⁻¹, independent of concentration units.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260924_en_06",
+      "subject": "Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "question": "Which of the following halides undergoes an SN1 reaction most readily?",
+      "options": [
+        "CH₃Br",
+        "CH₃CH₂Br",
+        "(CH₃)₂CHBr",
+        "(CH₃)₃CBr"
+      ],
+      "correctAnswer": 3,
+      "explanation": "SN1 proceeds through a carbocation, so the rate follows carbocation stability: 3° > 2° > 1° > methyl halide.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 6: Haloalkanes and Haloarenes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260924_en_07",
+      "subject": "Botany",
+      "topic": "The Living World",
+      "question": "Which of the following is the lowest or most basic category in the taxonomic hierarchy?",
+      "options": [
+        "Genus",
+        "Family",
+        "Species",
+        "Order"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Species is the basic unit of classification; a group of related species forms a genus, related genera form a family and so on upwards.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 1: The Living World",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260924_en_08",
+      "subject": "Botany",
+      "topic": "Respiration in Plants",
+      "question": "According to NCERT, the net gain of ATP from the complete aerobic oxidation of one molecule of glucose in a eukaryotic cell is:",
+      "options": [
+        "2",
+        "8",
+        "36",
+        "48"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Glycolysis, the Krebs cycle and the electron transport system together give a net gain of 36 ATP per glucose molecule in eukaryotes.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 12: Respiration in Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260924_en_09",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "Insulin is secreted by which cells of the islets of Langerhans?",
+      "options": [
+        "Alpha cells",
+        "Beta cells",
+        "Delta cells",
+        "Acinar cells"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beta cells secrete insulin, which lowers blood glucose, while alpha cells secrete the opposing hormone glucagon.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Chemical Coordination and Integration",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260924_en_10",
+      "subject": "Zoology",
+      "topic": "Biomolecules",
+      "question": "The bond that links two amino acids together in a protein chain is a:",
+      "options": [
+        "Glycosidic bond",
+        "Peptide bond",
+        "Ester bond",
+        "Phosphodiester bond"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A peptide bond forms between the carboxyl group of one amino acid and the amino group of the next with the loss of a water molecule.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 9: Biomolecules",
+      "language": "en"
+    }
+  ]
+}

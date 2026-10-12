@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-05",
+  "language": "en",
+  "title": "Daily Dose — 5 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261005_en_01",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "Kepler's second law, that a planet sweeps out equal areas in equal intervals of time, follows directly from the conservation of:",
+      "options": [
+        "Linear momentum",
+        "Angular momentum",
+        "Mechanical energy",
+        "Mass"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gravity acts along the line joining the Sun and planet, so its torque about the Sun is zero and angular momentum stays constant, which is the law of areas.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 7: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261005_en_02",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "Three resistors of 2 Ω, 3 Ω and 6 Ω are connected in parallel. Their equivalent resistance is:",
+      "options": [
+        "0.5 Ω",
+        "1 Ω",
+        "3 Ω",
+        "11 Ω"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1/R = 1/2 + 1/3 + 1/6 = 1, so R = 1 Ω. In parallel the equivalent resistance is always smaller than the smallest resistor.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 3: Current Electricity",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261005_en_03",
+      "subject": "Physics",
+      "topic": "Dual Nature of Radiation and Matter",
+      "question": "The de Broglie wavelength associated with a particle of mass m moving with velocity v is given by:",
+      "options": [
+        "λ = h/mv",
+        "λ = mv/h",
+        "λ = hv/m",
+        "λ = h/mv²"
+      ],
+      "correctAnswer": 0,
+      "explanation": "λ = h/p = h/mv, so heavier and faster particles have shorter wavelengths, which is why matter waves are noticeable only for electrons and lighter particles.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 11: Dual Nature of Radiation and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261005_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "Among the isoelectronic species O²⁻, F⁻, Na⁺ and Mg²⁺, the largest ionic radius belongs to:",
+      "options": [
+        "O²⁻",
+        "F⁻",
+        "Na⁺",
+        "Mg²⁺"
+      ],
+      "correctAnswer": 0,
+      "explanation": "All four have 10 electrons, so size depends on nuclear charge. Oxygen has the smallest nuclear charge of the set, so its ion holds the electrons most loosely and is largest.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261005_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "For a zero order reaction, the rate of reaction is:",
+      "options": [
+        "Directly proportional to concentration",
+        "Independent of the concentration of the reactant",
+        "Proportional to the square of concentration",
+        "Always zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rate = k[A]⁰ = k, so a plot of concentration against time is a straight line. Such kinetics is seen in some surface catalysed reactions.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261005_en_06",
+      "subject": "Chemistry",
+      "topic": "Alcohols, Phenols and Ethers",
+      "question": "Phenol is a stronger acid than ethanol because:",
+      "options": [
+        "The phenoxide ion is stabilised by resonance",
+        "Phenol has a higher molecular mass",
+        "Ethanol cannot lose a proton at all",
+        "Phenol is insoluble in water"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The negative charge of the phenoxide ion spreads over the ring by resonance, whereas the ethoxide ion has no such delocalisation and is destabilised by the +I effect of the alkyl group.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 7: Alcohols, Phenols and Ethers",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261005_en_07",
+      "subject": "Botany",
+      "topic": "Plant Growth and Development",
+      "question": "The promotion of flowering by a period of low temperature treatment is called:",
+      "options": [
+        "Photoperiodism",
+        "Vernalisation",
+        "Phototropism",
+        "Senescence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vernalisation prevents premature flowering and is needed by winter varieties of wheat, rye and some biennials such as cabbage.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 13: Plant Growth and Development",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261005_en_08",
+      "subject": "Botany",
+      "topic": "Biotechnology and its Applications",
+      "question": "Golden rice is a genetically modified crop enriched in:",
+      "options": [
+        "Iron",
+        "Provitamin A (beta carotene)",
+        "Vitamin C",
+        "Lysine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Golden rice accumulates beta carotene in the grain, which the body converts to vitamin A, so it was developed to fight vitamin A deficiency and childhood blindness.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 10: Biotechnology and its Applications",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261005_en_09",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "A prolonged dietary deficiency of iodine in adults leads to:",
+      "options": [
+        "Diabetes mellitus",
+        "Simple goitre with hypothyroidism",
+        "Acromegaly",
+        "Addison's disease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Without iodine the thyroid cannot make enough thyroxine, so the gland enlarges into a goitre and metabolic rate falls.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Chemical Coordination and Integration",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261005_en_10",
+      "subject": "Zoology",
+      "topic": "Structural Organisation in Animals",
+      "question": "The blood vascular system of the cockroach is described as open because:",
+      "options": [
+        "Blood flows entirely within closed vessels",
+        "Haemolymph flows freely through body sinuses bathing the organs",
+        "It has no heart",
+        "Its blood carries oxygen to every cell"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Colourless haemolymph pools in sinuses rather than staying in vessels, and it carries no respiratory pigment because tracheae deliver oxygen directly to the tissues.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 7: Structural Organisation in Animals",
+      "language": "en"
+    }
+  ]
+}

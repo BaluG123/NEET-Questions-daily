@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-25",
+  "language": "en",
+  "title": "Daily Dose — 25 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260925_en_01",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Fluids",
+      "question": "The rise of water in a narrow capillary tube is mainly due to:",
+      "options": [
+        "Viscosity",
+        "Surface tension",
+        "Atmospheric pressure alone",
+        "Density of water"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Capillary rise h = 2S cos θ / (rρg) is produced by surface tension, and the rise is greater in a tube of smaller radius.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 9: Mechanical Properties of Fluids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260925_en_02",
+      "subject": "Physics",
+      "topic": "Thermal Properties of Matter",
+      "question": "The SI unit of the coefficient of thermal conductivity is:",
+      "options": [
+        "J s⁻¹",
+        "W m⁻¹ K⁻¹",
+        "W m⁻² K⁻⁴",
+        "J kg⁻¹ K⁻¹"
+      ],
+      "correctAnswer": 1,
+      "explanation": "From H = KA(T₁ - T₂)/L, the unit of K works out to W m⁻¹ K⁻¹. W m⁻² K⁻⁴ belongs to Stefan's constant.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 10: Thermal Properties of Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260925_en_03",
+      "subject": "Physics",
+      "topic": "Electrostatic Potential and Capacitance",
+      "question": "When a dielectric slab of dielectric constant K completely fills the space between the plates of a parallel plate capacitor, its capacitance becomes:",
+      "options": [
+        "K times",
+        "1/K times",
+        "K² times",
+        "Unchanged"
+      ],
+      "correctAnswer": 0,
+      "explanation": "C = Kε₀A/d, so filling the gap with a dielectric multiplies the capacitance by K because the dielectric reduces the effective field.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 2: Electrostatic Potential and Capacitance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260925_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "The empirical formula of glucose, whose molecular formula is C₆H₁₂O₆, is:",
+      "options": [
+        "CHO",
+        "CH₂O",
+        "C₂H₄O₂",
+        "C₃H₆O₃"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dividing the subscripts 6 : 12 : 6 by their highest common factor 6 gives the simplest whole number ratio CH₂O.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260925_en_05",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "The pH of a 0.001 M aqueous solution of HCl at 298 K is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "11"
+      ],
+      "correctAnswer": 2,
+      "explanation": "HCl is a strong acid, so [H⁺] = 10⁻³ M and pH = -log(10⁻³) = 3.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260925_en_06",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "Which of the following does NOT give a positive iodoform test?",
+      "options": [
+        "Acetaldehyde",
+        "Acetone",
+        "Ethanol",
+        "Methanol"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The iodoform test needs a CH₃CO- group or a CH₃CH(OH)- group. Methanol has neither, so it gives no yellow precipitate.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260925_en_07",
+      "subject": "Botany",
+      "topic": "Plant Growth and Development",
+      "question": "Which plant hormone is commonly called the stress hormone because it helps plants tolerate drought?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Abscisic acid",
+        "Cytokinin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abscisic acid closes stomata under water stress, inhibits growth and promotes seed dormancy, so it is called the stress hormone.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 13: Plant Growth and Development",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260925_en_08",
+      "subject": "Botany",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "In Mendel's dihybrid cross, the phenotypic ratio obtained in the F₂ generation is:",
+      "options": [
+        "3 : 1",
+        "1 : 2 : 1",
+        "9 : 3 : 3 : 1",
+        "9 : 7"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Independent assortment of two gene pairs gives the classic 9 : 3 : 3 : 1 phenotypic ratio in F₂; 9 : 7 would indicate gene interaction.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260925_en_09",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Malaria is transmitted to humans through the bite of:",
+      "options": [
+        "Male Anopheles mosquito",
+        "Female Anopheles mosquito",
+        "Female Aedes mosquito",
+        "Female Culex mosquito"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only the female Anopheles takes a blood meal and so carries Plasmodium sporozoites; Aedes spreads dengue and Culex spreads filariasis.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260925_en_10",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "The largest fraction of carbon dioxide is transported in human blood in the form of:",
+      "options": [
+        "Carbaminohaemoglobin",
+        "Bicarbonate ions in plasma",
+        "Dissolved CO₂ in plasma",
+        "Carbonic acid in RBCs"
+      ],
+      "correctAnswer": 1,
+      "explanation": "About 70 percent of CO₂ travels as bicarbonate, nearly 20-25 percent as carbaminohaemoglobin and only about 7 percent dissolved in plasma.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 14: Breathing and Exchange of Gases",
+      "language": "en"
+    }
+  ]
+}

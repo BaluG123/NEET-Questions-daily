@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-04",
+  "language": "en",
+  "title": "Daily Dose — 4 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261004_en_01",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "A body moving with velocity v collides head on and elastically with an identical body at rest. After the collision:",
+      "options": [
+        "Both move with v/2",
+        "They exchange velocities",
+        "Both come to rest",
+        "The first body rebounds with v"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In a one dimensional elastic collision of equal masses, momentum and kinetic energy are both conserved only if the velocities are exchanged, so the first stops and the second moves off with v.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261004_en_02",
+      "subject": "Physics",
+      "topic": "Thermal Properties of Matter",
+      "question": "The statement that the energy radiated per unit area per unit time by a black body is proportional to the fourth power of its absolute temperature is known as:",
+      "options": [
+        "Newton's law of cooling",
+        "Wien's displacement law",
+        "Stefan-Boltzmann law",
+        "Kirchhoff's law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "E = σT⁴ is the Stefan-Boltzmann law. Wien's law instead relates the wavelength of maximum emission to temperature.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 10: Thermal Properties of Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261004_en_03",
+      "subject": "Physics",
+      "topic": "Electromagnetic Induction",
+      "question": "The self-inductance of a coil does NOT depend on:",
+      "options": [
+        "Number of turns",
+        "Area of cross-section",
+        "Nature of the core material",
+        "Current flowing through it"
+      ],
+      "correctAnswer": 3,
+      "explanation": "L = μ₀μᵣN²A/l is fixed by geometry and the core, not by the current. The current only decides the flux and the induced emf.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 6: Electromagnetic Induction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261004_en_04",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "A reaction for which ΔH is negative and ΔS is positive will be:",
+      "options": [
+        "Spontaneous at all temperatures",
+        "Spontaneous only at high temperature",
+        "Spontaneous only at low temperature",
+        "Never spontaneous"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ΔG = ΔH - TΔS. With ΔH negative and -TΔS also negative, ΔG stays negative at every temperature.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261004_en_05",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "Which of the following statements about [Ni(CN)₄]²⁻ and [NiCl₄]²⁻ is correct?",
+      "options": [
+        "Both are tetrahedral and paramagnetic",
+        "[Ni(CN)₄]²⁻ is square planar and diamagnetic; [NiCl₄]²⁻ is tetrahedral and paramagnetic",
+        "Both are square planar and diamagnetic",
+        "[Ni(CN)₄]²⁻ is tetrahedral and paramagnetic; [NiCl₄]²⁻ is square planar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CN⁻ is a strong field ligand and pairs the 3d electrons, giving dsp² square planar geometry with no unpaired electrons. Weak field Cl⁻ leaves two unpaired electrons in sp³ tetrahedral geometry.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261004_en_06",
+      "subject": "Chemistry",
+      "topic": "Amines",
+      "question": "The carbylamine reaction, which gives a foul smelling isocyanide, is a laboratory test for:",
+      "options": [
+        "Primary amines",
+        "Secondary amines",
+        "Tertiary amines",
+        "Quaternary ammonium salts"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Only primary amines heated with chloroform and alcoholic KOH give isocyanides; secondary and tertiary amines do not respond to this test.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 9: Amines",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261004_en_07",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "Which of the following cell organelles is NOT bounded by a double membrane?",
+      "options": [
+        "Mitochondrion",
+        "Chloroplast",
+        "Nucleus",
+        "Lysosome"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lysosomes are single membrane bound vesicles budded off from the Golgi apparatus, while mitochondria, plastids and the nucleus all have two membranes.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261004_en_08",
+      "subject": "Botany",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "Red-green colour blindness in humans is inherited as:",
+      "options": [
+        "An autosomal dominant trait",
+        "An autosomal recessive trait",
+        "An X-linked recessive trait",
+        "A Y-linked trait"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The gene lies on the X chromosome, so a male with a single defective X is affected, while a female must inherit the allele from both parents.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261004_en_09",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "HIV multiplies in and progressively destroys which cells of the immune system?",
+      "options": [
+        "Helper T lymphocytes",
+        "B lymphocytes",
+        "Red blood cells",
+        "Platelets"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Loss of helper T cells cripples the whole immune response, which is why AIDS patients suffer repeated opportunistic infections.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261004_en_10",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "Red muscle fibres differ from white muscle fibres in having:",
+      "options": [
+        "Less myoglobin and fewer mitochondria",
+        "Plenty of myoglobin and numerous mitochondria",
+        "No sarcomeres",
+        "A smooth, non-striated appearance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Red fibres are rich in myoglobin and mitochondria, so they respire aerobically and resist fatigue; white fibres rely on anaerobic respiration and tire quickly.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Locomotion and Movement",
+      "language": "en"
+    }
+  ]
+}

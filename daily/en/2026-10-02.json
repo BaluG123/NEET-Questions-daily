@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-02",
+  "language": "en",
+  "title": "Daily Dose — 2 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261002_en_01",
+      "subject": "Physics",
+      "topic": "System of Particles and Rotational Motion",
+      "question": "A spinning dancer rotates faster when she pulls her outstretched arms close to her body. This happens because of the conservation of:",
+      "options": [
+        "Linear momentum",
+        "Angular momentum",
+        "Kinetic energy",
+        "Moment of inertia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "With no external torque, Iω stays constant. Pulling the arms in lowers I, so ω must rise. Her kinetic energy actually increases, using muscular work.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: System of Particles and Rotational Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261002_en_02",
+      "subject": "Physics",
+      "topic": "Waves",
+      "question": "Two tuning forks of frequencies 256 Hz and 260 Hz are sounded together. The number of beats heard per second is:",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "516"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beat frequency is the difference of the two frequencies, 260 - 256 = 4 beats per second.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 14: Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261002_en_03",
+      "subject": "Physics",
+      "topic": "Electric Charges and Fields",
+      "question": "An electric dipole placed in a uniform external electric field experiences:",
+      "options": [
+        "A net force but no torque",
+        "A torque but no net force",
+        "Both a net force and a torque",
+        "Neither a force nor a torque"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The equal and opposite forces on the two charges cancel, so the net force is zero, but they form a couple giving torque τ = pE sin θ.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 1: Electric Charges and Fields",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261002_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "Which of the following molecules has polar bonds but a zero net dipole moment?",
+      "options": [
+        "H₂O",
+        "NH₃",
+        "CO₂",
+        "HCl"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CO₂ is linear and symmetrical, so the two equal C=O bond dipoles point opposite ways and cancel. Water and ammonia are bent and pyramidal, so theirs do not.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261002_en_05",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "According to the Bronsted-Lowry concept, the conjugate base of H₂PO₄⁻ is:",
+      "options": [
+        "H₃PO₄",
+        "HPO₄²⁻",
+        "PO₄³⁻",
+        "H₂PO₄⁻ itself"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A conjugate base is what remains after one proton is donated, so H₂PO₄⁻ loses H⁺ to give HPO₄²⁻. Adding a proton would instead give the conjugate acid H₃PO₄.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261002_en_06",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "The Cannizzaro reaction is given only by those aldehydes which:",
+      "options": [
+        "Contain at least one alpha hydrogen",
+        "Contain no alpha hydrogen",
+        "Contain a benzene ring",
+        "Are water soluble"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aldehydes without an alpha hydrogen, such as HCHO and benzaldehyde, cannot undergo aldol condensation and instead disproportionate with strong alkali.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261002_en_07",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "In dicotyledonous leaves, the guard cells surrounding a stoma are:",
+      "options": [
+        "Dumb-bell shaped",
+        "Bean or kidney shaped with unevenly thickened walls",
+        "Rectangular and uniformly thickened",
+        "Dead and lignified"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The inner wall facing the pore is thick and the outer wall thin, so when the cells become turgid they bend outwards and the stoma opens. Grasses have dumb-bell shaped guard cells.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261002_en_08",
+      "subject": "Botany",
+      "topic": "Organisms and Populations",
+      "question": "The cuckoo (koel) laying its eggs in a crow's nest so that the crow raises its young is an example of:",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Brood parasitism",
+        "Amensalism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In brood parasitism the parasitic bird gets its offspring reared by the host, and its eggs have evolved to resemble the host's in size and colour.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 11: Organisms and Populations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261002_en_09",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "The first heart sound, lubb, is produced by the closure of the:",
+      "options": [
+        "Semilunar valves",
+        "Atrioventricular valves",
+        "Sinoatrial node",
+        "Pulmonary artery"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lubb marks the closure of the bicuspid and tricuspid valves at the start of ventricular systole; dup is the later closure of the semilunar valves.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261002_en_10",
+      "subject": "Zoology",
+      "topic": "Biomolecules",
+      "question": "A non-protein organic cofactor that remains tightly bound to the enzyme throughout the reaction is called a:",
+      "options": [
+        "Coenzyme",
+        "Prosthetic group",
+        "Apoenzyme",
+        "Substrate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prosthetic groups such as the haem of peroxidase stay firmly attached, while coenzymes like NAD bind only transiently during catalysis.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 9: Biomolecules",
+      "language": "en"
+    }
+  ]
+}

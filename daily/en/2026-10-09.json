@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-09",
+  "language": "en",
+  "title": "Daily Dose — 9 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261009_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "At the highest point of its path, the velocity of a projectile launched at an angle θ with speed u is:",
+      "options": [
+        "Zero",
+        "u cos θ, horizontal",
+        "u sin θ, vertical",
+        "u, along the tangent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The vertical component becomes zero at the top but the horizontal component is unaffected by gravity, so the speed there is u cos θ.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261009_en_02",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "A Wheatstone bridge with arms P, Q, R and S is balanced when:",
+      "options": [
+        "P/Q = R/S",
+        "P/Q = S/R",
+        "PQ = RS",
+        "P + Q = R + S"
+      ],
+      "correctAnswer": 0,
+      "explanation": "At balance no current passes through the galvanometer, and applying Kirchhoff's loop rule gives P/Q = R/S. The metre bridge works on this principle.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 3: Current Electricity",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261009_en_03",
+      "subject": "Physics",
+      "topic": "Nuclei",
+      "question": "The binding energy per nucleon is maximum for nuclei of mass number close to:",
+      "options": [
+        "4",
+        "56",
+        "120",
+        "238"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The curve peaks near A = 56, around iron, so iron group nuclei are the most stable. Lighter nuclei release energy by fusion and heavier ones by fission.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 13: Nuclei",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261009_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The energy of an electron in the nth orbit of a hydrogen atom is -13.6/n² eV. The energy needed to remove the electron completely from the ground state is:",
+      "options": [
+        "3.4 eV",
+        "13.6 eV",
+        "-13.6 eV",
+        "27.2 eV"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ionisation means taking the electron from n = 1 to n = infinity, where energy is zero, so the energy supplied must be 0 - (-13.6) = 13.6 eV.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261009_en_05",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "The complexes [Co(NH₃)₅Br]SO₄ and [Co(NH₃)₅SO₄]Br are an example of:",
+      "options": [
+        "Linkage isomerism",
+        "Ionisation isomerism",
+        "Coordination isomerism",
+        "Geometrical isomerism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The two compounds exchange an ion between the coordination sphere and the ionisation sphere, so they give different ions in solution and different precipitation tests.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261009_en_06",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "Among the following carboxylic acids, the strongest in aqueous solution is:",
+      "options": [
+        "HCOOH",
+        "CH₃COOH",
+        "CH₃CH₂COOH",
+        "(CH₃)₃CCOOH"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Formic acid has no electron releasing alkyl group, so its carboxylate ion is least destabilised. Adding or branching alkyl groups lowers acidity further.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261009_en_07",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "The widely accepted fluid mosaic model of the plasma membrane was proposed by:",
+      "options": [
+        "Robert Brown",
+        "Singer and Nicolson",
+        "Schleiden and Schwann",
+        "Camillo Golgi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Singer and Nicolson described the membrane in 1972 as a lipid bilayer with proteins floating in it, which explains its quasi-fluid nature and lateral movement.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261009_en_08",
+      "subject": "Botany",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "Down's syndrome in humans is caused by:",
+      "options": [
+        "Trisomy of chromosome 21",
+        "Monosomy of the X chromosome",
+        "An extra Y chromosome",
+        "Deletion in chromosome 5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An extra copy of chromosome 21 gives 47 chromosomes and results from failure of chromosomes to separate during gamete formation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261009_en_09",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "Which of the following does NOT promote the clotting of blood?",
+      "options": [
+        "Fibrinogen",
+        "Prothrombin",
+        "Heparin",
+        "Calcium ions"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Heparin is a natural anticoagulant that prevents clotting inside intact vessels; the other three are essential parts of the clotting cascade.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261009_en_10",
+      "subject": "Zoology",
+      "topic": "Reproductive Health",
+      "question": "According to NCERT, medical termination of pregnancy is considered relatively safe when carried out up to:",
+      "options": [
+        "Four weeks",
+        "Twelve weeks of pregnancy",
+        "Twenty weeks",
+        "Twenty four weeks"
+      ],
+      "correctAnswer": 1,
+      "explanation": "MTP during the first trimester, up to twelve weeks, is relatively safe; later terminations carry much higher risk and need stricter medical conditions.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 3: Reproductive Health",
+      "language": "en"
+    }
+  ]
+}

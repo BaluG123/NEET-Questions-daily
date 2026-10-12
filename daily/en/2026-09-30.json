@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-30",
+  "language": "en",
+  "title": "Daily Dose — 30 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260930_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "A man of mass 60 kg stands on a weighing machine inside a lift that is accelerating upwards at 2 m s⁻². The reading of the machine (g = 10 m s⁻²) corresponds to a force of:",
+      "options": [
+        "480 N",
+        "600 N",
+        "720 N",
+        "1200 N"
+      ],
+      "correctAnswer": 2,
+      "explanation": "For upward acceleration N = m(g + a) = 60(10 + 2) = 720 N, so the apparent weight is greater than the true weight.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260930_en_02",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "question": "A Carnot engine works between a source at 500 K and a sink at 300 K. Its efficiency is:",
+      "options": [
+        "20%",
+        "40%",
+        "60%",
+        "100%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "η = 1 - T₂/T₁ = 1 - 300/500 = 0.4, that is 40 percent. No real engine between these temperatures can do better.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 11: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260930_en_03",
+      "subject": "Physics",
+      "topic": "Magnetism and Matter",
+      "question": "Substances that are feebly repelled by a magnetic field and move from a stronger to a weaker part of the field are called:",
+      "options": [
+        "Diamagnetic",
+        "Paramagnetic",
+        "Ferromagnetic",
+        "Ferrimagnetic"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Diamagnetic substances such as bismuth, copper and water have no net magnetic moment and are weakly repelled; paramagnetics are weakly attracted.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 5: Magnetism and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260930_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "The first ionisation enthalpy of nitrogen is higher than that of oxygen because nitrogen has:",
+      "options": [
+        "A larger atomic size",
+        "A stable half-filled 2p³ configuration",
+        "A completely filled 2p orbital",
+        "Lower nuclear charge than oxygen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Half-filled 2p³ in nitrogen is extra stable, so more energy is needed to remove an electron than from oxygen, where electron-electron repulsion in a paired 2p orbital helps removal.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260930_en_05",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "Which of the following 0.1 molal aqueous solutions will have the highest boiling point?",
+      "options": [
+        "Glucose",
+        "Urea",
+        "NaCl",
+        "CaCl₂"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Elevation of boiling point depends on the number of particles. The van't Hoff factor is 1 for glucose and urea, 2 for NaCl and 3 for CaCl₂.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260930_en_06",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "The pentose sugar present in ribonucleic acid (RNA) is:",
+      "options": [
+        "Glucose",
+        "Ribose",
+        "2-Deoxyribose",
+        "Fructose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "RNA contains β-D-ribose with an OH group at C-2, whereas DNA contains 2-deoxyribose, which lacks that oxygen and is therefore more stable.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260930_en_07",
+      "subject": "Botany",
+      "topic": "Cell Cycle and Cell Division",
+      "question": "The stage of mitosis in which all the chromosomes line up at the equatorial plate is:",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "At metaphase the chromosomes are most condensed and their centromeres align on the metaphase plate, making this the best stage for studying chromosome shape.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 10: Cell Cycle and Cell Division",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260930_en_08",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "In the lac operon of E. coli, the role of lactose is to act as:",
+      "options": [
+        "A repressor",
+        "An inducer",
+        "A promoter",
+        "A structural gene"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lactose binds the repressor protein so it can no longer sit on the operator, and transcription of z, y and a genes begins. This is negative regulation.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260930_en_09",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "The total number of bones in the skeleton of a normal human adult is:",
+      "options": [
+        "187",
+        "206",
+        "216",
+        "300"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The adult human skeleton has 206 bones, made of 80 axial and 126 appendicular bones. A newborn has many more, which later fuse.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Locomotion and Movement",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260930_en_10",
+      "subject": "Zoology",
+      "topic": "Reproductive Health",
+      "question": "Copper releasing intrauterine devices such as CuT prevent pregnancy mainly by:",
+      "options": [
+        "Blocking the fallopian tubes permanently",
+        "Suppressing sperm motility and their fertilising capacity",
+        "Stopping ovulation completely",
+        "Preventing the release of FSH"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Copper ions released into the uterus suppress sperm motility and fertilising capacity, and the device also increases phagocytosis of sperms.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 3: Reproductive Health",
+      "language": "en"
+    }
+  ]
+}

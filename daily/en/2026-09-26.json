@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-26",
+  "language": "en",
+  "title": "Daily Dose — 26 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260926_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "The angle of friction θ is related to the coefficient of limiting friction μ as:",
+      "options": [
+        "μ = sin θ",
+        "μ = cos θ",
+        "μ = tan θ",
+        "μ = 1/tan θ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The angle of friction is the angle between the resultant of friction and normal reaction and the normal reaction itself, giving tan θ = f/N = μ.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260926_en_02",
+      "subject": "Physics",
+      "topic": "Electromagnetic Induction",
+      "question": "Lenz's law, which fixes the direction of the induced current, is a direct consequence of the conservation of:",
+      "options": [
+        "Charge",
+        "Energy",
+        "Momentum",
+        "Magnetic flux"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The induced current opposes the change producing it, so work must be done against this opposition, which is exactly conservation of energy.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 6: Electromagnetic Induction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260926_en_03",
+      "subject": "Physics",
+      "topic": "Nuclei",
+      "question": "The binding energy of a nucleus is related to its mass defect Δm by:",
+      "options": [
+        "E = Δm c",
+        "E = Δm c²",
+        "E = Δm / c²",
+        "E = 2Δm c"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The mass of a nucleus is less than the sum of its nucleons, and this mass defect appears as binding energy through E = Δm c².",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 13: Nuclei",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260926_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The number of unpaired electrons present in a ground state nitrogen atom (Z = 7) is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nitrogen is 1s² 2s² 2p³. By Hund's rule the three 2p electrons occupy separate orbitals with parallel spins, so three electrons are unpaired.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260926_en_05",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "Which colligative property is most suitable for determining the molecular mass of polymers and proteins?",
+      "options": [
+        "Relative lowering of vapour pressure",
+        "Elevation of boiling point",
+        "Depression of freezing point",
+        "Osmotic pressure"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Osmotic pressure is measurable even in very dilute solutions and is determined at room temperature, which avoids damaging heat-sensitive biomolecules.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260926_en_06",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "Addition of HBr to propene in the absence of peroxide gives mainly:",
+      "options": [
+        "1-Bromopropane",
+        "2-Bromopropane",
+        "1,2-Dibromopropane",
+        "Propane"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By Markovnikov's rule hydrogen adds to the carbon carrying more hydrogens, so bromine goes to C-2 through the more stable secondary carbocation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 9: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260926_en_07",
+      "subject": "Botany",
+      "topic": "Biological Classification",
+      "question": "Euglena is often described as a connecting link between plants and animals because it:",
+      "options": [
+        "Has a rigid cellulose cell wall",
+        "Has chlorophyll but is heterotrophic in the dark",
+        "Reproduces only sexually",
+        "Lacks a nucleus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Euglenoids are photosynthetic in sunlight but behave as heterotrophs in the dark, and they have a protein-rich pellicle instead of a cell wall.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 2: Biological Classification",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260926_en_08",
+      "subject": "Botany",
+      "topic": "Ecosystem",
+      "question": "In any ecosystem, the pyramid of energy is always:",
+      "options": [
+        "Upright",
+        "Inverted",
+        "Spindle shaped",
+        "Either upright or inverted"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Energy is lost as heat at every transfer, so each higher trophic level holds less energy. Pyramids of number and biomass can be inverted, but energy never is.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 12: Ecosystem",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260926_en_09",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "A person with blood group AB can receive blood from which group or groups?",
+      "options": [
+        "AB only",
+        "A and B only",
+        "A, B, AB and O",
+        "O only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Group AB plasma has neither anti-A nor anti-B antibodies, so it is the universal recipient, while group O is the universal donor.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260926_en_10",
+      "subject": "Zoology",
+      "topic": "Evolution",
+      "question": "Industrial melanism observed in the peppered moth in England is a classic example of:",
+      "options": [
+        "Genetic drift",
+        "Natural selection",
+        "Use and disuse of organs",
+        "Mutation pressure alone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After industrialisation soot-darkened tree trunks hid the dark moths from predators, so their frequency rose. This is directional natural selection.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 6: Evolution",
+      "language": "en"
+    }
+  ]
+}

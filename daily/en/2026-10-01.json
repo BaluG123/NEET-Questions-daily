@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-01",
+  "language": "en",
+  "title": "Daily Dose — 1 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261001_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "The number of significant figures in the measurement 0.00430 m is:",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leading zeros are never significant but a trailing zero after the decimal point is, so 4, 3 and the final 0 give three significant figures.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 1: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261001_en_02",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "Two vectors each of magnitude A have a resultant of magnitude A. The angle between them is:",
+      "options": [
+        "60°",
+        "90°",
+        "120°",
+        "180°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "R² = A² + A² + 2A² cos θ. Setting R = A gives A² = 2A²(1 + cos θ), so cos θ = -1/2 and θ = 120°.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261001_en_03",
+      "subject": "Physics",
+      "topic": "Ray Optics and Optical Instruments",
+      "question": "Total internal reflection can take place only when light travels:",
+      "options": [
+        "From a rarer to a denser medium at any angle",
+        "From a denser to a rarer medium at an angle greater than the critical angle",
+        "From a denser to a rarer medium at an angle smaller than the critical angle",
+        "Along the normal between two media"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both conditions must hold together. This is what makes optical fibres, mirages and the sparkle of diamond possible.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 9: Ray Optics and Optical Instruments",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261001_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "The number of moles present in 11.5 g of sodium (atomic mass = 23 u) is:",
+      "options": [
+        "0.25",
+        "0.5",
+        "1",
+        "2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Moles = given mass / molar mass = 11.5 / 23 = 0.5 mol, which contains 3.011 × 10²³ atoms.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261001_en_05",
+      "subject": "Chemistry",
+      "topic": "Redox Reactions",
+      "question": "The oxidation number of sulphur in sulphuric acid (H₂SO₄) is:",
+      "options": [
+        "+2",
+        "+4",
+        "+6",
+        "-2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Taking H as +1 and O as -2: 2(+1) + x + 4(-2) = 0, so x = +6, the maximum oxidation state of sulphur.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 7: Redox Reactions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261001_en_06",
+      "subject": "Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "question": "Chlorobenzene is far less reactive than chloromethane towards nucleophilic substitution mainly because:",
+      "options": [
+        "The C-Cl bond has partial double bond character due to resonance",
+        "Chlorine is more electronegative in chlorobenzene",
+        "Benzene ring is electron deficient",
+        "Chlorobenzene is insoluble in water"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Resonance delocalises a chlorine lone pair into the ring, shortening and strengthening the C-Cl bond, and the sp² carbon adds to the difficulty.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 6: Haloalkanes and Haloarenes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261001_en_07",
+      "subject": "Botany",
+      "topic": "Plant Kingdom",
+      "question": "Gymnosperms differ from angiosperms chiefly in having:",
+      "options": [
+        "Naked ovules not enclosed in an ovary",
+        "Double fertilisation",
+        "Triploid endosperm",
+        "Flowers with coloured petals"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In gymnosperms the ovules are borne naked on megasporophylls, so the seeds are not enclosed in a fruit, and the endosperm is haploid.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 3: Plant Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261001_en_08",
+      "subject": "Botany",
+      "topic": "Microbes in Human Welfare",
+      "question": "Which microorganism is used to convert milk into curd?",
+      "options": [
+        "Saccharomyces cerevisiae",
+        "Lactobacillus",
+        "Aspergillus niger",
+        "Penicillium notatum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lactic acid bacteria such as Lactobacillus ferment milk sugar into lactic acid, which curdles the milk and also raises its vitamin B12 content.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 8: Microbes in Human Welfare",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261001_en_09",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "The presence of stinging cells called cnidoblasts is a defining feature of phylum:",
+      "options": [
+        "Porifera",
+        "Coelenterata (Cnidaria)",
+        "Platyhelminthes",
+        "Aschelminthes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cnidoblasts on the tentacles and body contain nematocysts used for defence and for paralysing prey, as in Hydra and jellyfish.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261001_en_10",
+      "subject": "Zoology",
+      "topic": "Evolution",
+      "question": "In the Hardy-Weinberg equation p² + 2pq + q² = 1, the term 2pq represents the frequency of:",
+      "options": [
+        "Dominant homozygotes",
+        "Recessive homozygotes",
+        "Heterozygotes",
+        "All the alleles together"
+      ],
+      "correctAnswer": 2,
+      "explanation": "p² is the frequency of AA, q² of aa and 2pq of the heterozygotes Aa. A change in these frequencies over time means the population is evolving.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 6: Evolution",
+      "language": "en"
+    }
+  ]
+}

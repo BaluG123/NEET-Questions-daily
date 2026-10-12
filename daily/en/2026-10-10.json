@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-10",
+  "language": "en",
+  "title": "Daily Dose — 10 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261010_en_01",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "A pump raises 100 kg of water per second through a height of 10 m. The power of the pump (g = 10 m s⁻²) is:",
+      "options": [
+        "1 kW",
+        "10 kW",
+        "100 kW",
+        "1000 kW"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Power = work per second = mgh/t = 100 × 10 × 10 = 10000 W, that is 10 kW.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261010_en_02",
+      "subject": "Physics",
+      "topic": "Moving Charges and Magnetism",
+      "question": "The magnetic field at the centre of a circular coil of one turn, radius R, carrying current I is:",
+      "options": [
+        "μ₀I / (2πR)",
+        "μ₀I / (2R)",
+        "μ₀I / (4πR)",
+        "μ₀IR / 2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Integrating the Biot-Savart law around the loop gives B = μ₀I/2R at the centre. The field of a long straight wire, μ₀I/2πR, is a different result.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 4: Moving Charges and Magnetism",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261010_en_03",
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "question": "Which of the following electromagnetic radiations has the shortest wavelength?",
+      "options": [
+        "Radio waves",
+        "Infrared rays",
+        "X-rays",
+        "Gamma rays"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The spectrum runs from radio waves of longest wavelength to gamma rays of shortest wavelength and highest frequency and energy.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 8: Electromagnetic Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261010_en_04",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "According to Huckel's rule, a planar cyclic compound is aromatic if the number of delocalised pi electrons is:",
+      "options": [
+        "4n",
+        "(4n + 2)",
+        "(2n + 1)",
+        "n²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "With n = 0, 1, 2 the rule gives 2, 6, 10 pi electrons. Benzene has six, which is why it is aromatic and unusually stable.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 9: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261010_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "As a rough rule, the rate of a chemical reaction nearly doubles for every rise in temperature of about:",
+      "options": [
+        "1 degree",
+        "10 degrees",
+        "50 degrees",
+        "100 degrees"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A 10 degree rise sharply increases the fraction of molecules with energy above the activation barrier, which is explained quantitatively by the Arrhenius equation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261010_en_06",
+      "subject": "Chemistry",
+      "topic": "Amines",
+      "question": "Aniline is converted into benzene diazonium chloride by treating it with:",
+      "options": [
+        "NaNO₂ and HCl at 273-278 K",
+        "NaOH at 373 K",
+        "Br₂ water at room temperature",
+        "LiAlH₄ in dry ether"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nitrous acid formed in situ diazotises the primary aromatic amine. The low temperature is essential because diazonium salts decompose on warming.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 9: Amines",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261010_en_07",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "The vascular bundles in a typical dicot root are:",
+      "options": [
+        "Conjoint and collateral",
+        "Radial, usually with two to four xylem bundles",
+        "Scattered throughout the ground tissue",
+        "Bicollateral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In roots xylem and phloem lie on separate radii, and a dicot root is usually diarch to tetrarch, whereas a monocot root is polyarch.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261010_en_08",
+      "subject": "Botany",
+      "topic": "Organisms and Populations",
+      "question": "A population growing in a habitat with limited resources shows which type of growth curve?",
+      "options": [
+        "J-shaped exponential curve",
+        "Sigmoid logistic curve",
+        "A straight line",
+        "A continuously falling curve"
+      ],
+      "correctAnswer": 1,
+      "explanation": "With limited resources growth passes through lag, acceleration and deceleration phases before levelling off at the carrying capacity K, giving the S-shaped curve.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 11: Organisms and Populations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261010_en_09",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Which of the following is an autoimmune disorder?",
+      "options": [
+        "Rheumatoid arthritis",
+        "Typhoid",
+        "Ringworm",
+        "Elephantiasis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In an autoimmune disorder the immune system attacks the body's own cells. The other three are caused by bacteria, fungi and a parasitic worm respectively.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261010_en_10",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "The centres that control respiration and cardiovascular reflexes lie in the:",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Corpus callosum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The medulla of the hindbrain governs these involuntary vital functions along with gastric secretion, which is why injury to it is so dangerous.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    }
+  ]
+}

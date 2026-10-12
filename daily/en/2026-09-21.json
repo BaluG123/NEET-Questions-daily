@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-21",
+  "language": "en",
+  "title": "Daily Dose — 21 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260921_en_01",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "If the speed of a moving body is doubled, its kinetic energy becomes:",
+      "options": [
+        "Double",
+        "Four times",
+        "Half",
+        "Unchanged"
+      ],
+      "correctAnswer": 1,
+      "explanation": "KE = ½mv². Since KE is proportional to v², doubling v makes the kinetic energy four times larger.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260921_en_02",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "The acceleration due to gravity at a height equal to the radius of the Earth above its surface is:",
+      "options": [
+        "g/2",
+        "g/4",
+        "g/8",
+        "2g"
+      ],
+      "correctAnswer": 1,
+      "explanation": "g' = g R²/(R + h)². Putting h = R gives g' = gR²/(2R)² = g/4.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 7: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260921_en_03",
+      "subject": "Physics",
+      "topic": "Ray Optics and Optical Instruments",
+      "question": "The power of a convex lens of focal length 25 cm is:",
+      "options": [
+        "+2 D",
+        "+4 D",
+        "-4 D",
+        "+25 D"
+      ],
+      "correctAnswer": 1,
+      "explanation": "P = 1/f with f in metres. f = 0.25 m, so P = 1/0.25 = +4 dioptre (positive for a convex lens).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 9: Ray Optics and Optical Instruments",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260921_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "According to molecular orbital theory, the bond order of the N₂ molecule is:",
+      "options": [
+        "1",
+        "2",
+        "2.5",
+        "3"
+      ],
+      "correctAnswer": 3,
+      "explanation": "N₂ has 10 bonding and 4 antibonding electrons, so bond order = (10 - 4)/2 = 3, which explains its very high bond dissociation energy.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260921_en_05",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "For the reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), the relation between Kp and Kc is Kp = Kc(RT)^Δn. The value of Δn is:",
+      "options": [
+        "+2",
+        "-2",
+        "+1",
+        "0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Δn = moles of gaseous products - moles of gaseous reactants = 2 - 4 = -2.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260921_en_06",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "The oxidation state of iron in potassium ferrocyanide, K₄[Fe(CN)₆], is:",
+      "options": [
+        "+2",
+        "+3",
+        "+4",
+        "0"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Each CN⁻ carries -1 and K carries +1: 4(+1) + x + 6(-1) = 0, giving x = +2.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260921_en_07",
+      "subject": "Botany",
+      "topic": "Biological Classification",
+      "question": "The cell wall of members of Kingdom Fungi is mainly composed of:",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Lignin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fungal cell walls are built of chitin and polysaccharides, unlike the cellulose walls of plants.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 2: Biological Classification",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260921_en_08",
+      "subject": "Botany",
+      "topic": "Morphology of Flowering Plants",
+      "question": "The corolla of a pea flower shows which type of aestivation?",
+      "options": [
+        "Valvate",
+        "Twisted",
+        "Vexillary",
+        "Imbricate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A pea flower has a large standard, two wings and two fused keel petals overlapping in a descending imbricate or vexillary manner.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 5: Morphology of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260921_en_09",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "The water vascular system is a characteristic feature of which animal phylum?",
+      "options": [
+        "Mollusca",
+        "Arthropoda",
+        "Echinodermata",
+        "Annelida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Echinoderms such as starfish possess a water vascular system that helps in locomotion, capture of food and respiration.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260921_en_10",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "Which of the following plasma proteins is mainly responsible for maintaining the osmotic balance of blood?",
+      "options": [
+        "Fibrinogen",
+        "Globulin",
+        "Albumin",
+        "Prothrombin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Albumin is the most abundant plasma protein and maintains colloidal osmotic pressure; fibrinogen helps clotting and globulins in defence.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    }
+  ]
+}

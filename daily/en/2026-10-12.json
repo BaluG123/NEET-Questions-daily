@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-12",
+  "language": "en",
+  "title": "Daily Dose — 12 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261012_en_01",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "The time period of revolution of a geostationary satellite around the Earth is:",
+      "options": [
+        "1 hour",
+        "12 hours",
+        "24 hours",
+        "365 days"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A geostationary satellite must match the Earth's rotation, so it orbits once in 24 hours in the equatorial plane at a height of about 36000 km.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 7: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261012_en_02",
+      "subject": "Physics",
+      "topic": "Electrostatic Potential and Capacitance",
+      "question": "The work done in moving a test charge from one point to another on an equipotential surface is:",
+      "options": [
+        "Zero",
+        "Maximum",
+        "Equal to qV",
+        "Negative"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Potential is the same at every point of the surface, so the potential difference and hence the work W = qΔV is zero. The field is always normal to such a surface.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 2: Electrostatic Potential and Capacitance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261012_en_03",
+      "subject": "Physics",
+      "topic": "Moving Charges and Magnetism",
+      "question": "The magnetic field well inside a long current carrying solenoid having n turns per unit length is:",
+      "options": [
+        "μ₀nI",
+        "μ₀nI/2",
+        "μ₀I/2πn",
+        "Zero"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ampere's circuital law gives B = μ₀nI, a field that is uniform and independent of the radius, which is why solenoids are used to make uniform fields.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 4: Moving Charges and Magnetism",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261012_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "The electron gain enthalpy of chlorine is more negative than that of fluorine because:",
+      "options": [
+        "Chlorine is more electronegative than fluorine",
+        "The small 2p subshell of fluorine has high electron-electron repulsion",
+        "Chlorine has a smaller atomic size",
+        "Fluorine has a higher nuclear charge than chlorine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The incoming electron enters the compact 2p subshell of fluorine where repulsion is severe, so less energy is released than for chlorine, whose larger 3p subshell accommodates it more easily.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261012_en_05",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "A solution showing positive deviation from Raoult's law has:",
+      "options": [
+        "Stronger A-B interactions than A-A and B-B",
+        "Weaker A-B interactions than A-A and B-B",
+        "Negative enthalpy of mixing",
+        "No change in volume on mixing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Weaker interactions between unlike molecules let them escape more easily, so vapour pressure is higher than predicted and both ΔH(mix) and ΔV(mix) are positive, as with ethanol and acetone.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261012_en_06",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "The number of different amino acids commonly found in proteins is:",
+      "options": [
+        "10",
+        "20",
+        "64",
+        "100"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Twenty amino acids build all natural proteins. The figure 64 belongs to the number of codons in the genetic code, not to amino acids.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261012_en_07",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "For every molecule of CO₂ fixed in the Calvin cycle, the number of ATP and NADPH molecules required is:",
+      "options": [
+        "2 ATP and 3 NADPH",
+        "3 ATP and 2 NADPH",
+        "1 ATP and 1 NADPH",
+        "6 ATP and 6 NADPH"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fixing six CO₂ into one glucose needs 18 ATP and 12 NADPH, which works out to 3 ATP and 2 NADPH per CO₂.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 11: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261012_en_08",
+      "subject": "Botany",
+      "topic": "Ecosystem",
+      "question": "The correct sequence of primary succession on a bare rock is:",
+      "options": [
+        "Mosses to lichens to herbs to trees",
+        "Lichens to mosses to herbs and shrubs to trees",
+        "Herbs to lichens to mosses to trees",
+        "Trees to shrubs to mosses to lichens"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lichens are the pioneer species on rock, secreting acids that break it into soil. Mosses follow, then herbs and shrubs, and finally a forest climax community.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 12: Ecosystem",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261012_en_09",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "The Widal test is used in the diagnosis of:",
+      "options": [
+        "Typhoid",
+        "Malaria",
+        "Tuberculosis",
+        "Dengue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Widal detects antibodies against Salmonella typhi, the bacterium that causes typhoid and spreads through contaminated food and water.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261012_en_10",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "Which hormone is known as the emergency or fight-or-flight hormone?",
+      "options": [
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin",
+        "Prolactin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adrenaline from the adrenal medulla raises heart rate, breathing rate and blood glucose, readying the body to deal with sudden stress.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Chemical Coordination and Integration",
+      "language": "en"
+    }
+  ]
+}

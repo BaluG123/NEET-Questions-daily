@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-23",
+  "language": "en",
+  "title": "Daily Dose — 23 Sep 2026",
+  "questions": [
+    {
+      "id": "daily_20260923_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "Which of the following physical quantities has the dimensional formula [M L² T⁻¹]?",
+      "options": [
+        "Work",
+        "Angular momentum",
+        "Power",
+        "Force"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Angular momentum L = mvr gives [M][LT⁻¹][L] = [M L² T⁻¹]. Planck's constant shares the same dimensions.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 1: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260923_en_02",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "For a projectile launched from the ground with a fixed speed, the horizontal range is maximum at an angle of projection of:",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "R = u² sin 2θ / g is maximum when sin 2θ = 1, that is 2θ = 90°, so θ = 45°.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260923_en_03",
+      "subject": "Physics",
+      "topic": "Moving Charges and Magnetism",
+      "question": "A charged particle moving with velocity v enters a uniform magnetic field B parallel to the field. The force experienced by it is:",
+      "options": [
+        "qvB",
+        "Zero",
+        "qvB sin 45°",
+        "qv/B"
+      ],
+      "correctAnswer": 1,
+      "explanation": "F = qvB sin θ. When the velocity is parallel to B, θ = 0 and sin θ = 0, so the magnetic force vanishes and the particle keeps moving in a straight line.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 4: Moving Charges and Magnetism",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260923_en_04",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "For an exothermic reaction carried out at constant pressure, the sign of ΔH is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Always equal to ΔU"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An exothermic reaction releases heat to the surroundings, so the enthalpy of the products is lower than that of the reactants and ΔH is negative.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260923_en_05",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry: Some Basic Principles and Techniques",
+      "question": "Dimethyl ether and ethanol are related to each other as:",
+      "options": [
+        "Chain isomers",
+        "Position isomers",
+        "Functional isomers",
+        "Geometrical isomers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Both have the formula C₂H₆O but different functional groups, an ether and an alcohol, so they are functional isomers.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260923_en_06",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "Which of the following disaccharides is a non-reducing sugar?",
+      "options": [
+        "Maltose",
+        "Lactose",
+        "Sucrose",
+        "Cellobiose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In sucrose both anomeric carbons of glucose and fructose are involved in the glycosidic linkage, so no free aldehyde or keto group is left.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260923_en_07",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "Vascular bundles in a monocot stem are:",
+      "options": [
+        "Conjoint, open and arranged in a ring",
+        "Conjoint, closed and scattered",
+        "Radial and closed",
+        "Bicollateral and open"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Monocot stems have scattered vascular bundles that lack cambium, so they are closed and show no secondary growth.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260923_en_08",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "In a DNA double helix, adenine pairs with thymine through how many hydrogen bonds?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A pairs with T by two hydrogen bonds and G pairs with C by three, which is why GC-rich DNA is more stable.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260923_en_09",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "In a resting muscle, the active sites on actin filaments are masked by:",
+      "options": [
+        "Troponin",
+        "Tropomyosin",
+        "Myosin head",
+        "Meromyosin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tropomyosin covers the myosin-binding sites on actin. Calcium binds troponin, shifting tropomyosin aside so cross bridges can form.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Locomotion and Movement",
+      "language": "en"
+    },
+    {
+      "id": "daily_20260923_en_10",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "Ovulation in the human female is triggered by a sharp surge of which hormone?",
+      "options": [
+        "FSH",
+        "LH",
+        "Progesterone",
+        "Oxytocin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A rapid LH surge around the 14th day of the menstrual cycle ruptures the Graafian follicle and releases the secondary oocyte.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    }
+  ]
+}

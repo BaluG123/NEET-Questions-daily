@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-03",
+  "language": "en",
+  "title": "Daily Dose — 3 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261003_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Straight Line",
+      "question": "A car starting from rest accelerates uniformly and reaches a speed of 20 m s⁻¹ in 5 s. The distance covered in this time is:",
+      "options": [
+        "25 m",
+        "50 m",
+        "100 m",
+        "200 m"
+      ],
+      "correctAnswer": 1,
+      "explanation": "a = (20 - 0)/5 = 4 m s⁻². Then s = ut + ½at² = 0 + ½ × 4 × 25 = 50 m, which also equals average velocity 10 m s⁻¹ times 5 s.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 2: Motion in a Straight Line",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261003_en_02",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Solids",
+      "question": "The Young's modulus of a perfectly rigid body is:",
+      "options": [
+        "Zero",
+        "Unity",
+        "Infinite",
+        "Negative"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Y = stress/strain. A perfectly rigid body suffers no strain whatever the stress, so the ratio tends to infinity.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 8: Mechanical Properties of Solids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261003_en_03",
+      "subject": "Physics",
+      "topic": "Atoms",
+      "question": "In Bohr's model of the hydrogen atom, the radius of the nth orbit is proportional to:",
+      "options": [
+        "n",
+        "n²",
+        "1/n",
+        "1/n²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "rₙ = 0.529 n²/Z angstrom, so the radius grows as n², while the energy varies as -13.6/n² eV.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 12: Atoms",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261003_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "Which of the following sets of quantum numbers is NOT permitted?",
+      "options": [
+        "n = 3, l = 2, m = -2",
+        "n = 3, l = 3, m = 0",
+        "n = 2, l = 1, m = +1",
+        "n = 4, l = 0, m = 0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The azimuthal quantum number can only take values from 0 to (n - 1), so l = 3 is impossible when n = 3.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261003_en_05",
+      "subject": "Chemistry",
+      "topic": "The d- and f-Block Elements",
+      "question": "When potassium permanganate acts as an oxidising agent in acidic medium, the oxidation state of manganese changes from +7 to:",
+      "options": [
+        "+2",
+        "+3",
+        "+4",
+        "+6"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In acidic medium MnO₄⁻ accepts five electrons to give the almost colourless Mn²⁺. In neutral or faintly alkaline medium it stops at MnO₂ with Mn in +4.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 4: The d- and f-Block Elements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261003_en_06",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "Benzene prefers electrophilic substitution over addition reactions because:",
+      "options": [
+        "It has no pi electrons",
+        "Substitution preserves the stable delocalised pi electron system",
+        "Its carbon atoms are sp³ hybridised",
+        "It is a saturated hydrocarbon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Addition would destroy the aromatic sextet and its large resonance stabilisation, so benzene reacts by substitution, which keeps the ring aromatic.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 9: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261003_en_07",
+      "subject": "Botany",
+      "topic": "Respiration in Plants",
+      "question": "The respiratory quotient (RQ) when fats are used as the respiratory substrate is:",
+      "options": [
+        "Equal to 1",
+        "Less than 1",
+        "Greater than 1",
+        "Zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fats are poor in oxygen, so more O₂ is consumed than CO₂ released and RQ falls below 1. For carbohydrates RQ is 1 and for organic acids it exceeds 1.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 12: Respiration in Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261003_en_08",
+      "subject": "Botany",
+      "topic": "Sexual Reproduction in Flowering Plants",
+      "question": "Apomixis in flowering plants refers to:",
+      "options": [
+        "Formation of seeds without fertilisation",
+        "Formation of fruits without seeds",
+        "Fusion of two male gametes",
+        "Germination of pollen on the stigma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Apomictic seeds are genetically identical to the mother plant, which is why the trait is valuable for keeping hybrid vigour stable across generations.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 1: Sexual Reproduction in Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261003_en_09",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "The corpus luteum formed after ovulation mainly secretes:",
+      "options": [
+        "Oestrogen",
+        "Progesterone",
+        "FSH",
+        "LH"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Progesterone from the corpus luteum keeps the endometrium ready for implantation; if pregnancy does not occur the corpus luteum degenerates and menstruation follows.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261003_en_10",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "The resting membrane potential of a neuron is maintained mainly by:",
+      "options": [
+        "Sodium-potassium pump",
+        "Opening of voltage gated sodium channels",
+        "Release of neurotransmitters",
+        "Myelin sheath"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pump drives three Na⁺ out for every two K⁺ in, keeping the inside negative at about -70 mV. Sodium channels open only during an action potential.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    }
+  ]
+}
