@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-17",
+  "language": "en",
+  "title": "Daily Dose — 17 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261017_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Straight Line",
+      "question": "Two trains travel on parallel tracks in the same direction at 60 km/h and 40 km/h. The speed of the faster train relative to the slower one is:",
+      "options": [
+        "100 km/h",
+        "20 km/h",
+        "50 km/h",
+        "Zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For motion in the same direction the relative velocity is the difference, 60 - 40 = 20 km/h. Had they moved oppositely it would have been 100 km/h.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 2: Motion in a Straight Line",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261017_en_02",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Solids",
+      "question": "The area under the stress-strain curve of a material within the elastic limit represents the:",
+      "options": [
+        "Young's modulus",
+        "Elastic potential energy stored per unit volume",
+        "Breaking stress",
+        "Poisson's ratio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Energy density equals ½ × stress × strain, which is exactly the area under the straight part of the curve. The slope, not the area, gives Young's modulus.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 8: Mechanical Properties of Solids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261017_en_03",
+      "subject": "Physics",
+      "topic": "Wave Optics",
+      "question": "In single slit diffraction, the width of the central maximum is:",
+      "options": [
+        "Equal to that of other maxima",
+        "Twice that of the other maxima",
+        "Half that of the other maxima",
+        "Independent of the slit width"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The central maximum stretches between the first minima on both sides, so it is twice as wide as the secondary maxima, and it widens further as the slit is narrowed.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 10: Wave Optics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261017_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "In the reaction N₂ + 3H₂ → 2NH₃, if 1 mol of N₂ reacts with 2 mol of H₂, the limiting reagent is:",
+      "options": [
+        "N₂",
+        "H₂",
+        "NH₃",
+        "Neither, both are used up"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One mole of N₂ needs 3 mol of H₂ but only 2 mol are available, so hydrogen runs out first and decides how much ammonia can form.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261017_en_05",
+      "subject": "Chemistry",
+      "topic": "Redox Reactions",
+      "question": "The reaction 2H₂O₂ → 2H₂O + O₂ is an example of:",
+      "options": [
+        "Combination reaction",
+        "Disproportionation reaction",
+        "Displacement reaction",
+        "Neutralisation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oxygen in H₂O₂ is in the -1 state and goes both to -2 in water and to 0 in oxygen gas, so the same element is oxidised and reduced at once.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 7: Redox Reactions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261017_en_06",
+      "subject": "Chemistry",
+      "topic": "Amines",
+      "question": "Gabriel phthalimide synthesis is used for preparing:",
+      "options": [
+        "Primary aliphatic amines",
+        "Secondary amines",
+        "Aromatic primary amines such as aniline",
+        "Quaternary ammonium salts"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The method gives pure primary amines free of secondary and tertiary products, but aryl halides do not undergo the required nucleophilic substitution, so aromatic amines cannot be made this way.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 9: Amines",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261017_en_07",
+      "subject": "Botany",
+      "topic": "Morphology of Flowering Plants",
+      "question": "The arrangement of ovules on the placenta within the ovary is known as:",
+      "options": [
+        "Aestivation",
+        "Phyllotaxy",
+        "Placentation",
+        "Venation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Placentation may be marginal as in pea, axile as in china rose, parietal as in mustard, free central as in Dianthus or basal as in sunflower.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 5: Morphology of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261017_en_08",
+      "subject": "Botany",
+      "topic": "Biotechnology: Principles and Processes",
+      "question": "In agarose gel electrophoresis, DNA fragments separate because they:",
+      "options": [
+        "Are positively charged and move to the anode",
+        "Are negatively charged and move to the anode, smaller fragments moving farther",
+        "Move towards the cathode by size",
+        "Dissolve at different rates in the gel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The phosphate backbone makes DNA negatively charged, so it migrates to the anode, and the sieving gel holds back larger fragments. Bands are seen as orange under UV after staining with ethidium bromide.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 9: Biotechnology: Principles and Processes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261017_en_09",
+      "subject": "Zoology",
+      "topic": "Excretory Products and their Elimination",
+      "question": "The juxtaglomerular apparatus releases renin in response to:",
+      "options": [
+        "A rise in glomerular blood pressure",
+        "A fall in glomerular blood flow or blood pressure",
+        "An excess of calcium in blood",
+        "A rise in blood glucose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Renin starts the renin-angiotensin pathway, which constricts vessels and triggers aldosterone, raising blood pressure and restoring the glomerular filtration rate.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 16: Excretory Products and their Elimination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261017_en_10",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "The hormone secreted by the placenta that is detected in urine for early pregnancy testing is:",
+      "options": [
+        "hCG",
+        "FSH",
+        "Oxytocin",
+        "Relaxin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Human chorionic gonadotropin appears soon after implantation and keeps the corpus luteum alive so that progesterone secretion continues.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    }
+  ]
+}

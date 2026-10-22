@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-18",
+  "language": "en",
+  "title": "Daily Dose — 18 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261018_en_01",
+      "subject": "Physics",
+      "topic": "Oscillations",
+      "question": "A spring of force constant k is cut into two equal halves. The force constant of each half becomes:",
+      "options": [
+        "k/2",
+        "k",
+        "2k",
+        "4k"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Force constant varies inversely with length, so halving the length doubles k. A shorter spring is therefore stiffer.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 13: Oscillations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261018_en_02",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "The value of acceleration due to gravity is minimum at:",
+      "options": [
+        "The poles",
+        "The equator",
+        "45 degrees latitude",
+        "It is the same everywhere on Earth"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Earth bulges at the equator, so the radius is largest there, and the rotational effect further reduces the effective value of g.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 7: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261018_en_03",
+      "subject": "Physics",
+      "topic": "Electrostatic Potential and Capacitance",
+      "question": "The energy stored in a capacitor of capacitance C charged to a potential difference V is:",
+      "options": [
+        "CV",
+        "½CV²",
+        "2CV²",
+        "C/V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Energy builds up as charge is added against a rising potential, giving U = ½CV² = ½QV = Q²/2C.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 2: Electrostatic Potential and Capacitance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261018_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "According to VSEPR theory, the shape of the ammonia molecule is:",
+      "options": [
+        "Trigonal planar",
+        "Trigonal pyramidal",
+        "Tetrahedral",
+        "Linear"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nitrogen has three bond pairs and one lone pair in a tetrahedral arrangement, but the shape counts only the atoms, so it is pyramidal with a bond angle of about 107°.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261018_en_05",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "According to Faraday's first law of electrolysis, the mass of a substance deposited at an electrode is proportional to:",
+      "options": [
+        "The quantity of electricity passed",
+        "The concentration of the electrolyte",
+        "The distance between the electrodes",
+        "The temperature of the solution"
+      ],
+      "correctAnswer": 0,
+      "explanation": "m = ZIt, where Q = It is the total charge passed. One faraday, 96500 C, deposits one gram equivalent of the substance.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261018_en_06",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "The IUPAC name of the complex [Pt(NH₃)₂Cl₂] is:",
+      "options": [
+        "Diamminedichloridoplatinum(II)",
+        "Dichloridodiammineplatinum(IV)",
+        "Platinum diammine dichloride",
+        "Diamminedichloridoplatinate(II)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ligands are named alphabetically (ammine before chlorido) before the metal, and the complex is neutral so the metal keeps its own name rather than the -ate ending. Platinum here is +2.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261018_en_07",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "Which simple permanent tissue provides mechanical strength to young stems and the petioles of leaves while still allowing them to grow?",
+      "options": [
+        "Parenchyma",
+        "Collenchyma",
+        "Sclerenchyma",
+        "Xylem fibres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Collenchyma cells are living, with cellulose and pectin thickened at the corners, so they give flexible support. Sclerenchyma is dead and rigid.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261018_en_08",
+      "subject": "Botany",
+      "topic": "Organisms and Populations",
+      "question": "The relationship between a fig tree and its specific pollinator wasp species is an example of:",
+      "options": [
+        "Parasitism",
+        "Mutualism",
+        "Competition",
+        "Predation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The wasp pollinates the fig and in return uses some developing seeds to raise its larvae, so both partners benefit and neither can reproduce without the other.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 11: Organisms and Populations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261018_en_09",
+      "subject": "Zoology",
+      "topic": "Structural Organisation in Animals",
+      "question": "Which type of epithelial tissue lines the inner surface of the small intestine and helps in absorption?",
+      "options": [
+        "Simple squamous",
+        "Simple columnar",
+        "Stratified squamous",
+        "Cuboidal of the kidney tubule"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tall columnar cells, often with microvilli, increase the absorptive surface. Simple squamous lines alveoli for diffusion and stratified squamous protects the skin.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 7: Structural Organisation in Animals",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261018_en_10",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "Excess secretion of growth hormone in an adult, after the epiphyseal plates have closed, causes:",
+      "options": [
+        "Gigantism",
+        "Acromegaly",
+        "Dwarfism",
+        "Cretinism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Long bones can no longer lengthen, so the hands, feet and jaw thicken instead. The same excess before puberty would cause gigantism.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Chemical Coordination and Integration",
+      "language": "en"
+    }
+  ]
+}

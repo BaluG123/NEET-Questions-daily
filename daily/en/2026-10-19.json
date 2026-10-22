@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-19",
+  "language": "en",
+  "title": "Daily Dose — 19 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261019_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "A bullet of mass 10 g is fired with a speed of 400 m/s from a gun of mass 4 kg. The recoil speed of the gun is:",
+      "options": [
+        "1 m/s",
+        "4 m/s",
+        "10 m/s",
+        "40 m/s"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Momentum is conserved and was initially zero, so 4 × v = 0.010 × 400, giving v = 1 m/s in the opposite direction.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261019_en_02",
+      "subject": "Physics",
+      "topic": "Waves",
+      "question": "The fundamental frequency of a closed organ pipe of length L, compared with an open pipe of the same length, is:",
+      "options": [
+        "Twice",
+        "Half",
+        "Equal",
+        "Four times"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A closed pipe supports a quarter wavelength in its fundamental and an open pipe half a wavelength, so the closed pipe sounds an octave lower and gives only odd harmonics.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 14: Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261019_en_03",
+      "subject": "Physics",
+      "topic": "Moving Charges and Magnetism",
+      "question": "A moving coil galvanometer is converted into an ammeter by connecting:",
+      "options": [
+        "A high resistance in series",
+        "A low resistance (shunt) in parallel",
+        "A capacitor in series",
+        "A high resistance in parallel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A shunt carries most of the current and keeps the ammeter's resistance very low, as an ammeter must not disturb the circuit it measures. A voltmeter needs a series high resistance.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 4: Moving Charges and Magnetism",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261019_en_04",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "An aqueous solution of sodium acetate is basic because:",
+      "options": [
+        "The acetate ion undergoes hydrolysis to give OH⁻ ions",
+        "Sodium ion hydrolyses to give OH⁻ ions",
+        "It is a strong base",
+        "It does not dissociate in water"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The salt of a weak acid and a strong base undergoes anionic hydrolysis: CH₃COO⁻ + H₂O gives CH₃COOH and OH⁻, so pH rises above 7.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261019_en_05",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "Terminal alkynes such as ethyne are weakly acidic because the hydrogen is attached to a carbon that is:",
+      "options": [
+        "sp³ hybridised",
+        "sp² hybridised",
+        "sp hybridised with high s character",
+        "Unhybridised"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An sp carbon has 50 percent s character, holds the electron pair close to the nucleus and so releases the proton more easily. Acidity follows sp > sp² > sp³.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 9: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261019_en_06",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "Which of the following aqueous solutions is isotonic with human blood and therefore used for intravenous injection?",
+      "options": [
+        "Distilled water",
+        "0.9 percent sodium chloride, that is normal saline",
+        "10 percent sodium chloride",
+        "Pure glucose crystals"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Normal saline has the same osmotic pressure as blood, so red cells neither swell and burst in a hypotonic fluid nor shrink in a hypertonic one.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261019_en_07",
+      "subject": "Botany",
+      "topic": "Plant Kingdom",
+      "question": "In the life cycle of a moss, the dominant, photosynthetic and free living stage is the:",
+      "options": [
+        "Diploid sporophyte",
+        "Haploid gametophyte",
+        "Zygote",
+        "Spore mother cell"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In bryophytes the gametophyte is the main plant body and the sporophyte stays attached to it and depends on it for nutrition, the reverse of what happens in ferns.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 3: Plant Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261019_en_08",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "In cyclic photophosphorylation, which of the following is produced?",
+      "options": [
+        "Only ATP",
+        "Both ATP and NADPH",
+        "Only NADPH",
+        "ATP, NADPH and oxygen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Only PS I takes part, the electron returns to the same photosystem, and no water is split, so neither NADPH nor oxygen is formed.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 11: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261019_en_09",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "Which of the following is a fundamental chordate character present in all chordates at some stage of life?",
+      "options": [
+        "A dorsal hollow nerve cord",
+        "A ventral solid nerve cord",
+        "An exoskeleton of chitin",
+        "A closed water vascular system"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chordates have a notochord, a dorsal hollow nerve cord and paired pharyngeal gill slits. Non-chordates have a ventral solid double nerve cord instead.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261019_en_10",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Which of the following best describes the action of a vaccine?",
+      "options": [
+        "It supplies ready-made antibodies to the body",
+        "It introduces antigens so that the body makes antibodies and memory cells",
+        "It kills all pathogens already present in the body",
+        "It replaces the damaged immune cells"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vaccination gives active immunity: memory B and T cells recognise the real pathogen later and mount a rapid, massive response. Ready-made antibodies would be passive immunisation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    }
+  ]
+}

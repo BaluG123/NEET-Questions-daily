@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-22",
+  "language": "en",
+  "title": "Daily Dose — 22 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261022_en_01",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "In a perfectly inelastic collision between two bodies, which quantity is conserved?",
+      "options": [
+        "Kinetic energy only",
+        "Linear momentum only",
+        "Both kinetic energy and momentum",
+        "Neither"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Momentum is conserved in every collision, but in an inelastic one the bodies stick together and part of the kinetic energy becomes heat and sound.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261022_en_02",
+      "subject": "Physics",
+      "topic": "Ray Optics and Optical Instruments",
+      "question": "White light splits into its constituent colours on passing through a prism because different colours have different:",
+      "options": [
+        "Speeds in vacuum",
+        "Speeds in the glass, hence different refractive indices",
+        "Intensities",
+        "Amplitudes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "All colours travel at the same speed in vacuum, but in glass violet slows most, so it has the greatest refractive index and bends most, while red bends least.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 9: Ray Optics and Optical Instruments",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261022_en_03",
+      "subject": "Physics",
+      "topic": "Nuclei",
+      "question": "A radioactive sample has a half-life of 10 days. The fraction of the sample left undecayed after 30 days is:",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/8",
+        "1/16"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Thirty days is three half-lives, so the amount left is (1/2)³ = 1/8 of the original.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 13: Nuclei",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261022_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "Lithium resembles magnesium in many of its properties although they belong to different groups. This is known as:",
+      "options": [
+        "The diagonal relationship",
+        "Isomorphism",
+        "Allotropy",
+        "The lanthanoid effect"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The first element of a group often resembles the second element of the next group because their ionic sizes and charge to radius ratios are close. Beryllium and aluminium form another such pair.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261022_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "The acid catalysed hydrolysis of an ester in a large excess of water follows first order kinetics although two reactants are involved. Such a reaction is called:",
+      "options": [
+        "A zero order reaction",
+        "A pseudo first order reaction",
+        "A second order reaction",
+        "An elementary reaction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is present in such excess that its concentration hardly changes, so it merges into the rate constant and the reaction appears to depend only on the ester.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261022_en_06",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "Loss of the biological activity of an enzyme on heating, without breaking its peptide bonds, is called:",
+      "options": [
+        "Hydrolysis",
+        "Denaturation",
+        "Saponification",
+        "Polymerisation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Heat and extreme pH break the hydrogen and other weak bonds that hold the secondary and tertiary structure, so the active site is lost while the primary structure survives.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261022_en_07",
+      "subject": "Botany",
+      "topic": "Plant Growth and Development",
+      "question": "Plants that flower only when the duration of light is less than a critical period are called:",
+      "options": [
+        "Long day plants",
+        "Short day plants",
+        "Day neutral plants",
+        "Vernalised plants"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Short day plants such as chrysanthemum actually need a long uninterrupted dark period, and the stimulus is perceived by the leaves, not the buds.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 13: Plant Growth and Development",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261022_en_08",
+      "subject": "Botany",
+      "topic": "Sexual Reproduction in Flowering Plants",
+      "question": "The innermost layer of the microsporangium wall, which nourishes the developing pollen grains, is the:",
+      "options": [
+        "Epidermis",
+        "Endothecium",
+        "Middle layer",
+        "Tapetum"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tapetal cells are dense with cytoplasm and often have more than one nucleus, and they also supply the sporopollenin that builds the exine.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 1: Sexual Reproduction in Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261022_en_09",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "The volume of blood pumped out by each ventricle in one minute is called the:",
+      "options": [
+        "Stroke volume",
+        "Cardiac output",
+        "Vital capacity",
+        "Systolic volume"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cardiac output equals stroke volume times heart rate, roughly 70 mL × 72 per minute, which comes to about 5 litres in a healthy adult.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261022_en_10",
+      "subject": "Zoology",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "A woman who is a carrier of haemophilia marries a normal man. The probability that their son will be haemophilic is:",
+      "options": [
+        "Zero",
+        "25 percent of all children, that is half of the sons",
+        "All sons will be affected",
+        "Only the daughters will be affected"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The cross X^H X^h with X^H Y gives sons that are half normal and half haemophilic, so half the sons, which is a quarter of all the children, are affected.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-20",
+  "language": "en",
+  "title": "Daily Dose — 20 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261020_en_01",
+      "subject": "Physics",
+      "topic": "System of Particles and Rotational Motion",
+      "question": "The rotational analogue of force in linear motion is:",
+      "options": [
+        "Angular momentum",
+        "Torque",
+        "Moment of inertia",
+        "Angular velocity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Torque τ = Iα parallels F = ma, with moment of inertia playing the role of mass and angular momentum that of linear momentum.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: System of Particles and Rotational Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261020_en_02",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "question": "For an ideal gas, the relation between the molar specific heats is Cp - Cv = R. The ratio Cp/Cv for a monatomic gas is:",
+      "options": [
+        "1.4",
+        "1.67",
+        "1.33",
+        "1.0"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A monatomic gas has f = 3, so Cv = 3R/2 and Cp = 5R/2, giving γ = 5/3 = 1.67. Diatomic gases give 1.4.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 11: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261020_en_03",
+      "subject": "Physics",
+      "topic": "Electromagnetic Induction",
+      "question": "A step-up transformer increases the voltage. In an ideal transformer this is accompanied by:",
+      "options": [
+        "An equal increase in current",
+        "A proportionate decrease in current, keeping power the same",
+        "An increase in frequency",
+        "An increase in power output"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An ideal transformer conserves power, so VpIp = VsIs. Raising voltage lowers current, which is exactly why power is transmitted at high voltage to cut I²R losses.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 6: Electromagnetic Induction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261020_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The electronic configuration of chromium (Z = 24) in its ground state is:",
+      "options": [
+        "[Ar] 3d⁴ 4s²",
+        "[Ar] 3d⁵ 4s¹",
+        "[Ar] 3d⁶ 4s⁰",
+        "[Ar] 3d³ 4s³"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One 4s electron shifts to 3d because a half-filled d subshell is extra stable, thanks to symmetrical distribution and greater exchange energy. Copper is stable as 3d¹⁰ 4s¹ for the same reason.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261020_en_05",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry: Some Basic Principles and Techniques",
+      "question": "Which of the following groups is an ortho and para directing but deactivating substituent on a benzene ring?",
+      "options": [
+        "-OH",
+        "-CH₃",
+        "-Cl",
+        "-NO₂"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chlorine withdraws electrons by the -I effect, making the ring less reactive, but its lone pair enters the ring by resonance and directs incoming groups to the ortho and para positions.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261020_en_06",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "The correct order of reactivity towards nucleophilic addition is:",
+      "options": [
+        "Acetone > Acetaldehyde > Formaldehyde",
+        "Formaldehyde > Acetaldehyde > Acetone",
+        "Acetaldehyde > Formaldehyde > Acetone",
+        "All react at the same rate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alkyl groups both reduce the positive charge on the carbonyl carbon and block the approach of the nucleophile, so reactivity falls as their number rises.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261020_en_07",
+      "subject": "Botany",
+      "topic": "The Living World",
+      "question": "In the binomial name Mangifera indica, the word indica represents the:",
+      "options": [
+        "Generic name",
+        "Specific epithet",
+        "Family name",
+        "Order"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The first word is the genus and begins with a capital letter, the second is the specific epithet in small letters, and both are printed in italics or underlined when handwritten.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 1: The Living World",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261020_en_08",
+      "subject": "Botany",
+      "topic": "Ecosystem",
+      "question": "The rate of production of organic matter by producers per unit area per unit time is called:",
+      "options": [
+        "Secondary productivity",
+        "Gross primary productivity",
+        "Standing crop",
+        "Decomposition rate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Net primary productivity is what is left after the plants' own respiration, and it is this that becomes available to herbivores.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 12: Ecosystem",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261020_en_09",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "Accumulation of uric acid crystals in the joints causing their inflammation is known as:",
+      "options": [
+        "Osteoporosis",
+        "Gout",
+        "Myasthenia gravis",
+        "Muscular dystrophy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Osteoporosis is loss of bone mass from low oestrogen, and myasthenia gravis is an autoimmune block at the neuromuscular junction.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Locomotion and Movement",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261020_en_10",
+      "subject": "Zoology",
+      "topic": "Biotechnology and its Applications",
+      "question": "Human insulin produced by recombinant DNA technology and marketed as humulin was made by inserting the genes for:",
+      "options": [
+        "The A and B polypeptide chains into E. coli",
+        "Proinsulin into yeast only",
+        "The C peptide into E. coli",
+        "Insulin receptors into bacteria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Eli Lilly produced the two chains separately in E. coli and then joined them by disulphide bonds, avoiding the allergy that animal insulin sometimes caused.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 10: Biotechnology and its Applications",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-13",
+  "language": "en",
+  "title": "Daily Dose — 13 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261013_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "A body moving along a circular path with constant speed has:",
+      "options": [
+        "Zero acceleration",
+        "Acceleration directed towards the centre",
+        "Acceleration along the tangent",
+        "Constant velocity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed is constant but the direction of velocity keeps changing, so there is a centripetal acceleration v²/r pointing towards the centre.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261013_en_02",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "A cricketer moves his hands backwards while catching a fast ball. This reduces the force on his hands because it:",
+      "options": [
+        "Decreases the change in momentum",
+        "Increases the time of impact",
+        "Increases the mass of the ball",
+        "Reduces the ball's kinetic energy to zero instantly"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The change in momentum is fixed by the ball's speed, so F = Δp/Δt is lowered only by stretching the time of impact.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261013_en_03",
+      "subject": "Physics",
+      "topic": "Ray Optics and Optical Instruments",
+      "question": "An object is placed 30 cm in front of a concave mirror of focal length 15 cm. The image formed is:",
+      "options": [
+        "Virtual, erect and magnified",
+        "Real, inverted and of the same size",
+        "Real, inverted and diminished",
+        "Virtual, inverted and diminished"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The object sits exactly at the centre of curvature (2f = 30 cm), so the image also forms at 2f, real, inverted and of the same size.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 9: Ray Optics and Optical Instruments",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261013_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "Which concentration term is independent of temperature?",
+      "options": [
+        "Molarity",
+        "Molality",
+        "Normality",
+        "Volume percentage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Molality uses the mass of solvent, and mass does not change with temperature, whereas molarity depends on volume, which expands on heating.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261013_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "According to molecular orbital theory, the O₂ molecule is paramagnetic because it has:",
+      "options": [
+        "No unpaired electrons",
+        "Two unpaired electrons in antibonding pi orbitals",
+        "A bond order of 1",
+        "Only sigma bonds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The last two electrons of O₂ go singly into the degenerate π*2p orbitals with parallel spins, which valence bond theory could not explain.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261013_en_06",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "Tollens' reagent gives a silver mirror with:",
+      "options": [
+        "Acetone",
+        "Benzophenone",
+        "Acetaldehyde",
+        "Diethyl ether"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tollens' reagent oxidises aldehydes and deposits metallic silver. Ketones such as acetone and benzophenone give no reaction.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261013_en_07",
+      "subject": "Botany",
+      "topic": "Plant Growth and Development",
+      "question": "Removal of the shoot apex leads to the growth of lateral buds. This shows that the apex is the source of:",
+      "options": [
+        "Gibberellin causing bolting",
+        "Auxin causing apical dominance",
+        "Ethylene causing ripening",
+        "Abscisic acid causing dormancy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Auxin made at the apex suppresses lateral buds, which is why tea bushes and hedges are pruned to make them bushy.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 13: Plant Growth and Development",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261013_en_08",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "The Hershey and Chase experiment with bacteriophages conclusively proved that:",
+      "options": [
+        "Protein is the genetic material",
+        "DNA is the genetic material",
+        "RNA is the genetic material",
+        "Both DNA and protein carry genes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Phages labelled with radioactive phosphorus passed their DNA into the bacteria, while sulphur labelled protein coats stayed outside, so DNA carries heredity.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261013_en_09",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "The part of the retina that has only cones and gives the sharpest vision is the:",
+      "options": [
+        "Blind spot",
+        "Fovea in the macula lutea",
+        "Ciliary body",
+        "Optic disc"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The fovea centralis is a thinned pit packed with cones, so an image focused there is seen in greatest detail; the optic disc has no photoreceptors at all.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261013_en_10",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Benign tumours differ from malignant tumours in that benign tumours:",
+      "options": [
+        "Remain confined to their original site and do not metastasise",
+        "Spread to distant organs through blood",
+        "Always grow faster than malignant tumours",
+        "Are caused only by viruses"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Malignant cells invade surrounding tissue and travel in the blood to start secondary tumours, a process called metastasis, which is what makes cancer life threatening.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    }
+  ]
+}

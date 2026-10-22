@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-16",
+  "language": "en",
+  "title": "Daily Dose — 16 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261016_en_01",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Fluids",
+      "question": "A hydraulic lift works on the principle that pressure applied to an enclosed fluid is transmitted undiminished in all directions. This is:",
+      "options": [
+        "Archimedes' principle",
+        "Pascal's law",
+        "Stokes' law",
+        "Bernoulli's principle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pascal's law lets a small force on a narrow piston lift a heavy load on a wide piston, since pressure is the same but areas differ.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 9: Mechanical Properties of Fluids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261016_en_02",
+      "subject": "Physics",
+      "topic": "Thermal Properties of Matter",
+      "question": "According to Newton's law of cooling, the rate of loss of heat by a body is proportional to:",
+      "options": [
+        "The fourth power of its absolute temperature",
+        "The temperature difference between the body and its surroundings",
+        "Its specific heat capacity",
+        "The square of its surface area"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The law holds for a small temperature difference, so a hot body cools quickly at first and then more slowly as the difference shrinks.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 10: Thermal Properties of Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261016_en_03",
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "question": "At resonance in a series LCR circuit:",
+      "options": [
+        "The impedance is maximum and the current minimum",
+        "The impedance is minimum and equals R, and the current is maximum",
+        "The current leads the voltage by π/2",
+        "No current flows"
+      ],
+      "correctAnswer": 1,
+      "explanation": "At resonance XL equals XC, so they cancel and Z = R. The current is then in phase with the voltage, a property used to tune radio receivers.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 7: Alternating Current",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261016_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "An element with the electronic configuration [Ar] 3d¹⁰ 4s² 4p³ belongs to which group and block of the periodic table?",
+      "options": [
+        "Group 13, p-block",
+        "Group 15, p-block",
+        "Group 5, d-block",
+        "Group 15, d-block"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The last electron enters a 4p orbital, so it is a p-block element. For p-block the group number is 10 plus the number of valence electrons, that is 10 + 5 = 15.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261016_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "The activation energy of a reaction is lowered by:",
+      "options": [
+        "Raising the temperature",
+        "Adding a catalyst",
+        "Increasing the concentration",
+        "Increasing the surface area"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A catalyst offers an alternative path of lower activation energy. Temperature does not change Ea; it only increases the fraction of molecules that already have it.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261016_en_06",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "Which of the following is a storage polysaccharide found in animals?",
+      "options": [
+        "Starch",
+        "Cellulose",
+        "Glycogen",
+        "Chitin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Glycogen, stored in liver and muscle, is a highly branched glucose polymer. Starch is the plant store and cellulose the structural polymer of plant cell walls.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261016_en_07",
+      "subject": "Botany",
+      "topic": "Respiration in Plants",
+      "question": "In a eukaryotic cell, glycolysis takes place in the:",
+      "options": [
+        "Mitochondrial matrix",
+        "Cytoplasm",
+        "Inner mitochondrial membrane",
+        "Chloroplast stroma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Glycolysis is cytoplasmic and needs no oxygen, which is why it is common to both aerobic and anaerobic respiration. The Krebs cycle runs in the matrix.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 12: Respiration in Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261016_en_08",
+      "subject": "Botany",
+      "topic": "Biodiversity and Conservation",
+      "question": "Species diversity in general shows which pattern as one moves from the poles towards the equator?",
+      "options": [
+        "It decreases steadily",
+        "It increases",
+        "It stays the same",
+        "It first increases and then falls to zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tropical regions have been undisturbed for long, have a constant climate and more solar energy, so they support far greater diversity than temperate or polar regions.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 13: Biodiversity and Conservation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261016_en_09",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "The volume of air that remains in the lungs even after a forcible expiration is called the:",
+      "options": [
+        "Expiratory reserve volume",
+        "Residual volume",
+        "Vital capacity",
+        "Total lung capacity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Residual volume is about 1100 to 1200 mL and can never be expelled, which is why the lungs never collapse completely.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 14: Breathing and Exchange of Gases",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261016_en_10",
+      "subject": "Zoology",
+      "topic": "Microbes in Human Welfare",
+      "question": "The first antibiotic, penicillin, was discovered by Alexander Fleming from the fungus:",
+      "options": [
+        "Penicillium notatum",
+        "Aspergillus niger",
+        "Trichoderma polysporum",
+        "Streptococcus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fleming noticed that a Penicillium mould stopped Staphylococci from growing around it. Chain and Florey later purified it, and the three shared the Nobel Prize.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 8: Microbes in Human Welfare",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-21",
+  "language": "en",
+  "title": "Daily Dose — 21 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261021_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "If the percentage errors in the measurement of length and breadth of a rectangle are 2 percent and 3 percent, the maximum percentage error in its area is:",
+      "options": [
+        "1 percent",
+        "5 percent",
+        "6 percent",
+        "2.5 percent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For a product the relative errors add, so the error in area is 2 + 3 = 5 percent.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 1: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261021_en_02",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Fluids",
+      "question": "A small spherical body falling through a viscous liquid attains terminal velocity when:",
+      "options": [
+        "Its weight exceeds the viscous force",
+        "The net force on it becomes zero",
+        "The upthrust alone balances the weight",
+        "Its acceleration becomes maximum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Weight is balanced by the upthrust plus the viscous drag given by Stokes' law, so acceleration ceases and the body falls at a steady speed.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 9: Mechanical Properties of Fluids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261021_en_03",
+      "subject": "Physics",
+      "topic": "Dual Nature of Radiation and Matter",
+      "question": "In a photoelectric experiment, the stopping potential depends on:",
+      "options": [
+        "The intensity of light only",
+        "The frequency of incident light and the work function of the metal",
+        "The area of the emitter plate",
+        "The distance of the source"
+      ],
+      "correctAnswer": 1,
+      "explanation": "eV₀ = hν - φ₀, so the stopping potential rises with frequency and falls as the work function increases, but intensity changes only the photocurrent.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 11: Dual Nature of Radiation and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261021_en_04",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "The entropy change of the system is positive for which of the following processes?",
+      "options": [
+        "Freezing of water into ice",
+        "Condensation of steam",
+        "Sublimation of solid iodine",
+        "Formation of a crystal from solution"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Entropy measures disorder, and a solid turning directly into a gas gives a huge rise in randomness. The other three processes all increase order.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261021_en_05",
+      "subject": "Chemistry",
+      "topic": "The d- and f-Block Elements",
+      "question": "The spin only magnetic moment of a divalent ion having three unpaired electrons is approximately:",
+      "options": [
+        "1.73 BM",
+        "2.83 BM",
+        "3.87 BM",
+        "5.92 BM"
+      ],
+      "correctAnswer": 2,
+      "explanation": "μ = √(n(n+2)) BM, so for n = 3 we get √15 = 3.87 Bohr magneton. The values for n = 1 and 2 are 1.73 and 2.83.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 4: The d- and f-Block Elements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261021_en_06",
+      "subject": "Chemistry",
+      "topic": "Alcohols, Phenols and Ethers",
+      "question": "The Lucas test, using concentrated HCl and anhydrous ZnCl₂, gives immediate turbidity with:",
+      "options": [
+        "Primary alcohols",
+        "Secondary alcohols",
+        "Tertiary alcohols",
+        "Phenols"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The test works through a carbocation, so a tertiary alcohol reacts at once, a secondary one in about five minutes and a primary one only on heating.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 7: Alcohols, Phenols and Ethers",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261021_en_07",
+      "subject": "Botany",
+      "topic": "Cell Cycle and Cell Division",
+      "question": "In which phase of the cell cycle does DNA replication take place?",
+      "options": [
+        "G₁ phase",
+        "S phase",
+        "G₂ phase",
+        "M phase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DNA content doubles during the synthesis phase while the chromosome number stays the same, since the two chromatids remain joined at the centromere.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 10: Cell Cycle and Cell Division",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261021_en_08",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "In a transcription unit of a bacterium, the enzyme RNA polymerase binds to the:",
+      "options": [
+        "Terminator",
+        "Promoter",
+        "Structural gene itself",
+        "Operator only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The promoter lies towards the 5' end of the coding strand and defines where transcription starts and which strand is the template.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261021_en_09",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "At a chemical synapse, the neurotransmitter is released from the:",
+      "options": [
+        "Post-synaptic membrane",
+        "Pre-synaptic knob, into the synaptic cleft",
+        "Myelin sheath",
+        "Node of Ranvier"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Calcium entry makes synaptic vesicles fuse with the pre-synaptic membrane and release transmitter, which then binds receptors on the post-synaptic membrane. Transmission is therefore one way.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261021_en_10",
+      "subject": "Zoology",
+      "topic": "Evolution",
+      "question": "The appearance of many different species of Darwin's finches on the Galapagos Islands from a single ancestral seed eating form is an example of:",
+      "options": [
+        "Convergent evolution",
+        "Adaptive radiation",
+        "Genetic drift",
+        "Artificial selection"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Adaptive radiation is the spread of one ancestral stock into many forms suited to different habitats, seen here in the variety of beak shapes matched to different diets.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 6: Evolution",
+      "language": "en"
+    }
+  ]
+}

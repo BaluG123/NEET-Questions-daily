@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-14",
+  "language": "en",
+  "title": "Daily Dose — 14 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261014_en_01",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "The work done by the centripetal force on a body moving in a circle at constant speed in one full revolution is:",
+      "options": [
+        "Zero",
+        "mv²",
+        "2πr × F",
+        "½mv²"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The centripetal force is always perpendicular to the displacement, so W = F s cos 90° = 0 at every instant.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261014_en_02",
+      "subject": "Physics",
+      "topic": "Waves",
+      "question": "The apparent change in the frequency of sound when the source and the listener move relative to each other is called the:",
+      "options": [
+        "Doppler effect",
+        "Beat phenomenon",
+        "Resonance",
+        "Interference"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An approaching source raises the apparent frequency and a receding one lowers it, which is why the horn of a passing train sounds shriller and then deeper.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 14: Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261014_en_03",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "A cell of emf E and internal resistance r is connected across an external resistance R. The terminal potential difference is:",
+      "options": [
+        "E + Ir",
+        "E - Ir",
+        "E/R",
+        "Ir only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Some emf is used up inside the cell, so V = E - Ir. The terminal voltage equals the emf only when no current is drawn.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 3: Current Electricity",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261014_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "Heisenberg's uncertainty principle states that it is impossible to determine simultaneously and exactly the:",
+      "options": [
+        "Mass and charge of an electron",
+        "Position and momentum of an electron",
+        "Spin and charge of an electron",
+        "Energy and mass of an electron"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Δx × Δp is at least h/4π, which is why Bohr's definite orbits give way to orbitals, that is regions of probability.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261014_en_05",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "The solubility of silver chloride in water decreases when sodium chloride is added to it. This is due to the:",
+      "options": [
+        "Common ion effect",
+        "Buffer action",
+        "Hydrolysis of the salt",
+        "Increase in ionic product of water"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Added Cl⁻ pushes the equilibrium AgCl ⇌ Ag⁺ + Cl⁻ backwards so that the solubility product Ksp is not exceeded, and AgCl precipitates out.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261014_en_06",
+      "subject": "Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "question": "The correct order of reactivity of alkyl halides towards an SN2 reaction is:",
+      "options": [
+        "3° > 2° > 1° > CH₃X",
+        "CH₃X > 1° > 2° > 3°",
+        "2° > 1° > CH₃X > 3°",
+        "1° > CH₃X > 3° > 2°"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SN2 happens in a single step through a crowded transition state, so the least hindered methyl halide reacts fastest. This order is exactly opposite to SN1.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 6: Haloalkanes and Haloarenes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261014_en_07",
+      "subject": "Botany",
+      "topic": "Biological Classification",
+      "question": "A lichen is best described as a symbiotic association between:",
+      "options": [
+        "A fungus and an alga",
+        "Two different fungi",
+        "A bacterium and a virus",
+        "A fungus and the roots of a higher plant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The alga, called the phycobiont, makes food while the fungus, the mycobiont, absorbs water and minerals and shelters it. Lichens are sensitive pollution indicators.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 2: Biological Classification",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261014_en_08",
+      "subject": "Botany",
+      "topic": "Sexual Reproduction in Flowering Plants",
+      "question": "Transfer of pollen grains from the anther to the stigma of a different plant of the same species is called:",
+      "options": [
+        "Autogamy",
+        "Geitonogamy",
+        "Xenogamy",
+        "Cleistogamy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Xenogamy is the only type that brings genetically different pollen to the stigma, so it alone produces real genetic variation.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 1: Sexual Reproduction in Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261014_en_09",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "The QRS complex of a normal electrocardiogram represents:",
+      "options": [
+        "Atrial depolarisation",
+        "Ventricular depolarisation",
+        "Ventricular repolarisation",
+        "Closure of the semilunar valves"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The P wave is atrial depolarisation, QRS is ventricular depolarisation that begins ventricular contraction, and the T wave is ventricular repolarisation.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261014_en_10",
+      "subject": "Zoology",
+      "topic": "Evolution",
+      "question": "The experiment of Stanley Miller and Harold Urey supported the theory of:",
+      "options": [
+        "Special creation",
+        "Chemical evolution of life",
+        "Spontaneous generation from mud",
+        "Panspermia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Passing electric discharge through methane, ammonia, hydrogen and water vapour produced amino acids, showing that organic monomers could form in primitive conditions.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 6: Evolution",
+      "language": "en"
+    }
+  ]
+}

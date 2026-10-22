@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-15",
+  "language": "en",
+  "title": "Daily Dose — 15 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261015_en_01",
+      "subject": "Physics",
+      "topic": "System of Particles and Rotational Motion",
+      "question": "The centre of mass of a uniform circular ring of radius R lies:",
+      "options": [
+        "On the ring itself",
+        "At its geometrical centre, where there is no material",
+        "At a distance R/2 from the centre",
+        "It cannot be defined"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By symmetry the centre of mass is at the geometric centre, which shows that the centre of mass need not lie within the material of the body.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: System of Particles and Rotational Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261015_en_02",
+      "subject": "Physics",
+      "topic": "Kinetic Theory",
+      "question": "The number of degrees of freedom of a diatomic gas molecule at ordinary temperature, ignoring vibration, is:",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A diatomic molecule has three translational and two rotational degrees of freedom, giving f = 5 and hence γ = 1.4.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 12: Kinetic Theory",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261015_en_03",
+      "subject": "Physics",
+      "topic": "Electric Charges and Fields",
+      "question": "A charge q is placed at the centre of a cube. The electric flux through any one face of the cube is:",
+      "options": [
+        "q/ε₀",
+        "q/6ε₀",
+        "q/8ε₀",
+        "Zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "By Gauss's law the total flux is q/ε₀, and by symmetry the six identical faces share it equally.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 1: Electric Charges and Fields",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261015_en_04",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "Hess's law of constant heat summation is a direct consequence of the fact that enthalpy is:",
+      "options": [
+        "A path function",
+        "A state function",
+        "Always negative",
+        "Independent of the amount of substance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Because enthalpy depends only on the initial and final states, the total enthalpy change is the same whether a reaction happens in one step or several.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261015_en_05",
+      "subject": "Chemistry",
+      "topic": "The d- and f-Block Elements",
+      "question": "Most compounds of transition metals are coloured mainly because of:",
+      "options": [
+        "d-d electronic transitions",
+        "Very high lattice energy",
+        "Their large atomic radii",
+        "Complete filling of d orbitals"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ligands split the d orbitals, and an electron absorbs visible light to jump between them, so the complementary colour is seen. Sc³⁺ and Zn²⁺ are colourless as they have no d-d transition.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 4: The d- and f-Block Elements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261015_en_06",
+      "subject": "Chemistry",
+      "topic": "Alcohols, Phenols and Ethers",
+      "question": "Williamson's synthesis is used for preparing ethers and works best when the alkyl halide used is:",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Aromatic"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The alkoxide is a strong base as well as a nucleophile, so with a hindered tertiary halide elimination wins and an alkene is formed instead of the ether.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 7: Alcohols, Phenols and Ethers",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261015_en_07",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "Which of the following structures is found in a prokaryotic cell?",
+      "options": [
+        "Mesosome",
+        "Mitochondrion",
+        "Endoplasmic reticulum",
+        "Nuclear envelope"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A mesosome is an infolding of the plasma membrane in bacteria that helps in respiration, secretion and DNA replication. Membrane bound organelles are absent in prokaryotes.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261015_en_08",
+      "subject": "Botany",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "Flower colour in Mirabilis jalapa, where a cross between red and white gives pink flowers in F₁, is an example of:",
+      "options": [
+        "Complete dominance",
+        "Incomplete dominance",
+        "Codominance",
+        "Epistasis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neither allele is fully dominant, so the heterozygote shows an intermediate phenotype and the F₂ phenotypic ratio becomes 1 : 2 : 1 instead of 3 : 1.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261015_en_09",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "The joint between the atlas vertebra and the occipital condyles of the skull is a:",
+      "options": [
+        "Pivot joint",
+        "Hinge joint",
+        "Ball and socket joint",
+        "Gliding joint"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This pivot joint lets the head rotate sideways. The shoulder is ball and socket, the knee is a hinge and the wrist carpals form gliding joints.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Locomotion and Movement",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261015_en_10",
+      "subject": "Zoology",
+      "topic": "Reproductive Health",
+      "question": "In the ART procedure called ZIFT, what is transferred into the fallopian tube?",
+      "options": [
+        "An ovum only",
+        "A zygote or early embryo up to the 8 blastomere stage",
+        "An embryo of more than 8 blastomeres",
+        "Sperms only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ZIFT places the zygote or early embryo in the fallopian tube, while an embryo of more than eight blastomeres is placed in the uterus, which is IUT.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 3: Reproductive Health",
+      "language": "en"
+    }
+  ]
+}
