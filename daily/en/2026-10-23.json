@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-23",
+  "language": "en",
+  "title": "Daily Dose — 23 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261023_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Straight Line",
+      "question": "A car moving at speed v is brought to rest by braking over a distance d. If the speed is doubled, with the same retardation the stopping distance becomes:",
+      "options": [
+        "2d",
+        "4d",
+        "d/2",
+        "Unchanged"
+      ],
+      "correctAnswer": 1,
+      "explanation": "From v² = u² - 2as the stopping distance is proportional to the square of the initial speed, so doubling the speed makes it four times longer.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 2: Motion in a Straight Line",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261023_en_02",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Fluids",
+      "question": "The excess pressure inside a soap bubble of radius r and surface tension S is:",
+      "options": [
+        "2S/r",
+        "4S/r",
+        "S/r",
+        "S/2r"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A soap bubble has two liquid surfaces, inner and outer, so the excess pressure is twice that of a liquid drop, which is 2S/r.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 9: Mechanical Properties of Fluids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261023_en_03",
+      "subject": "Physics",
+      "topic": "Atoms",
+      "question": "Rutherford's alpha particle scattering experiment led to the conclusion that an atom has:",
+      "options": [
+        "A uniformly distributed positive charge",
+        "A small, dense, positively charged nucleus with mostly empty space around it",
+        "Electrons embedded in a positive sphere",
+        "No positive charge at all"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Most alpha particles went straight through, showing the atom is largely empty, while the rare large angle deflections pointed to a tiny concentrated nucleus.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 12: Atoms",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261023_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "According to Fajans' rules, the covalent character of an ionic bond increases when:",
+      "options": [
+        "The cation is large and the anion small",
+        "The cation is small and highly charged and the anion is large",
+        "Both ions are large",
+        "The charge on both ions is low"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A small, highly charged cation polarises a large, easily deformed anion strongly, so electron density is shared and the bond gains covalent character. This is why LiI is more covalent than LiF.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261023_en_05",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "For a reversible reaction, if the reaction quotient Q is less than the equilibrium constant K, the reaction will:",
+      "options": [
+        "Proceed in the forward direction",
+        "Proceed in the backward direction",
+        "Already be at equilibrium",
+        "Stop completely"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Q below K means products are too few, so the net reaction moves forward until Q rises to equal K. When Q is greater than K it moves backward.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261023_en_06",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "Aldol condensation is given by aldehydes and ketones that contain:",
+      "options": [
+        "No alpha hydrogen",
+        "At least one alpha hydrogen",
+        "An aromatic ring",
+        "A halogen atom"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A base removes the acidic alpha hydrogen to give a carbanion, which attacks another carbonyl group to form a beta-hydroxy carbonyl compound.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261023_en_07",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "The flattened membranous sacs of the Golgi apparatus are known as:",
+      "options": [
+        "Cristae",
+        "Cisternae",
+        "Thylakoids",
+        "Grana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Golgi cisternae are stacked in parallel and carry out packaging, glycosylation and the formation of lysosomes. Cristae are infoldings of the mitochondrial inner membrane.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261023_en_08",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "The Meselson and Stahl experiment on E. coli using heavy nitrogen proved that DNA replication is:",
+      "options": [
+        "Conservative",
+        "Semiconservative",
+        "Dispersive",
+        "Discontinuous on both strands"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After one generation in ¹⁴N all the DNA was of intermediate density, showing each new molecule keeps one parental strand and builds one new one.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261023_en_09",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "An antibody molecule of the IgG class is represented as H₂L₂, which means it has:",
+      "options": [
+        "Two heavy and two light polypeptide chains",
+        "Two helical and two linear chains",
+        "Two hydrogen and two lipid chains",
+        "Four identical heavy chains"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Each antibody is Y shaped with two long heavy chains and two short light chains held by disulphide bonds, and the tips form the antigen binding sites.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261023_en_10",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "During normal inspiration in humans, the volume of the thoracic cavity increases because:",
+      "options": [
+        "The diaphragm relaxes and domes upward",
+        "The diaphragm contracts and flattens while the external intercostals raise the ribs",
+        "The internal intercostals contract",
+        "The lungs actively expand on their own"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The enlarged thorax lowers intrapulmonary pressure below atmospheric pressure, so air rushes in. Lungs have no muscle of their own and follow the chest wall passively.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 14: Breathing and Exchange of Gases",
+      "language": "en"
+    }
+  ]
+}

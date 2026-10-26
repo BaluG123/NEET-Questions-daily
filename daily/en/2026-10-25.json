@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-25",
+  "language": "en",
+  "title": "Daily Dose — 25 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261025_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "A body is in equilibrium under the action of three concurrent forces. This is possible only if:",
+      "options": [
+        "All three forces are equal in magnitude",
+        "Their vector sum is zero",
+        "They all act in the same direction",
+        "Two of them are perpendicular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For translational equilibrium the resultant must vanish, so the three force vectors drawn head to tail form a closed triangle.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261025_en_02",
+      "subject": "Physics",
+      "topic": "Thermal Properties of Matter",
+      "question": "According to Wien's displacement law, as the temperature of a black body rises, the wavelength of maximum emission:",
+      "options": [
+        "Increases proportionally",
+        "Decreases, shifting towards the blue end",
+        "Remains unchanged",
+        "Becomes zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "λm T is a constant, so a hotter body glows from red through yellow to bluish white, which is how the surface temperature of stars is estimated.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 10: Thermal Properties of Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261025_en_03",
+      "subject": "Physics",
+      "topic": "Wave Optics",
+      "question": "According to Malus' law, when completely plane polarised light of intensity I₀ passes through an analyser whose axis makes an angle θ with the plane of polarisation, the transmitted intensity is:",
+      "options": [
+        "I₀ cos θ",
+        "I₀ cos² θ",
+        "I₀ sin θ",
+        "I₀ sin² θ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only the component of the amplitude along the analyser axis passes, and intensity goes as the square of amplitude, so I = I₀ cos² θ and the light vanishes at θ = 90°.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 10: Wave Optics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261025_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "Two samples of pure water collected from different sources are found to contain hydrogen and oxygen in the same fixed mass ratio of 1 : 8. This illustrates the law of:",
+      "options": [
+        "Conservation of mass",
+        "Definite proportions",
+        "Multiple proportions",
+        "Gaseous volumes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The law of definite proportions says a given compound always has the same elements in the same proportion by mass, whatever its source or method of preparation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261025_en_05",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "The Nernst equation for an electrode allows one to calculate the electrode potential at:",
+      "options": [
+        "Standard conditions only",
+        "Any concentration of the electrolyte",
+        "Absolute zero only",
+        "Equilibrium only, where the cell potential is maximum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "E = E° - (0.059/n) log[ ] at 298 K extends the standard potential to non-standard concentrations. At equilibrium the cell potential is zero, not maximum.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261025_en_06",
+      "subject": "Chemistry",
+      "topic": "Amines",
+      "question": "Aniline is a weaker base than ammonia because in aniline:",
+      "options": [
+        "The lone pair on nitrogen is delocalised into the benzene ring",
+        "Nitrogen is absent",
+        "The ring releases electrons to nitrogen",
+        "It forms a stable anion"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Resonance makes the lone pair less available for donation to a proton, so aniline is a far weaker base than aliphatic amines or ammonia.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 9: Amines",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261025_en_07",
+      "subject": "Botany",
+      "topic": "Biomolecules",
+      "question": "Malonate inhibits the enzyme succinate dehydrogenase by resembling its substrate succinate. This is an example of:",
+      "options": [
+        "Non-competitive inhibition",
+        "Competitive inhibition",
+        "Allosteric activation",
+        "Feedback promotion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The inhibitor competes for the active site itself, so raising the substrate concentration can overcome it. This principle is used in many drugs.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 9: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261025_en_08",
+      "subject": "Botany",
+      "topic": "Biotechnology: Principles and Processes",
+      "question": "In the cloning vector pBR322, the ori sequence is important because it:",
+      "options": [
+        "Is the site where replication starts and controls copy number",
+        "Codes for antibiotic resistance",
+        "Is cut by every restriction enzyme",
+        "Allows the vector to enter the nucleus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Any linked DNA replicates along with the vector from this origin, and a vector with a high copy number ori gives many copies of the target gene.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 9: Biotechnology: Principles and Processes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261025_en_09",
+      "subject": "Zoology",
+      "topic": "Excretory Products and their Elimination",
+      "question": "Bony fishes and aquatic amphibians excrete ammonia directly because:",
+      "options": [
+        "Ammonia is the least toxic excretory product",
+        "Ammonia is highly soluble and plenty of water is available to dilute it",
+        "They have no kidneys",
+        "Ammonia needs the most energy to make"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ammonia is the most toxic but needs no energy to convert, so it suits animals surrounded by water. Land animals make urea or uric acid to save water.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 16: Excretory Products and their Elimination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261025_en_10",
+      "subject": "Zoology",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "In Drosophila, sex is determined by the XX-XY system. A human male produces two kinds of gametes with respect to sex chromosomes, so human sex determination is said to be:",
+      "options": [
+        "Female heterogamety",
+        "Male heterogamety",
+        "Haplodiploid",
+        "Environmental"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The human male makes X bearing and Y bearing sperms, so the father's gamete decides the sex of the child. In birds the female is heterogametic, ZW.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    }
+  ]
+}

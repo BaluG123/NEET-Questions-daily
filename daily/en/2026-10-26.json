@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-26",
+  "language": "en",
+  "title": "Daily Dose — 26 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261026_en_01",
+      "subject": "Physics",
+      "topic": "System of Particles and Rotational Motion",
+      "question": "The moment of inertia of a uniform circular disc of mass M and radius R about an axis through its centre and perpendicular to its plane is:",
+      "options": [
+        "MR²",
+        "MR²/2",
+        "MR²/4",
+        "2MR²/5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For a disc I = MR²/2, while a ring of the same mass and radius has MR² because all its mass lies at the rim.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: System of Particles and Rotational Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261026_en_02",
+      "subject": "Physics",
+      "topic": "Oscillations",
+      "question": "A particle executing SHM of amplitude A has its velocity equal to zero at:",
+      "options": [
+        "The mean position",
+        "The extreme positions",
+        "A/2 from the mean position",
+        "All points of the path"
+      ],
+      "correctAnswer": 1,
+      "explanation": "v = ω√(A² - x²), so the speed is greatest at x = 0 and zero at x = ±A, where the acceleration is largest.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 13: Oscillations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261026_en_03",
+      "subject": "Physics",
+      "topic": "Semiconductor Electronics",
+      "question": "A Zener diode, when used as a voltage regulator, is always operated in:",
+      "options": [
+        "Forward bias",
+        "Reverse bias, in the breakdown region",
+        "Zero bias",
+        "Reverse bias, below breakdown"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In the breakdown region the voltage across the Zener stays nearly constant while the current varies widely, which is exactly what holds the output voltage steady.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 14: Semiconductor Electronics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261026_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "On moving down a group in the periodic table, the metallic character of the elements:",
+      "options": [
+        "Increases, because ionisation enthalpy decreases",
+        "Decreases, because atomic size decreases",
+        "Remains unchanged",
+        "First decreases and then increases"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Down a group the atom grows larger and the outer electron is lost more easily, so metallic character rises, as in group 14 from non-metallic carbon to metallic lead.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261026_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "Which of the following statements about order and molecularity is correct?",
+      "options": [
+        "Both are always equal",
+        "Order is experimental and can be zero or fractional, while molecularity is theoretical and always a whole number",
+        "Molecularity can be zero",
+        "Order can never be determined experimentally"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Molecularity applies only to a single elementary step and counts the colliding species, so it cannot be zero or fractional. Order describes the overall experimental rate law.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261026_en_06",
+      "subject": "Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "question": "A carbon atom that is attached to four different groups makes a molecule:",
+      "options": [
+        "Symmetrical and achiral",
+        "Chiral, so that it shows optical isomerism",
+        "Always a meso compound",
+        "Incapable of rotating plane polarised light"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Such a carbon is an asymmetric or stereocentre, and the molecule and its mirror image cannot be superimposed, giving two enantiomers that rotate plane polarised light oppositely.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 6: Haloalkanes and Haloarenes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261026_en_07",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "Bulliform cells present in the upper epidermis of grass leaves help the plant by:",
+      "options": [
+        "Carrying out photosynthesis",
+        "Rolling the leaf inwards when water is scarce, reducing water loss",
+        "Storing starch for the plant",
+        "Conducting water to the mesophyll"
+      ],
+      "correctAnswer": 1,
+      "explanation": "These large empty cells lose turgor in dry conditions, which curls the leaf so that the stomata are enclosed and transpiration falls.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261026_en_08",
+      "subject": "Botany",
+      "topic": "Sexual Reproduction in Flowering Plants",
+      "question": "A typical mature embryo sac of an angiosperm is:",
+      "options": [
+        "8-celled and 8-nucleate",
+        "7-celled and 8-nucleate",
+        "8-celled and 7-nucleate",
+        "4-celled and 4-nucleate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Three divisions of the functional megaspore give eight nuclei, but two polar nuclei share one large central cell, so there are seven cells in all.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 1: Sexual Reproduction in Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261026_en_09",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "Pneumatic bones, which are hollow and filled with air, are a characteristic adaptation seen in:",
+      "options": [
+        "Amphibians",
+        "Reptiles",
+        "Birds",
+        "Mammals"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hollow bones cut down body weight for flight, and birds also have air sacs connected to the lungs that make breathing more efficient.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261026_en_10",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "The proliferative or follicular phase of the human menstrual cycle is characterised by:",
+      "options": [
+        "Regeneration of the endometrium under the influence of oestrogen",
+        "Breakdown of the endometrial lining",
+        "A high level of progesterone from the corpus luteum",
+        "Complete absence of pituitary hormones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "FSH drives follicle growth and the follicle secretes oestrogen, which rebuilds the endometrium. The luteal phase that follows ovulation is the progesterone dominated one.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    }
+  ]
+}

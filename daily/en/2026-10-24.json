@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-24",
+  "language": "en",
+  "title": "Daily Dose — 24 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261024_en_01",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "The potential energy stored in a spring of force constant k when it is stretched by x is:",
+      "options": [
+        "kx",
+        "½kx²",
+        "kx²",
+        "½kx"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The restoring force kx grows with extension, so the work done is the area under the force-extension graph, ½kx².",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261024_en_02",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "An astronaut inside an orbiting space station feels weightless because:",
+      "options": [
+        "There is no gravity at that height",
+        "The astronaut and the station are both in free fall with the same acceleration",
+        "The astronaut's mass becomes zero",
+        "The Earth's gravity is cancelled by the Moon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gravity is still strong in orbit and is exactly what keeps the station circling. Since both fall together, the floor exerts no normal reaction, so the apparent weight is zero.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 7: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261024_en_03",
+      "subject": "Physics",
+      "topic": "Electromagnetic Induction",
+      "question": "A conducting rod of length l moves with velocity v perpendicular to a uniform magnetic field B. The motional emf induced across its ends is:",
+      "options": [
+        "Blv",
+        "Bl/v",
+        "B/lv",
+        "Blv²"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The free charges in the rod feel a force qvB, and separating them along the length l sets up a potential difference Blv across the ends.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 6: Electromagnetic Induction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261024_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The number of radial nodes in a 3s orbital is:",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Radial nodes = n - l - 1. For a 3s orbital n = 3 and l = 0, giving 3 - 0 - 1 = 2 nodes, that is spherical surfaces where the probability of finding the electron is zero.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261024_en_05",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "Baeyer's reagent, which is cold dilute alkaline potassium permanganate, is used to detect:",
+      "options": [
+        "Saturation in alkanes",
+        "Unsaturation, that is a double or triple bond",
+        "The presence of a halogen",
+        "An aromatic ring only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An alkene decolourises the purple reagent and gives a vicinal diol. Benzene does not respond despite its pi bonds, because of aromatic stability.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 9: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261024_en_06",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "In the spectrochemical series, which of the following is the strongest field ligand?",
+      "options": [
+        "I⁻",
+        "H₂O",
+        "NH₃",
+        "CO"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The order runs I⁻ < Br⁻ < Cl⁻ < F⁻ < H₂O < NH₃ < en < CN⁻ < CO. A strong field ligand causes large splitting and pairs the electrons, giving low spin complexes.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261024_en_07",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "The splitting of water during photosynthesis, which releases oxygen, is associated with:",
+      "options": [
+        "Photosystem I",
+        "Photosystem II",
+        "The stroma",
+        "ATP synthase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is oxidised on the inner side of the thylakoid membrane by the PS II complex, supplying electrons to replace those lost by P680 and releasing O₂ and protons.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 11: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261024_en_08",
+      "subject": "Botany",
+      "topic": "Organisms and Populations",
+      "question": "Gause's competitive exclusion principle states that two closely related species competing for the same limited resource:",
+      "options": [
+        "Can coexist indefinitely without change",
+        "Cannot coexist indefinitely, and the inferior one is eventually eliminated",
+        "Always evolve into a single species",
+        "Both increase in number together"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Species often avoid this outcome by resource partitioning, as MacArthur showed for warblers feeding at different heights on the same tree.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 11: Organisms and Populations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261024_en_09",
+      "subject": "Zoology",
+      "topic": "Structural Organisation in Animals",
+      "question": "Which of the following is a loose connective tissue that fills the space inside organs and supports epithelium?",
+      "options": [
+        "Areolar tissue",
+        "Tendon",
+        "Ligament",
+        "Hyaline cartilage"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Areolar tissue contains fibroblasts, mast cells and macrophages in a loose matrix. Tendons and ligaments are dense regular connective tissues joining muscle to bone and bone to bone.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 7: Structural Organisation in Animals",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261024_en_10",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "Steroid hormones differ from protein hormones in that steroid hormones:",
+      "options": [
+        "Bind to receptors on the cell surface",
+        "Enter the cell and bind to intracellular receptors, often affecting gene expression",
+        "Act only through cyclic AMP",
+        "Cannot cross the plasma membrane"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Being lipid soluble, steroids pass through the membrane and the hormone-receptor complex regulates transcription, so their effects are slower but longer lasting.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Chemical Coordination and Integration",
+      "language": "en"
+    }
+  ]
+}
