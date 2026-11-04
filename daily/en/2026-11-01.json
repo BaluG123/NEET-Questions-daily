@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-01",
+  "language": "en",
+  "title": "Daily Dose — 1 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261101_en_01",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Fluids",
+      "question": "The equation of continuity for the streamline flow of an incompressible liquid, av = constant, expresses the conservation of:",
+      "options": [
+        "Energy",
+        "Mass",
+        "Momentum",
+        "Pressure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The same mass of liquid must pass every cross-section each second, so the speed rises where the tube narrows. Bernoulli's theorem is the energy statement.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 9: Mechanical Properties of Fluids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261101_en_02",
+      "subject": "Physics",
+      "topic": "Oscillations",
+      "question": "In a forced oscillation, the amplitude of the oscillator becomes very large when the driving frequency:",
+      "options": [
+        "Is much lower than the natural frequency",
+        "Is equal to the natural frequency of the oscillator",
+        "Is much higher than the natural frequency",
+        "Is zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is resonance, and damping alone limits the amplitude. Soldiers break step on a bridge for exactly this reason.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 13: Oscillations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261101_en_03",
+      "subject": "Physics",
+      "topic": "Nuclei",
+      "question": "When a radioactive nucleus emits a beta minus particle, its atomic number and mass number respectively:",
+      "options": [
+        "Increase by 1 and stay the same",
+        "Decrease by 1 and stay the same",
+        "Decrease by 2 and decrease by 4",
+        "Stay the same and decrease by 1"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A neutron turns into a proton with the emission of an electron and an antineutrino, so Z rises by one while A is unchanged. Alpha emission is the one that lowers Z by 2 and A by 4.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 13: Nuclei",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261101_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The Pauli exclusion principle states that in an atom:",
+      "options": [
+        "No two electrons can have the same set of all four quantum numbers",
+        "All electrons must have parallel spins",
+        "Electrons fill the highest energy orbital first",
+        "An orbital can hold four electrons"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Two electrons in one orbital share n, l and m but must differ in spin, which is why an orbital holds at most two electrons and a subshell 2(2l+1).",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261101_en_05",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "The rusting of iron is best described as:",
+      "options": [
+        "A purely physical change",
+        "An electrochemical process in which iron acts as the anode and is oxidised",
+        "A reduction of iron",
+        "A reaction needing neither air nor moisture"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tiny galvanic cells form on the surface: iron is oxidised to Fe²⁺ at anodic spots while oxygen is reduced at cathodic spots, so both air and water are essential.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261101_en_06",
+      "subject": "Chemistry",
+      "topic": "Amines",
+      "question": "Benzene diazonium chloride, on treatment with phenol in a mildly alkaline medium, gives an orange dye. This reaction is called:",
+      "options": [
+        "Sandmeyer reaction",
+        "Coupling reaction",
+        "Gattermann reaction",
+        "Hinsberg reaction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The diazonium ion is a weak electrophile and attacks the activated para position of phenol, giving an azo compound. Such azo dyes are widely used in the textile industry.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 9: Amines",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261101_en_07",
+      "subject": "Botany",
+      "topic": "Plant Growth and Development",
+      "question": "Which plant growth regulator is a gas and hastens the ripening of fruits?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Ethylene",
+        "Cytokinin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ethylene also promotes senescence, leaf abscission and the breaking of seed dormancy in peanut, and ethephon is used commercially as its source.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 13: Plant Growth and Development",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261101_en_08",
+      "subject": "Botany",
+      "topic": "Sexual Reproduction in Flowering Plants",
+      "question": "Which of the following is an outbreeding device that prevents self pollination in flowering plants?",
+      "options": [
+        "Cleistogamy",
+        "Self incompatibility, where the pollen cannot germinate on the same plant's stigma",
+        "Bud pollination",
+        "Bisexual flowers that open before maturity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Other devices include the anther and stigma maturing at different times and being placed at different positions. Cleistogamous flowers, in contrast, are always self pollinated.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 1: Sexual Reproduction in Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261101_en_09",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "Flame cells, which are specialised excretory cells, are characteristic of phylum:",
+      "options": [
+        "Platyhelminthes",
+        "Annelida",
+        "Arthropoda",
+        "Mollusca"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Flatworms such as Planaria and the liver fluke use flame cells for osmoregulation and excretion, and they are dorsoventrally flattened and acoelomate.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261101_en_10",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "The symptoms of an allergic reaction such as sneezing and watery eyes are caused mainly by the release of:",
+      "options": [
+        "Histamine and serotonin from mast cells",
+        "Insulin from beta cells",
+        "Interferons from virus infected cells",
+        "Thyroxine from the thyroid"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An allergen triggers IgE mediated release of these chemicals, which is why antihistamines relieve the symptoms.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    }
+  ]
+}

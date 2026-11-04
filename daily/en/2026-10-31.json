@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-31",
+  "language": "en",
+  "title": "Daily Dose — 31 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261031_en_01",
+      "subject": "Physics",
+      "topic": "System of Particles and Rotational Motion",
+      "question": "The radius of gyration of a body about an axis is defined as the distance from the axis at which:",
+      "options": [
+        "Its centre of mass lies",
+        "Its whole mass may be assumed concentrated to give the same moment of inertia",
+        "The torque becomes zero",
+        "The angular velocity is maximum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "I = Mk², so k depends on how the mass is distributed about the axis and not just on where the centre of mass is.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: System of Particles and Rotational Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261031_en_02",
+      "subject": "Physics",
+      "topic": "Thermal Properties of Matter",
+      "question": "For a solid, the coefficients of linear, superficial and cubical expansion are related as:",
+      "options": [
+        "α : β : γ = 1 : 2 : 3",
+        "α : β : γ = 3 : 2 : 1",
+        "α : β : γ = 1 : 1 : 1",
+        "α : β : γ = 2 : 1 : 3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Area involves two dimensions and volume three, so β = 2α and γ = 3α, which is why expansion joints matter most for long structures.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 10: Thermal Properties of Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261031_en_03",
+      "subject": "Physics",
+      "topic": "Electrostatic Potential and Capacitance",
+      "question": "The electric potential at a distance r from an isolated point charge q in vacuum is:",
+      "options": [
+        "q/(4πε₀r²)",
+        "q/(4πε₀r)",
+        "q r/(4πε₀)",
+        "Zero everywhere"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Potential is a scalar and varies as 1/r, while the field is a vector varying as 1/r². The first option is the magnitude of the field, not the potential.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 2: Electrostatic Potential and Capacitance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261031_en_04",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "The standard enthalpy of formation of oxygen gas, O₂(g), at 298 K is:",
+      "options": [
+        "Zero, by convention",
+        "Always negative",
+        "Always positive",
+        "Equal to its bond dissociation enthalpy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An element in its most stable form under standard conditions is taken as the reference point, so its enthalpy of formation is defined as zero.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261031_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "In a multistep reaction, the overall rate of the reaction is governed by:",
+      "options": [
+        "The fastest step",
+        "The slowest, that is the rate determining step",
+        "The last step always",
+        "The number of steps"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A reaction can go no faster than its slowest step, just as a queue moves at the pace of its slowest counter, and this is why order often differs from stoichiometry.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261031_en_06",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "Fehling's solution is reduced to a reddish brown precipitate of cuprous oxide by:",
+      "options": [
+        "Aliphatic aldehydes",
+        "Ketones",
+        "Tertiary alcohols",
+        "Benzaldehyde"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aliphatic aldehydes give a positive test, ketones give none, and aromatic aldehydes such as benzaldehyde do not respond to Fehling's solution.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261031_en_07",
+      "subject": "Botany",
+      "topic": "Cell Cycle and Cell Division",
+      "question": "Cytokinesis in a plant cell differs from that in an animal cell because in the plant cell:",
+      "options": [
+        "A cleavage furrow pinches the cell in two",
+        "A cell plate forms from the centre outwards",
+        "No cytokinesis occurs at all",
+        "The nucleus divides twice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A rigid cell wall rules out furrowing, so vesicles fuse at the equator to build a cell plate that grows outwards into the middle lamella.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 10: Cell Cycle and Cell Division",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261031_en_08",
+      "subject": "Botany",
+      "topic": "Biotechnology and its Applications",
+      "question": "The first clinical gene therapy was given in 1990 to a girl suffering from a deficiency of the enzyme:",
+      "options": [
+        "Adenosine deaminase",
+        "DNA ligase",
+        "Amylase",
+        "Reverse transcriptase"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ADA deficiency cripples immunity. Lymphocytes carrying a functional ADA gene were returned to the patient, but since they are not immortal the treatment had to be repeated.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 10: Biotechnology and its Applications",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261031_en_09",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "Emphysema, in which the alveolar walls are damaged and the respiratory surface is reduced, is most often caused by:",
+      "options": [
+        "Cigarette smoking",
+        "Inhaling silica dust",
+        "An allergy to pollen",
+        "A bacterial infection"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Chronic smoking destroys alveolar septa, so gas exchange area falls. Silicosis comes from stone dust, and pollen allergy causes asthma.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 14: Breathing and Exchange of Gases",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261031_en_10",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "Aldosterone, secreted by the adrenal cortex, acts mainly on the kidney to:",
+      "options": [
+        "Increase the reabsorption of sodium and water",
+        "Increase the loss of sodium in urine",
+        "Raise blood calcium",
+        "Lower blood glucose"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aldosterone is a mineralocorticoid that conserves Na⁺ and water while promoting K⁺ loss, so it helps maintain blood volume and pressure.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Chemical Coordination and Integration",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-29",
+  "language": "en",
+  "title": "Daily Dose — 29 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261029_en_01",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Solids",
+      "question": "The ratio of lateral strain to longitudinal strain of a stretched wire is called:",
+      "options": [
+        "Young's modulus",
+        "Poisson's ratio",
+        "Bulk modulus",
+        "Modulus of rigidity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Poisson's ratio is a pure number with no units, because it is the ratio of two strains, and for most materials it lies between 0.2 and 0.4.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 8: Mechanical Properties of Solids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261029_en_02",
+      "subject": "Physics",
+      "topic": "Kinetic Theory",
+      "question": "The root mean square speed of the molecules of an ideal gas of molar mass M at absolute temperature T is:",
+      "options": [
+        "√(3RT/M)",
+        "√(RT/3M)",
+        "3RT/M",
+        "√(2RT/M)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Since v(rms) varies as √(T/M), a lighter gas moves faster at the same temperature, which is why hydrogen escapes from the atmosphere more readily than oxygen.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 12: Kinetic Theory",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261029_en_03",
+      "subject": "Physics",
+      "topic": "Ray Optics and Optical Instruments",
+      "question": "A person suffering from myopia, or short sightedness, can be helped by spectacles using:",
+      "options": [
+        "A converging lens of suitable power",
+        "A diverging lens of suitable power",
+        "A cylindrical lens",
+        "A bifocal lens only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In myopia the image of a distant object forms in front of the retina, so a concave lens diverges the rays slightly before they enter the eye. Hypermetropia needs a convex lens.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 9: Ray Optics and Optical Instruments",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261029_en_04",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "Which of the following species can act both as a Bronsted acid and as a Bronsted base?",
+      "options": [
+        "NH₄⁺",
+        "HCO₃⁻",
+        "Cl⁻",
+        "CH₄"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The bicarbonate ion can donate its proton to give CO₃²⁻ or accept one to give H₂CO₃, so it is amphiprotic. This buffering is what keeps blood pH steady.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261029_en_05",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "Benzoic acid dissolved in benzene gives a van't Hoff factor of about 0.5. This is because benzoic acid molecules:",
+      "options": [
+        "Dissociate into two ions",
+        "Associate into dimers through hydrogen bonding",
+        "React with the solvent",
+        "Evaporate from the solution"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Association halves the number of particles, so i falls below one. Dissociation would instead push i above one, as for NaCl in water.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261029_en_06",
+      "subject": "Chemistry",
+      "topic": "The d- and f-Block Elements",
+      "question": "Zinc, cadmium and mercury are not regarded as typical transition elements because:",
+      "options": [
+        "Their d orbitals are completely filled in the atom and in all their common oxidation states",
+        "They are liquids at room temperature",
+        "They have no d electrons at all",
+        "They never form compounds"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A transition element must have a partly filled d subshell in at least one of its stable oxidation states. With d¹⁰ throughout, these three are colourless and diamagnetic.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 4: The d- and f-Block Elements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261029_en_07",
+      "subject": "Botany",
+      "topic": "Respiration in Plants",
+      "question": "The first stable product formed when acetyl CoA enters the Krebs cycle is:",
+      "options": [
+        "Pyruvic acid",
+        "Citric acid",
+        "Succinic acid",
+        "Malic acid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Acetyl CoA condenses with oxaloacetic acid to give citric acid, which is why the pathway is also called the citric acid cycle.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 12: Respiration in Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261029_en_08",
+      "subject": "Botany",
+      "topic": "Biodiversity and Conservation",
+      "question": "Paul Ehrlich's rivet popper hypothesis compares an ecosystem to an aeroplane and suggests that:",
+      "options": [
+        "The loss of any species is harmless",
+        "The loss of each species weakens the ecosystem, and losing key species is far more damaging",
+        "Only large animals matter to an ecosystem",
+        "Ecosystems cannot be damaged by species loss"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rivets popped from a wing matter far more than those from a seat, just as the loss of a keystone species harms an ecosystem more than the loss of a rare one.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 13: Biodiversity and Conservation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261029_en_09",
+      "subject": "Zoology",
+      "topic": "Structural Organisation in Animals",
+      "question": "In the earthworm Pheretima, the clitellum is a glandular thickening of the skin that:",
+      "options": [
+        "Helps in locomotion",
+        "Secretes the cocoon in which the eggs are laid",
+        "Digests food",
+        "Acts as the excretory pore"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The clitellum covers segments 14 to 16 and marks the mature worm. Locomotion is helped by the setae, which are absent in these segments.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 7: Structural Organisation in Animals",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261029_en_10",
+      "subject": "Zoology",
+      "topic": "Evolution",
+      "question": "The appearance of antibiotic resistant bacteria in a hospital within a few years is best explained as:",
+      "options": [
+        "Lamarckian inheritance of acquired characters",
+        "Natural selection acting on pre-existing variation, observed within our own lifetime",
+        "A deliberate change made by the bacteria",
+        "Loss of genetic material"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A few bacteria already carry a resistance mutation, the antibiotic kills the rest, and the survivors multiply. This is evolution happening fast enough to observe directly.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 6: Evolution",
+      "language": "en"
+    }
+  ]
+}

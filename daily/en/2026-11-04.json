@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-04",
+  "language": "en",
+  "title": "Daily Dose — 4 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261104_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "A stone tied to a string is whirled in a horizontal circle. If the string suddenly breaks, the stone flies off:",
+      "options": [
+        "Along the radius, away from the centre",
+        "Along the tangent to the circle at that point",
+        "Along the radius, towards the centre",
+        "Vertically upward"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The velocity of a body in circular motion is always tangential, so once the centripetal force vanishes the stone continues in a straight line along that tangent, by Newton's first law.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261104_en_02",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "A potentiometer is preferred over a voltmeter for measuring the emf of a cell because at the balance point the potentiometer:",
+      "options": [
+        "Draws no current from the cell",
+        "Draws a very large current",
+        "Heats the cell",
+        "Needs no standard cell"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A voltmeter always draws some current, so it reads the terminal voltage V = E - Ir rather than the true emf. At null deflection no current flows, so the full emf is measured.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 3: Current Electricity",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261104_en_03",
+      "subject": "Physics",
+      "topic": "Dual Nature of Radiation and Matter",
+      "question": "No photoelectrons are emitted from a metal surface, however intense the light, if the frequency of the incident light is:",
+      "options": [
+        "Above the threshold frequency",
+        "Below the threshold frequency",
+        "Equal to twice the threshold frequency",
+        "Any value at all"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A single photon must carry at least the work function, and photons do not pool their energy, so intensity cannot make up for too low a frequency. This killed the wave explanation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 11: Dual Nature of Radiation and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261104_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "The modern periodic law states that the properties of elements are a periodic function of their:",
+      "options": [
+        "Atomic masses",
+        "Atomic numbers",
+        "Densities",
+        "Valencies only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Moseley's work shifted the basis from atomic mass to atomic number, which removed the anomalous pairs that had troubled Mendeleev's table.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261104_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "In an Arrhenius plot of ln k against 1/T, the slope of the straight line obtained is equal to:",
+      "options": [
+        "+Ea/R",
+        "-Ea/R",
+        "Ea/2.303",
+        "-A/R"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Taking logarithms of k = Ae^(-Ea/RT) gives ln k = ln A - (Ea/R)(1/T), so the slope is negative and its magnitude gives the activation energy.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261104_en_06",
+      "subject": "Chemistry",
+      "topic": "Alcohols, Phenols and Ethers",
+      "question": "Among the following, the strongest acid is:",
+      "options": [
+        "Phenol",
+        "o-Cresol",
+        "p-Nitrophenol",
+        "p-Cresol"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The electron withdrawing nitro group stabilises the phenoxide ion by resonance and so increases acidity, while the electron releasing methyl group of cresols decreases it.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 7: Alcohols, Phenols and Ethers",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261104_en_07",
+      "subject": "Botany",
+      "topic": "The Living World",
+      "question": "A herbarium is a taxonomic aid in which:",
+      "options": [
+        "Live plants are grown for study",
+        "Dried and pressed plant specimens are mounted on sheets with labels",
+        "Animals are preserved in formalin",
+        "Only photographs of plants are kept"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each sheet carries the place of collection, date and the collector's name. A botanical garden is where live plants are grown, and a museum preserves specimens in jars.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 1: The Living World",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261104_en_08",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "DNA fingerprinting identifies an individual by comparing differences in:",
+      "options": [
+        "The coding sequences of genes",
+        "Repetitive DNA sequences called VNTRs, which vary from person to person",
+        "The total number of chromosomes",
+        "Blood group antigens"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Satellite DNA shows high polymorphism in the number of repeats, so the pattern is nearly unique to each person except identical twins. It is used in forensics and in paternity disputes.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261104_en_09",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "Human circulation is called double circulation because the blood:",
+      "options": [
+        "Flows through the heart twice in one complete circuit of the body",
+        "Is pumped by two separate hearts",
+        "Contains two kinds of cells",
+        "Flows in two directions in the same vessel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The pulmonary circuit sends blood to the lungs and the systemic circuit to the body, and keeping them separate stops oxygenated and deoxygenated blood from mixing.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261104_en_10",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "The placenta, besides allowing the exchange of nutrients and gases, also acts as an endocrine gland secreting:",
+      "options": [
+        "Human placental lactogen, oestrogens and progestogens",
+        "Insulin and glucagon",
+        "Thyroxine and calcitonin",
+        "Adrenaline and noradrenaline"
+      ],
+      "correctAnswer": 0,
+      "explanation": "These hormones support the pregnancy and prepare the mother's body, and relaxin is secreted in the later phase to soften the pelvic ligaments.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    }
+  ]
+}

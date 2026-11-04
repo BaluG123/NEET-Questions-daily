@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-30",
+  "language": "en",
+  "title": "Daily Dose — 30 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261030_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "For a car of mass m taking a turn of radius r on a road banked at angle θ, with friction neglected, the correct relation is:",
+      "options": [
+        "tan θ = v²/rg",
+        "sin θ = v²/rg",
+        "tan θ = rg/v²",
+        "cos θ = v²/rg"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The horizontal component of the normal reaction supplies the centripetal force while its vertical component balances the weight, and dividing the two gives tan θ = v²/rg.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261030_en_02",
+      "subject": "Physics",
+      "topic": "Waves",
+      "question": "Sound waves travelling in air are longitudinal because the particles of the medium vibrate:",
+      "options": [
+        "Perpendicular to the direction of propagation",
+        "Along the direction of propagation",
+        "In circles",
+        "Not at all"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Air has no shear elasticity, so it cannot carry transverse waves. The compressions and rarefactions of sound are along the direction of travel.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 14: Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261030_en_03",
+      "subject": "Physics",
+      "topic": "Moving Charges and Magnetism",
+      "question": "Two long parallel wires carrying currents in the same direction:",
+      "options": [
+        "Attract each other",
+        "Repel each other",
+        "Exert no force on each other",
+        "Rotate about each other"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Parallel currents attract and antiparallel currents repel, and the force per unit length is μ₀I₁I₂/2πd. This effect is the basis of the definition of the ampere.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 4: Moving Charges and Magnetism",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261030_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "Which of the following oxides is amphoteric in nature?",
+      "options": [
+        "Na₂O",
+        "Al₂O₃",
+        "SO₃",
+        "MgO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aluminium oxide reacts with both acids and alkalis. Across a period the oxides change from basic through amphoteric to acidic.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261030_en_05",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "Reductive ozonolysis of an alkene is a useful reaction mainly because it:",
+      "options": [
+        "Converts the alkene into an alkane",
+        "Locates the position of the double bond from the carbonyl products formed",
+        "Adds two hydroxyl groups",
+        "Makes the alkene aromatic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The double bond is cleaved and each carbon becomes a carbonyl carbon, so identifying the aldehydes or ketones formed tells you exactly where the double bond was.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 9: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261030_en_06",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "Ethylenediaminetetraacetate (EDTA) is described as a hexadentate ligand because it:",
+      "options": [
+        "Carries six negative charges",
+        "Binds the metal ion through six donor atoms",
+        "Forms six separate complexes",
+        "Has six carbon atoms"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Two nitrogen and four oxygen atoms grip the metal, forming a very stable chelate. This is why EDTA is used to treat lead poisoning and to estimate water hardness.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261030_en_07",
+      "subject": "Botany",
+      "topic": "Plant Kingdom",
+      "question": "The members of Chlorophyceae, or green algae, owe their colour mainly to:",
+      "options": [
+        "Fucoxanthin",
+        "Chlorophyll a and b",
+        "Phycoerythrin",
+        "Phycocyanin only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Brown algae are coloured by fucoxanthin and red algae by phycoerythrin, so the dominant pigment is the basis of this classification.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 3: Plant Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261030_en_08",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "In a eukaryotic mRNA, the non-coding stretches that are removed before translation are called:",
+      "options": [
+        "Exons",
+        "Introns",
+        "Codons",
+        "Promoters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Introns are spliced out and the exons joined to give mature mRNA, so eukaryotic genes are described as split genes. Prokaryotes lack this step.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261030_en_09",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "The movement of food through the human alimentary canal and of mucus in the trachea is brought about by:",
+      "options": [
+        "Amoeboid movement",
+        "Ciliary movement and muscular movement",
+        "Flagellar movement only",
+        "Flight muscles"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cilia lining the trachea sweep mucus and dust out, while smooth muscle produces peristalsis in the gut. Amoeboid movement is seen in leucocytes and macrophages.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Locomotion and Movement",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261030_en_10",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "Which hormone secreted by the anterior pituitary stimulates the Leydig cells of the testis to secrete androgens?",
+      "options": [
+        "FSH",
+        "LH, also called ICSH in the male",
+        "Prolactin",
+        "Oxytocin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "LH acts on the interstitial Leydig cells, while FSH acts on the Sertoli cells to support spermatogenesis.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    }
+  ]
+}

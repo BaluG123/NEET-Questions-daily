@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-27",
+  "language": "en",
+  "title": "Daily Dose — 27 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261027_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "A projectile is thrown with speed u at an angle θ to the horizontal. Its total time of flight is:",
+      "options": [
+        "u sin θ / g",
+        "2u sin θ / g",
+        "2u cos θ / g",
+        "u² sin 2θ / g"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The time to rise is u sin θ / g, and the fall takes exactly as long, so the whole flight lasts twice that. The last option is the range, not a time.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261027_en_02",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "question": "The first law of thermodynamics, ΔQ = ΔU + ΔW, is essentially a statement of the:",
+      "options": [
+        "Conservation of energy",
+        "Increase of entropy",
+        "Conservation of momentum",
+        "Equality of heat and work"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Heat supplied to a system either raises its internal energy or is spent doing work, so no energy is created or destroyed. The second law deals with entropy and direction.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 11: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261027_en_03",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "Kirchhoff's junction rule, that the sum of currents entering a junction equals the sum leaving it, follows from the conservation of:",
+      "options": [
+        "Energy",
+        "Charge",
+        "Momentum",
+        "Magnetic flux"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Charge cannot pile up at a junction in a steady current, so whatever flows in must flow out. The loop rule is the one based on conservation of energy.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 3: Current Electricity",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261027_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "Carbon combines with oxygen to form CO and CO₂, in which the masses of oxygen combining with a fixed mass of carbon are in the simple ratio 1 : 2. This illustrates the law of:",
+      "options": [
+        "Definite proportions",
+        "Multiple proportions",
+        "Reciprocal proportions",
+        "Conservation of mass"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dalton's law of multiple proportions applies when two elements form more than one compound, and the masses of one element combining with a fixed mass of the other bear a simple whole number ratio.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261027_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "The hybridisation of phosphorus in the PCl₅ molecule, which has a trigonal bipyramidal shape, is:",
+      "options": [
+        "sp³",
+        "dsp²",
+        "sp³d",
+        "sp³d²"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Five bond pairs need five hybrid orbitals, so one 3s, three 3p and one 3d orbital mix. The two axial bonds are longer and weaker than the three equatorial ones.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261027_en_06",
+      "subject": "Chemistry",
+      "topic": "Alcohols, Phenols and Ethers",
+      "question": "Oxidation of a secondary alcohol with acidified potassium dichromate gives:",
+      "options": [
+        "An aldehyde",
+        "A ketone",
+        "A carboxylic acid",
+        "An alkene"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A secondary alcohol has one hydrogen on the carbinol carbon, so oxidation stops at the ketone. A primary alcohol goes on to the acid, and a tertiary one resists oxidation.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 7: Alcohols, Phenols and Ethers",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261027_en_07",
+      "subject": "Botany",
+      "topic": "Biological Classification",
+      "question": "Viruses are regarded as being on the borderline between living and non-living mainly because they:",
+      "options": [
+        "Have a cell wall but no nucleus",
+        "Can reproduce only inside a living host cell and are inert outside it",
+        "Are made only of protein",
+        "Cannot be crystallised"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A virus is a nucleoprotein with no metabolism of its own, yet it has genetic material and can mutate, so it shows living properties only inside a host.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 2: Biological Classification",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261027_en_08",
+      "subject": "Botany",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "Mendel's law of segregation is based on the fact that the two alleles of a gene:",
+      "options": [
+        "Blend together in the gamete",
+        "Separate without being contaminated, so each gamete gets only one",
+        "Always stay together in the gamete",
+        "Are both lost during gamete formation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is why it is also called the law of purity of gametes, and why a recessive trait hidden in F₁ reappears unchanged in F₂.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261027_en_09",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "In a simple reflex arc such as the knee jerk, the impulse travels from the receptor to the effector through the:",
+      "options": [
+        "Cerebrum",
+        "Spinal cord, without first reaching the brain",
+        "Cerebellum",
+        "Hypothalamus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A reflex action is involuntary and quick because the spinal cord itself links the afferent and efferent neurons; the brain learns of it only afterwards.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261027_en_10",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Which of the following is a primary lymphoid organ where lymphocytes mature into immunocompetent cells?",
+      "options": [
+        "Spleen",
+        "Bone marrow and thymus",
+        "Tonsils",
+        "Lymph nodes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bone marrow and thymus are primary organs where lymphocytes are formed and differentiated. Spleen, lymph nodes and tonsils are secondary organs where they meet antigens.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    }
+  ]
+}

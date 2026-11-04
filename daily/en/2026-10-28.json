@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-28",
+  "language": "en",
+  "title": "Daily Dose — 28 Oct 2026",
+  "questions": [
+    {
+      "id": "daily_20261028_en_01",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "The instantaneous power delivered by a force F to a body moving with velocity v in the direction of the force is:",
+      "options": [
+        "F/v",
+        "Fv",
+        "Fv²",
+        "F²v"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Power is the rate of doing work, P = dW/dt = F·v. This is why a vehicle's engine can pull hard at low speed or run fast at low force, but not both at once.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261028_en_02",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "According to Kepler's third law, the square of the period of revolution of a planet is proportional to:",
+      "options": [
+        "The radius of the orbit",
+        "The cube of the semi-major axis of the orbit",
+        "The mass of the planet",
+        "The square of the orbital speed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "T² ∝ a³, so a planet farther from the Sun takes much longer to complete one revolution. The law follows from Newton's law of gravitation.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 7: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261028_en_03",
+      "subject": "Physics",
+      "topic": "Electric Charges and Fields",
+      "question": "When a dielectric medium of dielectric constant K is introduced between two point charges, the electrostatic force between them becomes:",
+      "options": [
+        "K times larger",
+        "1/K times the original",
+        "Unchanged",
+        "K² times larger"
+      ],
+      "correctAnswer": 1,
+      "explanation": "F = q₁q₂/(4πε₀K r²), so any medium weakens the force. For water K is about 80, which is why ionic salts dissociate so readily in it.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 1: Electric Charges and Fields",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261028_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The series of lines in the hydrogen spectrum that lies in the visible region is the:",
+      "options": [
+        "Lyman series",
+        "Balmer series",
+        "Paschen series",
+        "Brackett series"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Balmer series arises from transitions ending at n = 2. Lyman lines lie in the ultraviolet and Paschen and higher series in the infrared.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261028_en_05",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry: Some Basic Principles and Techniques",
+      "question": "The breaking of a covalent bond in which each of the two atoms retains one electron of the shared pair is called:",
+      "options": [
+        "Heterolytic fission, giving ions",
+        "Homolytic fission, giving free radicals",
+        "Hydrolysis",
+        "Oxidative addition"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Homolysis needs non-polar conditions such as heat, light or peroxides and gives neutral radicals. Heterolysis gives a cation and an anion instead.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261028_en_06",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "In aqueous solution at its isoelectric point, an amino acid exists mainly as a:",
+      "options": [
+        "Neutral molecule with free -COOH and -NH₂",
+        "Zwitterion carrying both a positive and a negative charge",
+        "Only a cation",
+        "Only an anion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The carboxyl group donates its proton to the amino group within the same molecule, so the ion has no net charge. This explains the high melting points of amino acids.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261028_en_07",
+      "subject": "Botany",
+      "topic": "Morphology of Flowering Plants",
+      "question": "Pneumatophores, the roots that grow vertically upwards out of the mud, are found in:",
+      "options": [
+        "Banyan",
+        "Rhizophora of mangrove swamps",
+        "Sweet potato",
+        "Maize"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mangrove soil is waterlogged and poor in oxygen, so these roots come above the surface to let the root system breathe. Banyan has prop roots and maize stilt roots.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 5: Morphology of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261028_en_08",
+      "subject": "Botany",
+      "topic": "Microbes in Human Welfare",
+      "question": "A high biochemical oxygen demand (BOD) of a water sample indicates:",
+      "options": [
+        "Very clean water",
+        "A large amount of organic matter and hence heavy pollution",
+        "A high dissolved oxygen level",
+        "The absence of microbes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "BOD measures the oxygen that bacteria need to break down the organic matter in a sample, so more organic waste means a higher BOD and less oxygen for aquatic life.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 8: Microbes in Human Welfare",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261028_en_09",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "Which type of white blood cell is the most abundant in human blood and acts as a phagocyte during infection?",
+      "options": [
+        "Lymphocyte",
+        "Neutrophil",
+        "Basophil",
+        "Eosinophil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Neutrophils make up about 60 to 65 percent of leucocytes and engulf bacteria. Lymphocytes handle immunity, eosinophils allergy and basophils release histamine.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261028_en_10",
+      "subject": "Zoology",
+      "topic": "Reproductive Health",
+      "question": "Which of the following is a surgical method of contraception in the male?",
+      "options": [
+        "Tubectomy",
+        "Vasectomy",
+        "Use of a condom",
+        "Lactational amenorrhoea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vasectomy removes or ties a small part of the vas deferens so sperms cannot reach the ejaculate. Tubectomy is the corresponding operation on the fallopian tubes in the female.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 3: Reproductive Health",
+      "language": "en"
+    }
+  ]
+}

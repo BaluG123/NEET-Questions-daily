@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-02",
+  "language": "en",
+  "title": "Daily Dose — 2 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261102_en_01",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "Which of the following is a non-conservative force?",
+      "options": [
+        "Gravitational force",
+        "Electrostatic force",
+        "Force of friction",
+        "Spring force"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Work done by friction depends on the path taken and cannot be recovered, so no potential energy can be defined for it. The other three are conservative.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261102_en_02",
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "question": "The root mean square value of an alternating current of peak value I₀ is:",
+      "options": [
+        "I₀",
+        "I₀/2",
+        "I₀/√2",
+        "√2 I₀"
+      ],
+      "correctAnswer": 2,
+      "explanation": "I(rms) = I₀/√2, about 0.707 I₀, and it is this value that ammeters read and that produces the same heating as an equal steady current.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 7: Alternating Current",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261102_en_03",
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "question": "Maxwell introduced the idea of displacement current to account for the fact that a changing electric field also:",
+      "options": [
+        "Produces a magnetic field",
+        "Produces a static charge",
+        "Destroys the magnetic field",
+        "Has no effect outside a conductor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Without it Ampere's law fails in the gap of a charging capacitor. The symmetry of changing fields producing each other is what allows electromagnetic waves to travel through vacuum.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 8: Electromagnetic Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261102_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "A sigma bond is stronger than a pi bond because in a sigma bond the orbitals overlap:",
+      "options": [
+        "Sideways, giving weak overlap",
+        "Along the internuclear axis, giving greater overlap",
+        "Only at the nodes",
+        "Without any overlap"
+      ],
+      "correctAnswer": 1,
+      "explanation": "End-on overlap concentrates electron density between the nuclei, while a pi bond's sideways overlap is weaker, which is why pi bonds break first in addition reactions.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261102_en_05",
+      "subject": "Chemistry",
+      "topic": "Redox Reactions",
+      "question": "The average oxidation number of carbon in glucose, C₆H₁₂O₆, is:",
+      "options": [
+        "Zero",
+        "+2",
+        "-2",
+        "+4"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Taking H as +1 and O as -2: 6x + 12(+1) + 6(-2) = 0, so 6x = 0 and x = 0. An average oxidation number can also be fractional.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 7: Redox Reactions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261102_en_06",
+      "subject": "Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "question": "An optically active alkyl halide undergoing an SN1 reaction gives a nearly racemic product because:",
+      "options": [
+        "The intermediate carbocation is planar and can be attacked from either face",
+        "The nucleophile attacks from the back only",
+        "The product has no chiral carbon",
+        "No bond is broken in the reaction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Attack on the two faces of the flat carbocation is almost equally likely, so both enantiomers form. SN2 instead gives inversion of configuration because attack is strictly from the back.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 6: Haloalkanes and Haloarenes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261102_en_07",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "The stacks of thylakoids inside a chloroplast are called:",
+      "options": [
+        "Grana",
+        "Cristae",
+        "Cisternae",
+        "Quantasomes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Grana hold the photosynthetic pigments and carry out the light reaction, while the surrounding stroma contains the enzymes of the Calvin cycle.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261102_en_08",
+      "subject": "Botany",
+      "topic": "Ecosystem",
+      "question": "The phosphorus cycle differs from the nitrogen and carbon cycles in that phosphorus:",
+      "options": [
+        "Has a large gaseous reservoir in the atmosphere",
+        "Is a sedimentary cycle with rock as its main reservoir and no significant gaseous phase",
+        "Is not needed by living organisms",
+        "Cannot be absorbed by plants"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Weathering of rock releases phosphate, which is why phosphorus often limits productivity, and once washed into deep sediments it returns only over geological time.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 12: Ecosystem",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261102_en_09",
+      "subject": "Zoology",
+      "topic": "Excretory Products and their Elimination",
+      "question": "The glomerular filtration rate (GFR) in a healthy human adult is about:",
+      "options": [
+        "1.5 litres per day",
+        "125 mL per minute, that is about 180 litres per day",
+        "5 litres per minute",
+        "25 mL per minute"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nearly 180 litres is filtered daily but only about 1.5 litres leaves as urine, since over 99 percent of the filtrate is reabsorbed by the tubules.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 16: Excretory Products and their Elimination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261102_en_10",
+      "subject": "Zoology",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "A single gene affecting several apparently unrelated traits, as in phenylketonuria, is an example of:",
+      "options": [
+        "Polygenic inheritance",
+        "Pleiotropy",
+        "Codominance",
+        "Multiple allelism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One defective enzyme leads to mental retardation along with reduced hair and skin pigmentation. Polygenic inheritance is the opposite case, many genes shaping one trait.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    }
+  ]
+}

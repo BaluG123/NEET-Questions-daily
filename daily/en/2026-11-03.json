@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-03",
+  "language": "en",
+  "title": "Daily Dose — 3 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261103_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "Which of the following is NOT a fundamental or base quantity in the SI system?",
+      "options": [
+        "Mass",
+        "Luminous intensity",
+        "Force",
+        "Amount of substance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The seven base quantities are length, mass, time, electric current, temperature, amount of substance and luminous intensity. Force is derived from mass and acceleration.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 1: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261103_en_02",
+      "subject": "Physics",
+      "topic": "Magnetism and Matter",
+      "question": "A material suitable for making a permanent magnet should have:",
+      "options": [
+        "Low retentivity and low coercivity",
+        "High retentivity and high coercivity",
+        "High retentivity and low coercivity",
+        "Zero susceptibility"
+      ],
+      "correctAnswer": 1,
+      "explanation": "High retentivity keeps the magnetism and high coercivity resists demagnetisation, as in steel. Soft iron, with a narrow hysteresis loop, suits electromagnets and transformer cores instead.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 5: Magnetism and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261103_en_03",
+      "subject": "Physics",
+      "topic": "Semiconductor Electronics",
+      "question": "In a full wave rectifier, the output frequency compared with the input AC frequency of 50 Hz is:",
+      "options": [
+        "25 Hz",
+        "50 Hz",
+        "100 Hz",
+        "Zero"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Both halves of each input cycle give an output pulse, so there are two pulses per cycle and the ripple frequency doubles. A half wave rectifier would give 50 Hz.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 14: Semiconductor Electronics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261103_en_04",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "According to the Lewis concept, a species that can accept a pair of electrons is:",
+      "options": [
+        "A Lewis base",
+        "A Lewis acid",
+        "A Bronsted base only",
+        "Neutral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "BF₃ and AlCl₃ are Lewis acids although they have no hydrogen to donate, which shows the Lewis idea is broader than the Bronsted one.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261103_en_05",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "A mixture of nitric acid and water that distils at a constant temperature without any change in composition is called:",
+      "options": [
+        "An ideal solution",
+        "An azeotrope",
+        "A buffer",
+        "A colloid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Azeotropes cannot be separated by fractional distillation, which is why absolute alcohol cannot be obtained from the 95 percent ethanol-water azeotrope by distillation alone.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261103_en_06",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "A nucleoside differs from a nucleotide in that a nucleoside:",
+      "options": [
+        "Lacks the phosphate group",
+        "Lacks the nitrogenous base",
+        "Lacks the sugar",
+        "Contains two sugars"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A nucleoside is base plus sugar, and adding phosphate makes it a nucleotide, which is the repeating unit of a nucleic acid chain.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261103_en_07",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "CAM plants such as pineapple and Opuntia open their stomata at night mainly in order to:",
+      "options": [
+        "Absorb more light",
+        "Take in CO₂ while losing far less water",
+        "Release oxygen faster",
+        "Avoid the Calvin cycle altogether"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CO₂ fixed at night is stored as malic acid and released to RuBisCO by day, so these desert plants separate the two steps in time rather than in space as C₄ plants do.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 11: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261103_en_08",
+      "subject": "Botany",
+      "topic": "Biotechnology: Principles and Processes",
+      "question": "Bacterial cells are made competent to take up recombinant DNA by treating them with:",
+      "options": [
+        "A divalent cation such as calcium, followed by a brief heat shock",
+        "Concentrated sulphuric acid",
+        "Boiling water for ten minutes",
+        "A strong detergent only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ca²⁺ ions help DNA pass through pores in the cell wall. Microinjection and the gene gun are the alternative, direct methods of introducing DNA.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 9: Biotechnology: Principles and Processes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261103_en_09",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "The three small bones of the human middle ear, which transmit vibrations from the eardrum to the inner ear, are:",
+      "options": [
+        "Malleus, incus and stapes",
+        "Cochlea, utricle and saccule",
+        "Pinna, tympanum and cochlea",
+        "Atlas, incus and stapes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "These ear ossicles amplify the vibrations before passing them to the oval window. The cochlea, utricle and saccule belong to the inner ear.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261103_en_10",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Normal cells grown in culture stop dividing once they touch one another. The loss of this property in cancer cells is called the loss of:",
+      "options": [
+        "Metastasis",
+        "Contact inhibition",
+        "Apoptosis",
+        "Differentiation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Without contact inhibition the cells keep dividing and pile up into a tumour. Metastasis is the separate, later step of spreading to distant organs.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    }
+  ]
+}
