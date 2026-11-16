@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-14",
+  "language": "en",
+  "title": "Daily Dose — 14 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261114_en_01",
+      "subject": "Physics",
+      "topic": "System of Particles and Rotational Motion",
+      "question": "For a wheel rolling on the ground without slipping, the velocity of the point of contact with the ground is:",
+      "options": [
+        "Equal to the velocity of the centre",
+        "Zero",
+        "Twice the velocity of the centre",
+        "Directed vertically upward"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rolling without slipping means the translational velocity v and the rotational velocity ωR cancel at the contact point, while at the topmost point they add to give 2v.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: System of Particles and Rotational Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261114_en_02",
+      "subject": "Physics",
+      "topic": "Waves",
+      "question": "In the equation of a progressive wave y = A sin(ωt - kx), the quantity k is called the:",
+      "options": [
+        "Amplitude",
+        "Angular wave number, equal to 2π/λ",
+        "Frequency",
+        "Phase constant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Since ω = 2πν and k = 2π/λ, the wave speed is v = ω/k = νλ. The minus sign shows the wave travels in the positive x direction.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 14: Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261114_en_03",
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "question": "In an electromagnetic wave travelling through free space, the electric field, the magnetic field and the direction of propagation are:",
+      "options": [
+        "All parallel to one another",
+        "Mutually perpendicular to one another",
+        "Electric and magnetic fields parallel, both perpendicular to propagation",
+        "Randomly oriented"
+      ],
+      "correctAnswer": 1,
+      "explanation": "E, B and the propagation direction form a right handed set, and the wave carries equal energy in its electric and magnetic parts.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 8: Electromagnetic Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261114_en_04",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "Which of the following is an intensive property of a system?",
+      "options": [
+        "Volume",
+        "Temperature",
+        "Enthalpy",
+        "Mass"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intensive properties do not depend on the amount of matter present, so temperature, density, pressure and molar volume qualify, while volume, mass and enthalpy are extensive.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261114_en_05",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "Deep sea divers who ascend too quickly suffer from the bends, in which nitrogen bubbles form in the blood. This is explained by:",
+      "options": [
+        "Raoult's law",
+        "Henry's law, since the solubility of a gas falls as the pressure falls",
+        "Dalton's law of partial pressures only",
+        "The law of mass action"
+      ],
+      "correctAnswer": 1,
+      "explanation": "At depth the high pressure dissolves extra nitrogen in the blood, and on a rapid ascent the pressure drops so it comes out as painful bubbles, which is why divers use helium diluted air.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261114_en_06",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "According to Werner's theory of coordination compounds, the ligands directly attached to the central metal atom satisfy its:",
+      "options": [
+        "Primary valency, which is ionisable",
+        "Secondary valency, which is non-ionisable and fixes the geometry",
+        "Neither valency",
+        "Only the oxidation state"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Primary valency is satisfied by negative ions outside the coordination sphere and is ionisable, while secondary valency equals the coordination number and is directional.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261114_en_07",
+      "subject": "Botany",
+      "topic": "Plant Kingdom",
+      "question": "The coralloid roots of Cycas are remarkable because they contain:",
+      "options": [
+        "Nitrogen fixing cyanobacteria such as Anabaena",
+        "Only storage parenchyma",
+        "Fungal spores",
+        "Chlorophyll for photosynthesis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "These specialised roots grow upwards and branch like coral, and the symbiotic cyanobacteria inside them supply fixed nitrogen to the plant.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 3: Plant Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261114_en_08",
+      "subject": "Botany",
+      "topic": "Ecosystem",
+      "question": "Which of the following steps of decomposition involves the breakdown of detritus into smaller particles by detritivores?",
+      "options": [
+        "Leaching",
+        "Fragmentation",
+        "Humification",
+        "Mineralisation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fragmentation comes first and increases the surface area for microbial attack. Leaching washes soluble nutrients down, humification builds dark humus and mineralisation releases the nutrients.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 12: Ecosystem",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261114_en_09",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "A protein or peptide hormone such as glucagon acts on its target cell by:",
+      "options": [
+        "Entering the nucleus and binding DNA directly",
+        "Binding a receptor on the cell surface and generating a second messenger such as cyclic AMP",
+        "Dissolving in the plasma membrane",
+        "Replacing the damaged enzymes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Being water soluble, such hormones cannot cross the membrane, so the signal is relayed inside by second messengers, giving a rapid but short lived response.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Chemical Coordination and Integration",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261114_en_10",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "Members of the class Cyclostomata, such as Petromyzon, are characterised by:",
+      "options": [
+        "A jawless sucking and circular mouth, and a cartilaginous cranium",
+        "Strong bony jaws with teeth",
+        "Four chambered heart",
+        "Dry skin with scales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "They are ectoparasites on fishes, have 6 to 15 pairs of gill slits and no scales or paired fins, and they migrate to fresh water to spawn.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    }
+  ]
+}

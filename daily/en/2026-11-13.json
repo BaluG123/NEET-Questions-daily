@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-13",
+  "language": "en",
+  "title": "Daily Dose — 13 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261113_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "Two vectors are perpendicular to each other if their scalar (dot) product is:",
+      "options": [
+        "Maximum",
+        "Zero",
+        "Equal to their cross product",
+        "Negative"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A·B = AB cos θ, and cos 90° = 0. The vector product, by contrast, is maximum for perpendicular vectors and zero for parallel ones.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261113_en_02",
+      "subject": "Physics",
+      "topic": "Kinetic Theory",
+      "question": "The mean free path of the molecules of a gas at constant temperature is:",
+      "options": [
+        "Directly proportional to the pressure",
+        "Inversely proportional to the number density of molecules",
+        "Independent of the size of the molecules",
+        "Proportional to the square of the molecular diameter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "λ = 1/(√2 π d² n), so packing more molecules into the same volume, or using bigger molecules, shortens the average distance travelled between collisions.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 12: Kinetic Theory",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261113_en_03",
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "question": "A choke coil is preferred over a resistor for reducing current in an AC circuit because the choke coil:",
+      "options": [
+        "Consumes no power on average, as its power factor is nearly zero",
+        "Has a very high resistance",
+        "Converts the AC into DC",
+        "Increases the frequency of the current"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A pure inductor keeps the current and voltage a quarter cycle apart, so cos φ is nearly zero and no energy is wasted as heat, unlike a resistor.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 7: Alternating Current",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261113_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "The elements of the second period show several anomalous properties compared with their heavier group members, mainly because they have:",
+      "options": [
+        "A small size, high electronegativity and no available d orbitals",
+        "A very large atomic size",
+        "Completely filled d orbitals",
+        "Very low ionisation enthalpy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The absence of d orbitals limits the covalence to four, which is why nitrogen cannot form NCl₅ while phosphorus readily forms PCl₅.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261113_en_05",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry: Some Basic Principles and Techniques",
+      "question": "In Lassaigne's test, the appearance of a Prussian blue colour indicates the presence of which element in the organic compound?",
+      "options": [
+        "Sulphur",
+        "Nitrogen",
+        "Chlorine",
+        "Phosphorus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fusing the compound with sodium converts nitrogen to sodium cyanide, which then gives ferric ferrocyanide, the Prussian blue colour. Sulphur instead gives a violet colour with sodium nitroprusside.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261113_en_06",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "Kohlrausch's law of independent migration of ions is especially useful because it allows one to calculate:",
+      "options": [
+        "The limiting molar conductivity of a weak electrolyte, which cannot be found by extrapolation",
+        "The temperature of the solution",
+        "The colour of the electrolyte",
+        "The mass of the electrode"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A weak electrolyte's Λm never reaches a straight line limit as the concentration falls, so its value is built up by adding the known ionic contributions instead.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261113_en_07",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "A chromosome in which the centromere lies exactly in the middle, giving two equal arms, is described as:",
+      "options": [
+        "Metacentric",
+        "Submetacentric",
+        "Acrocentric",
+        "Telocentric"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A metacentric chromosome looks like the letter V during anaphase. A telocentric one has the centromere right at the terminal end.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261113_en_08",
+      "subject": "Botany",
+      "topic": "Biotechnology: Principles and Processes",
+      "question": "A stirred tank bioreactor is preferred over a simple shake flask for industrial production because it:",
+      "options": [
+        "Processes only a few millilitres at a time",
+        "Allows large volumes to be processed with controlled oxygen, pH, temperature and agitation",
+        "Needs no sterilisation",
+        "Works without any nutrient supply"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The stirrer mixes the culture evenly and helps oxygen transfer, and the vessel also has a foam control system, a temperature control jacket and sampling ports.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 9: Biotechnology: Principles and Processes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261113_en_09",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "The last two pairs of ribs in humans are called floating ribs because they:",
+      "options": [
+        "Are not attached to the vertebrae",
+        "Are attached to the vertebrae but not connected to the sternum at all",
+        "Are attached to the sternum directly",
+        "Are made of cartilage only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Of the 12 pairs, the first seven are true ribs joined to the sternum directly, pairs 8 to 10 are false ribs joined indirectly, and pairs 11 and 12 are floating.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Locomotion and Movement",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261113_en_10",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Morphine, obtained from the latex of Papaver somniferum, acts on the body mainly as:",
+      "options": [
+        "A stimulant that raises alertness",
+        "A depressant and painkiller that slows down body functions",
+        "A hallucinogen only",
+        "An antibiotic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Morphine is a useful sedative after surgery but is highly addictive, and heroin, obtained by acetylation of morphine, is its far more dangerous derivative.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    }
+  ]
+}

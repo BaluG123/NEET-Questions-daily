@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-06",
+  "language": "en",
+  "title": "Daily Dose — 6 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261106_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "A person standing on a weighing machine inside a lift whose cable has snapped, so that the lift falls freely, will see a reading of:",
+      "options": [
+        "His true weight",
+        "Zero",
+        "Twice his weight",
+        "Half his weight"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In free fall a = g, so the normal reaction N = m(g - a) becomes zero. The person has not lost mass or weight; the support force is simply gone.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261106_en_02",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "The momentum p of a body of mass m having kinetic energy E is given by:",
+      "options": [
+        "√(2mE)",
+        "2mE",
+        "√(mE)",
+        "mE²"
+      ],
+      "correctAnswer": 0,
+      "explanation": "From E = p²/2m we get p = √(2mE). So of two bodies with the same kinetic energy, the heavier one carries the greater momentum.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261106_en_03",
+      "subject": "Physics",
+      "topic": "System of Particles and Rotational Motion",
+      "question": "The perpendicular axis theorem, Iz = Ix + Iy, can be applied only to:",
+      "options": [
+        "Any three dimensional body",
+        "A planar lamina, with the three axes mutually perpendicular and the first normal to its plane",
+        "A hollow sphere only",
+        "A body rotating about its centre of mass only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The theorem holds for a flat lamina because the mass has no extension along the z direction. The parallel axis theorem is the one that applies to bodies of any shape.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: System of Particles and Rotational Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261106_en_04",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry: Some Basic Principles and Techniques",
+      "question": "An electrophile is best defined as a species that is:",
+      "options": [
+        "Electron rich and attacks positive centres",
+        "Electron deficient and attacks electron rich centres",
+        "Always negatively charged",
+        "Always a free radical"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An electrophile may be a cation such as NO₂⁺ or a neutral electron deficient molecule such as BF₃ or SO₃. A nucleophile is the electron rich partner.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261106_en_05",
+      "subject": "Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "question": "The reaction of an alkyl chloride with sodium iodide in dry acetone to give the alkyl iodide is known as the:",
+      "options": [
+        "Swarts reaction",
+        "Finkelstein reaction",
+        "Wurtz reaction",
+        "Sandmeyer reaction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The reaction is driven forward because sodium chloride is insoluble in acetone and precipitates out. The Swarts reaction uses metallic fluorides to make alkyl fluorides.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 6: Haloalkanes and Haloarenes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261106_en_06",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "The heat change measured in a bomb calorimeter, in which the volume is kept constant, gives:",
+      "options": [
+        "ΔH directly",
+        "ΔU, since no pressure-volume work is done",
+        "ΔS",
+        "ΔG"
+      ],
+      "correctAnswer": 1,
+      "explanation": "At constant volume W = 0, so qv = ΔU. ΔH is then obtained using ΔH = ΔU + ΔngRT, which is why combustion data must be converted before use.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261106_en_07",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "The nucleolus present inside the nucleus is the site of:",
+      "options": [
+        "DNA replication",
+        "Ribosomal RNA synthesis",
+        "Protein secretion",
+        "Lipid synthesis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The nucleolus is not membrane bound and is larger in cells that make a lot of protein, because it assembles the rRNA that ribosomes are built from.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261106_en_08",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "Kranz anatomy, in which large bundle sheath cells surround the vascular bundles, is characteristic of:",
+      "options": [
+        "C₃ plants such as wheat",
+        "C₄ plants such as maize and sugarcane",
+        "All aquatic plants",
+        "Gymnosperms only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The bundle sheath cells are rich in chloroplasts, have thick impervious walls and no intercellular spaces, which keeps the CO₂ concentration around RuBisCO high.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 11: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261106_en_09",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "A sarcomere, the functional unit of a striated muscle fibre, is the portion of a myofibril between:",
+      "options": [
+        "Two successive A bands",
+        "Two successive Z lines",
+        "Two successive H zones",
+        "The M line and the Z line"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Each sarcomere has a central A band of myosin with half an I band of actin at either end, and contraction shortens the sarcomere by pulling the Z lines closer.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Locomotion and Movement",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261106_en_10",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Ascariasis in humans is caused by a:",
+      "options": [
+        "Protozoan",
+        "Roundworm, Ascaris lumbricoides",
+        "Fungus",
+        "Bacterium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The intestinal roundworm spreads through water, vegetables and soil contaminated with its eggs, and causes internal bleeding, fever and blockage of the intestine.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    }
+  ]
+}

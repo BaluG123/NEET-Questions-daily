@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-08",
+  "language": "en",
+  "title": "Daily Dose — 8 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261108_en_01",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Fluids",
+      "question": "A body floats in a liquid when the weight of the liquid it displaces is:",
+      "options": [
+        "Less than the weight of the body",
+        "Equal to the weight of the body",
+        "Greater than the weight of the body",
+        "Zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is Archimedes' principle applied to flotation. It explains why a steel ship floats while a steel nail sinks: the ship's shape displaces far more water.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 9: Mechanical Properties of Fluids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261108_en_02",
+      "subject": "Physics",
+      "topic": "Electrostatic Potential and Capacitance",
+      "question": "Two capacitors of 2 μF and 4 μF are joined in parallel. The equivalent capacitance of the combination is:",
+      "options": [
+        "6 μF",
+        "1.33 μF",
+        "8 μF",
+        "2 μF"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In parallel the capacitances simply add, so C = 2 + 4 = 6 μF, and the equivalent value is always larger than the biggest single capacitor.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 2: Electrostatic Potential and Capacitance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261108_en_03",
+      "subject": "Physics",
+      "topic": "Wave Optics",
+      "question": "According to Brewster's law, if light is incident on a transparent medium of refractive index μ at the polarising angle ip, then:",
+      "options": [
+        "μ = sin ip",
+        "μ = tan ip",
+        "μ = cos ip",
+        "μ = 1/tan ip"
+      ],
+      "correctAnswer": 1,
+      "explanation": "At the polarising angle the reflected ray is completely plane polarised and the reflected and refracted rays are perpendicular to each other.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 10: Wave Optics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261108_en_04",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "At 298 K, the ionic product of water Kw is 10⁻¹⁴. The relation between pH and pOH of an aqueous solution at this temperature is:",
+      "options": [
+        "pH + pOH = 7",
+        "pH + pOH = 14",
+        "pH - pOH = 14",
+        "pH × pOH = 14"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Taking negative logarithms of Kw = [H⁺][OH⁻] gives pH + pOH = 14. Note that Kw rises with temperature, so the neutral pH is below 7 at 310 K.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261108_en_05",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "The standard electrode potential of the standard hydrogen electrode is taken as:",
+      "options": [
+        "+1.00 V",
+        "0.00 V, by convention",
+        "-1.00 V",
+        "+0.76 V"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Absolute electrode potentials cannot be measured, so the hydrogen electrode is defined as zero and every other potential is quoted relative to it.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261108_en_06",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "The Clemmensen reduction of a ketone, using zinc amalgam and concentrated HCl, gives:",
+      "options": [
+        "A secondary alcohol",
+        "The corresponding hydrocarbon",
+        "A carboxylic acid",
+        "An alkene"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both Clemmensen and Wolff-Kishner reduce C=O all the way to CH₂. Clemmensen works in acid, so Wolff-Kishner with hydrazine and base is used for acid sensitive compounds.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261108_en_07",
+      "subject": "Botany",
+      "topic": "Cell Cycle and Cell Division",
+      "question": "The chief significance of meiosis for a sexually reproducing organism is that it:",
+      "options": [
+        "Increases the chromosome number",
+        "Halves the chromosome number and generates genetic variation",
+        "Produces identical daughter cells",
+        "Repairs damaged tissue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Halving keeps the species' chromosome number constant across generations, while crossing over and independent assortment supply the variation that evolution works on.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 10: Cell Cycle and Cell Division",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261108_en_08",
+      "subject": "Botany",
+      "topic": "Respiration in Plants",
+      "question": "The terminal acceptor of electrons in the aerobic electron transport system is:",
+      "options": [
+        "NAD⁺",
+        "Molecular oxygen, which is reduced to water",
+        "Cytochrome c",
+        "FAD"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Complex IV passes the electrons to O₂, which combines with protons to form water. Without oxygen the whole chain backs up and ATP synthesis stops.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 12: Respiration in Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261108_en_09",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "The male accessory glands in humans include:",
+      "options": [
+        "Seminal vesicles, prostate and bulbourethral glands",
+        "Only the prostate gland",
+        "Epididymis and vas deferens",
+        "Bartholin's glands"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Their secretions make up most of the semen, nourish the sperms and lubricate the passage. The epididymis and vas deferens are ducts, not glands.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261108_en_10",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "The characteristic water canal system with pores called ostia, through which water enters the body, is found in phylum:",
+      "options": [
+        "Porifera",
+        "Coelenterata",
+        "Echinodermata",
+        "Chordata"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sponges draw water in through ostia and out through the osculum, and the choanocytes lining the canals trap food. They are the simplest multicellular animals.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    }
+  ]
+}

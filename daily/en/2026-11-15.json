@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-15",
+  "language": "en",
+  "title": "Daily Dose — 15 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261115_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "A book lying on a table pushes down on the table and the table pushes up on the book. These two forces:",
+      "options": [
+        "Are an action-reaction pair acting on different bodies",
+        "Act on the same body and balance each other",
+        "Are both gravitational forces",
+        "Add up to give the net force on the book"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Action and reaction never act on the same body, so they can never cancel each other. The book stays at rest because its weight is balanced by the normal reaction from the table.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261115_en_02",
+      "subject": "Physics",
+      "topic": "Electric Charges and Fields",
+      "question": "Two electric field lines can never intersect each other because:",
+      "options": [
+        "Field lines are always straight",
+        "At the point of intersection the field would have two directions, which is impossible",
+        "They always carry equal charge",
+        "Field lines have no direction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The tangent to a field line gives the direction of the field at that point, and a field can have only one direction at a point. Field lines also never form closed loops in electrostatics.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 1: Electric Charges and Fields",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261115_en_03",
+      "subject": "Physics",
+      "topic": "Dual Nature of Radiation and Matter",
+      "question": "The Davisson and Germer experiment, in which electrons were scattered from a nickel crystal, provided direct evidence for:",
+      "options": [
+        "The particle nature of light",
+        "The wave nature of electrons, as predicted by de Broglie",
+        "The existence of the neutron",
+        "The quantisation of charge"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The electrons produced a diffraction pattern, something only waves can do, and the measured wavelength matched h/mv exactly.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 11: Dual Nature of Radiation and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261115_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "The mass of carbon dioxide obtained by completely decomposing 50 g of calcium carbonate (molar mass 100 g/mol) is:",
+      "options": [
+        "11 g",
+        "22 g",
+        "44 g",
+        "50 g"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CaCO₃ gives CaO and CO₂ in a 1 : 1 mole ratio. 50/100 = 0.5 mol of CaCO₃ gives 0.5 mol of CO₂, which weighs 0.5 × 44 = 22 g.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261115_en_05",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "Among the conformations of ethane, the staggered form is more stable than the eclipsed form because:",
+      "options": [
+        "It has stronger C-C bonds",
+        "The hydrogen atoms are farthest apart, so torsional strain is minimum",
+        "It is aromatic",
+        "It has a higher molecular mass"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The energy difference is only about 12.5 kJ per mole, so at room temperature rotation about the C-C bond is nearly free and the conformers cannot be isolated.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 9: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261115_en_06",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "The correct order of acidic strength is:",
+      "options": [
+        "Ethanol > Phenol > Acetic acid",
+        "Acetic acid > Phenol > Ethanol",
+        "Phenol > Acetic acid > Ethanol",
+        "All three are equally acidic"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The carboxylate ion is stabilised by resonance over two equivalent oxygens, the phenoxide ion over the ring alone, and the ethoxide ion not at all.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261115_en_07",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "According to the chemiosmotic hypothesis, ATP synthesis in the chloroplast is driven by:",
+      "options": [
+        "A proton gradient across the thylakoid membrane",
+        "Direct transfer of phosphate from NADPH",
+        "The breakdown of glucose",
+        "Absorption of CO₂ in the stroma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Protons accumulate in the thylakoid lumen and then flow out through the F₀ channel of ATP synthase, and that flow drives the enzyme to make ATP.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 11: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261115_en_08",
+      "subject": "Botany",
+      "topic": "Biodiversity and Conservation",
+      "question": "The four major causes of biodiversity loss, called the evil quartet, include all of the following EXCEPT:",
+      "options": [
+        "Habitat loss and fragmentation",
+        "Over exploitation",
+        "Co-extinction",
+        "In-situ conservation"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The evil quartet is habitat loss and fragmentation, over exploitation, alien species invasion and co-extinction. In-situ conservation is a remedy, not a cause.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 13: Biodiversity and Conservation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261115_en_09",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "The respiratory rhythm centre that primarily regulates breathing in humans is located in the:",
+      "options": [
+        "Cerebrum",
+        "Medulla region of the hindbrain",
+        "Cerebellum",
+        "Hypothalamus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A pneumotaxic centre in the pons can moderate this centre, and rising CO₂ and H⁺ in the blood are the main stimuli that increase the rate of breathing.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 14: Breathing and Exchange of Gases",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261115_en_10",
+      "subject": "Zoology",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "In sickle cell anaemia, the substitution of valine for glutamic acid at the sixth position of the beta globin chain results from a change in:",
+      "options": [
+        "A single base pair in the gene, that is a point mutation",
+        "The loss of an entire chromosome",
+        "Three extra chromosomes",
+        "A deletion of the whole gene"
+      ],
+      "correctAnswer": 0,
+      "explanation": "GAG becomes GUG, and that one change makes the haemoglobin crystallise into a sickle shape under low oxygen. The heterozygote is protected against malaria.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    }
+  ]
+}

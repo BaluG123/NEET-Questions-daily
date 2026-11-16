@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-07",
+  "language": "en",
+  "title": "Daily Dose — 7 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261107_en_01",
+      "subject": "Physics",
+      "topic": "Thermal Properties of Matter",
+      "question": "Water has an unusually high specific heat capacity of about 4186 J kg⁻¹ K⁻¹. A direct consequence of this is that water:",
+      "options": [
+        "Heats up and cools down very quickly",
+        "Heats up and cools down slowly, making it a good coolant and moderator of climate",
+        "Cannot be used in radiators",
+        "Has no latent heat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A large specific heat means a lot of heat is absorbed for a small rise in temperature, which is why coastal areas have milder climates and why water is used in car radiators.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 10: Thermal Properties of Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261107_en_02",
+      "subject": "Physics",
+      "topic": "Waves",
+      "question": "The speed of a transverse wave on a stretched string of tension T and linear mass density μ is:",
+      "options": [
+        "√(T/μ)",
+        "√(μ/T)",
+        "T/μ",
+        "Tμ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tightening a string raises the speed and hence the frequency, while a thicker, heavier string lowers it, which is exactly how a sitar or guitar is tuned.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 14: Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261107_en_03",
+      "subject": "Physics",
+      "topic": "Nuclei",
+      "question": "The nuclear radius R of a nucleus of mass number A is given by R = R₀A^(1/3). It follows from this that the density of a nucleus is:",
+      "options": [
+        "Proportional to A",
+        "Nearly the same for all nuclei",
+        "Proportional to A²",
+        "Inversely proportional to A"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mass goes as A while volume goes as R³, that is also as A, so the two cancel and the density stays around 2.3 × 10¹⁷ kg m⁻³ for every nucleus.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 13: Nuclei",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261107_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "The second ionisation enthalpy of an element is always greater than the first because:",
+      "options": [
+        "The second electron is farther from the nucleus",
+        "The electron must be removed from a positively charged ion, which holds it more tightly",
+        "The atom becomes larger after the first ionisation",
+        "The nuclear charge decreases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After the first electron leaves, the remaining electrons feel a greater effective nuclear charge and the ion shrinks, so more energy is needed each time.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261107_en_05",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "A mixture of chloroform and acetone shows negative deviation from Raoult's law because:",
+      "options": [
+        "The two form hydrogen bonds with each other, making escape into vapour harder",
+        "They do not mix at all",
+        "Both are non-polar",
+        "The mixture boils below both components"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The new A-B interaction is stronger than A-A and B-B, so vapour pressure falls below the predicted value and both ΔH(mix) and ΔV(mix) are negative.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261107_en_06",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "Which of the following complexes can show optical isomerism?",
+      "options": [
+        "[Co(NH₃)₆]³⁺",
+        "[Co(en)₃]³⁺",
+        "[PtCl₄]²⁻",
+        "[Ag(NH₃)₂]⁺"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The three bidentate ethylenediamine rings give a propeller-like arrangement whose mirror image cannot be superimposed, so the d and l forms exist. The others are all symmetrical.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261107_en_07",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "In a woody dicot stem, the dark coloured, non-functional central wood is called:",
+      "options": [
+        "Sapwood",
+        "Heartwood or duramen",
+        "Phellem",
+        "Secondary phloem"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Heartwood is blocked with tannins, resins and oils, so it only gives mechanical support. The lighter peripheral sapwood is the part that still conducts water.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261107_en_08",
+      "subject": "Botany",
+      "topic": "The Living World",
+      "question": "Which of the following is considered the most defining property of all living organisms?",
+      "options": [
+        "Growth, since non-living things never grow",
+        "Metabolism, since no non-living object shows it",
+        "Movement",
+        "Reproduction, since every organism reproduces"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A mountain and a crystal can grow by accumulation, and mules or sterile worker bees do not reproduce, but no non-living thing carries out metabolism.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 1: The Living World",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261107_en_09",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "The rising phase of an action potential in a neuron is caused by:",
+      "options": [
+        "Efflux of potassium ions",
+        "A sudden influx of sodium ions through voltage gated channels",
+        "Influx of chloride ions",
+        "Activity of the sodium-potassium pump"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sodium rushing in reverses the membrane polarity to about +30 mV. Potassium then flows out to repolarise the membrane, and the pump restores the resting gradients afterwards.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261107_en_10",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "Thymosin, secreted by the thymus gland, is mainly responsible for:",
+      "options": [
+        "Differentiation of T lymphocytes and cell mediated immunity",
+        "Raising blood glucose",
+        "Regulating the sleep cycle",
+        "Stimulating milk production"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The thymus shrinks with age and thymosin levels fall, which is one reason immunity weakens in old people. Melatonin from the pineal gland is the hormone of the sleep cycle.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Chemical Coordination and Integration",
+      "language": "en"
+    }
+  ]
+}

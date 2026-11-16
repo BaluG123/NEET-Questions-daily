@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-09",
+  "language": "en",
+  "title": "Daily Dose — 9 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261109_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "An error that occurs because a measuring instrument has a zero error and so shifts every reading in the same direction is called:",
+      "options": [
+        "A random error",
+        "A systematic error",
+        "A least count error",
+        "An absolute error"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Systematic errors have a definite cause and direction, so they can be corrected once identified. Random errors scatter either way and are reduced by repeating the measurement.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 1: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261109_en_02",
+      "subject": "Physics",
+      "topic": "Oscillations",
+      "question": "In simple harmonic motion, the phase difference between the displacement and the velocity of the particle is:",
+      "options": [
+        "Zero",
+        "π/2",
+        "π",
+        "2π"
+      ],
+      "correctAnswer": 1,
+      "explanation": "If x = A sin ωt then v = Aω cos ωt, which leads the displacement by a quarter cycle. The acceleration is π out of phase with the displacement.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 13: Oscillations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261109_en_03",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "With a rise in temperature, the resistivity of a metallic conductor and that of a semiconductor respectively:",
+      "options": [
+        "Both increase",
+        "Increases and decreases",
+        "Both decrease",
+        "Decreases and increases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In a metal the number of carriers is fixed and more collisions raise resistivity, while in a semiconductor heating frees many more carriers, so resistivity falls sharply.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 3: Current Electricity",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261109_en_04",
+      "subject": "Chemistry",
+      "topic": "Redox Reactions",
+      "question": "An oxidising agent is a species that:",
+      "options": [
+        "Loses electrons and is itself oxidised",
+        "Gains electrons and is itself reduced",
+        "Neither gains nor loses electrons",
+        "Always contains oxygen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An oxidising agent takes electrons from something else, so it is reduced in the process. Oxygen need not be present at all, as in the oxidation of sodium by chlorine.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 7: Redox Reactions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261109_en_05",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "The addition of HBr to propene in the presence of benzoyl peroxide gives mainly 1-bromopropane. This happens because the peroxide:",
+      "options": [
+        "Makes the reaction follow a free radical path, so the addition is anti-Markovnikov",
+        "Acts as a strong acid",
+        "Removes the double bond",
+        "Makes the alkene aromatic"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is the Kharasch peroxide effect, and it is seen only with HBr, because HCl has too strong a bond and HI too weak a one to sustain the radical chain.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 9: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261109_en_06",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "The equimolar mixture of glucose and fructose obtained by the hydrolysis of sucrose is called:",
+      "options": [
+        "Maltose",
+        "Invert sugar",
+        "Starch",
+        "Cellobiose"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sucrose is dextrorotatory, but the mixture formed is laevorotatory because fructose rotates light to the left more strongly than glucose does to the right, so the sign of rotation inverts.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261109_en_07",
+      "subject": "Botany",
+      "topic": "Morphology of Flowering Plants",
+      "question": "In a racemose inflorescence, the main axis:",
+      "options": [
+        "Ends in a flower and stops growing",
+        "Continues to grow and bears flowers laterally in acropetal order",
+        "Bears a single terminal flower only",
+        "Is always underground"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The oldest flowers are therefore at the base and the youngest at the tip. In a cymose inflorescence the axis ends in a flower, so the order is basipetal.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 5: Morphology of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261109_en_08",
+      "subject": "Botany",
+      "topic": "Biomolecules",
+      "question": "Enzymes speed up a biochemical reaction mainly by:",
+      "options": [
+        "Raising the temperature of the cell",
+        "Lowering the activation energy barrier of the reaction",
+        "Changing the equilibrium position in favour of products",
+        "Supplying extra energy to the substrate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A catalyst never alters the equilibrium constant or the overall energy change; it only offers an easier route, which is why carbonic anhydrase can process so many molecules a second.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 9: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261109_en_09",
+      "subject": "Zoology",
+      "topic": "Excretory Products and their Elimination",
+      "question": "The glomerulus together with the Bowman's capsule enclosing it is together called the:",
+      "options": [
+        "Loop of Henle",
+        "Malpighian body or renal corpuscle",
+        "Renal pelvis",
+        "Collecting duct"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Filtration here is called ultrafiltration because the three layered barrier lets water and small solutes through but holds back blood cells and most proteins.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 16: Excretory Products and their Elimination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261109_en_10",
+      "subject": "Zoology",
+      "topic": "Reproductive Health",
+      "question": "Amniocentesis is a foetal diagnostic test that has had to be legally banned for one particular use because:",
+      "options": [
+        "It cannot detect any disorder",
+        "It was being misused to determine the sex of the foetus and abort female foetuses",
+        "It harms the mother permanently",
+        "It is too expensive to perform"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The test legitimately detects disorders such as Down's syndrome and haemophilia from foetal cells in the amniotic fluid, but sex determination using it is prohibited by law in India.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 3: Reproductive Health",
+      "language": "en"
+    }
+  ]
+}

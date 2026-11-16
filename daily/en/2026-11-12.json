@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-12",
+  "language": "en",
+  "title": "Daily Dose — 12 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261112_en_01",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "The coefficient of restitution for a perfectly elastic collision is:",
+      "options": [
+        "Zero",
+        "1",
+        "Between 0 and 1",
+        "Greater than 1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "e is the ratio of the relative velocity of separation to that of approach. It is 1 for a perfectly elastic collision and 0 for a perfectly inelastic one, where the bodies stick together.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261112_en_02",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Solids",
+      "question": "A wire of a given material breaks under a certain load. If a wire of the same material but twice the length and the same radius is taken, the breaking load will be:",
+      "options": [
+        "Twice as large",
+        "Half as large",
+        "The same",
+        "Four times as large"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Breaking stress is a property of the material and acts over the cross-section, so the breaking load depends only on the area and not at all on the length of the wire.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 8: Mechanical Properties of Solids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261112_en_03",
+      "subject": "Physics",
+      "topic": "Magnetism and Matter",
+      "question": "The net magnetic flux through any closed surface is always zero. This is because:",
+      "options": [
+        "Magnetic field lines are always straight",
+        "Isolated magnetic poles do not exist, so field lines form closed loops",
+        "Magnetic fields are always weak",
+        "Magnetic monopoles repel each other"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Every line that enters a closed surface must leave it, since poles always occur in pairs. This is Gauss's law for magnetism, and it is why a broken magnet gives two complete magnets.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 5: Magnetism and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261112_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "All three carbon-oxygen bonds in the carbonate ion CO₃²⁻ are found to be of equal length. This is explained by:",
+      "options": [
+        "Resonance, the real structure being a hybrid of several canonical forms",
+        "sp³ hybridisation of carbon",
+        "Hydrogen bonding",
+        "Ionic character of the bonds"
+      ],
+      "correctAnswer": 0,
+      "explanation": "No single Lewis structure fits, because each would need one double and two single bonds. The delocalised pi electrons spread the double bond character equally over all three bonds.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261112_en_05",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "The solubility product of a sparingly soluble salt AB₂, whose solubility is s mol per litre, is given by:",
+      "options": [
+        "s²",
+        "2s³",
+        "4s³",
+        "s³"
+      ],
+      "correctAnswer": 2,
+      "explanation": "AB₂ gives one A²⁺ of concentration s and two B⁻ of concentration 2s, so Ksp = s × (2s)² = 4s³.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261112_en_06",
+      "subject": "Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "question": "Haloalkanes are almost insoluble in water although they are polar. The main reason is that haloalkanes:",
+      "options": [
+        "Cannot form hydrogen bonds with water, so breaking water's own hydrogen bonds is not compensated",
+        "Are lighter than water",
+        "React violently with water",
+        "Are ionic compounds"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dissolving would need the water-water hydrogen bonds to be replaced by new ones, and a C-X group cannot form them, so the energy balance is unfavourable.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 6: Haloalkanes and Haloarenes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261112_en_07",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "Annual rings seen in the cross-section of a temperate tree trunk are produced because:",
+      "options": [
+        "The cambium is active only once in the life of the tree",
+        "The cambium is more active in spring and less in autumn, giving alternating early and late wood",
+        "The bark peels off every year",
+        "The leaves fall every year"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Spring wood has wide, thin walled vessels and autumn wood narrow, thick walled ones, so one ring marks one year and the rings can be counted to estimate a tree's age.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261112_en_08",
+      "subject": "Botany",
+      "topic": "Microbes in Human Welfare",
+      "question": "In the secondary treatment of sewage, the activated sludge stage works because:",
+      "options": [
+        "Chemicals precipitate the organic matter",
+        "Aerobic microbes grow vigorously and consume the organic matter, lowering the BOD",
+        "The water is simply filtered through sand",
+        "All microbes are killed by chlorine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Air is pumped through the effluent so flocs of aerobic bacteria and fungi multiply. A part of the sludge is returned as inoculum and the rest digested anaerobically to yield biogas.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 8: Microbes in Human Welfare",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261112_en_09",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "Rhodopsin, the purple red pigment that makes vision in dim light possible, is present in the:",
+      "options": [
+        "Cone cells",
+        "Rod cells",
+        "Lens",
+        "Cornea"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rods contain rhodopsin, which is made from vitamin A, so a deficiency of that vitamin causes night blindness. Cones hold photopsins and give colour vision in bright light.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261112_en_10",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "Parturition, the act of childbirth, is induced by a neuroendocrine mechanism in which:",
+      "options": [
+        "Oxytocin causes uterine contractions, which in turn stimulate more oxytocin release",
+        "Progesterone levels rise sharply",
+        "Relaxin stops all contractions",
+        "FSH triggers the uterus to contract"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is a rare positive feedback loop: the signals build on each other until the baby is delivered, after which the stimulus and the loop end.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    }
+  ]
+}

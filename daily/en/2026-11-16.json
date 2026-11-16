@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-16",
+  "language": "en",
+  "title": "Daily Dose — 16 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261116_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "The dimensional formula of the universal gravitational constant G is:",
+      "options": [
+        "[M L² T⁻²]",
+        "[M⁻¹ L³ T⁻²]",
+        "[M L³ T⁻²]",
+        "[M⁻¹ L² T⁻¹]"
+      ],
+      "correctAnswer": 1,
+      "explanation": "From F = Gm₁m₂/r², G = Fr²/m₁m₂ = [MLT⁻²][L²]/[M²] = [M⁻¹L³T⁻²].",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 1: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261116_en_02",
+      "subject": "Physics",
+      "topic": "Thermal Properties of Matter",
+      "question": "Water shows anomalous expansion: on being cooled from 4 °C to 0 °C it:",
+      "options": [
+        "Contracts steadily",
+        "Expands, so its density decreases",
+        "Neither expands nor contracts",
+        "Turns directly into vapour"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water is densest at 4 °C, so in a frozen lake the water at the bottom stays at 4 °C while ice floats on top, which is what allows aquatic life to survive the winter.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 10: Thermal Properties of Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261116_en_03",
+      "subject": "Physics",
+      "topic": "Atoms",
+      "question": "The chief drawback of Rutherford's nuclear model of the atom was that it could not explain:",
+      "options": [
+        "The existence of the nucleus",
+        "The stability of the atom and the observed line spectrum",
+        "The scattering of alpha particles",
+        "The mass of the atom"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A revolving electron is accelerated, so classical theory says it must radiate energy continuously, spiral inwards and give a continuous spectrum. Bohr's quantised orbits fixed both problems.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 12: Atoms",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261116_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "A 2p orbital has a nodal plane passing through the nucleus. The number of such nodal planes in a single p orbital is:",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The number of angular or planar nodes equals l, which is 1 for a p orbital. This is why a p orbital is dumb-bell shaped with zero electron density at the nucleus.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261116_en_05",
+      "subject": "Chemistry",
+      "topic": "The d- and f-Block Elements",
+      "question": "Transition metals and their compounds make good catalysts mainly because they:",
+      "options": [
+        "Show variable oxidation states and provide a large surface for adsorption",
+        "Have very low melting points",
+        "Are all radioactive",
+        "Never form complexes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The ability to change oxidation state lets the metal accept and give back electrons during the reaction, as iron does in the Haber process and vanadium pentoxide in the contact process.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 4: The d- and f-Block Elements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261116_en_06",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "Which of the following pairs of vitamin and deficiency disease is correctly matched?",
+      "options": [
+        "Vitamin B₁ and scurvy",
+        "Vitamin C and beriberi",
+        "Vitamin D and rickets",
+        "Vitamin A and pellagra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vitamin D deficiency causes rickets in children and osteomalacia in adults. B₁ deficiency gives beriberi, vitamin C scurvy and vitamin A night blindness.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261116_en_07",
+      "subject": "Botany",
+      "topic": "Sexual Reproduction in Flowering Plants",
+      "question": "In a plant breeding programme using artificial hybridisation, emasculation means:",
+      "options": [
+        "Covering the flower with a bag",
+        "Removing the anthers from the flower bud of the female parent before they dehisce",
+        "Removing the stigma",
+        "Collecting pollen from the male parent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Emasculation stops self pollination, and the flower is then bagged to keep unwanted pollen out until the desired pollen is dusted on the stigma.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 1: Sexual Reproduction in Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261116_en_08",
+      "subject": "Botany",
+      "topic": "Respiration in Plants",
+      "question": "The respiratory pathway is described as amphibolic rather than purely catabolic because:",
+      "options": [
+        "It only breaks molecules down",
+        "Its intermediates are withdrawn for the synthesis of fats, proteins and other compounds as well",
+        "It needs no oxygen",
+        "It occurs only in the dark"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Acetyl CoA is drawn off for fatty acid synthesis and keto acids of the Krebs cycle for amino acids, so the pathway serves both breakdown and build-up.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 12: Respiration in Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261116_en_09",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "The most reliable technique for confirming whether a suspected tumour is cancerous is:",
+      "options": [
+        "Measuring body temperature",
+        "Biopsy and histopathological study of the tissue",
+        "A simple blood pressure reading",
+        "Counting the pulse rate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A piece of tissue is sectioned, stained and examined for cancerous cells. Radiography, CT and MRI help locate internal tumours, and antibody based tests detect some cancers.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261116_en_10",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "The colostrum produced by the mother in the first few days after childbirth is especially valuable to the newborn because it is rich in:",
+      "options": [
+        "Fat and sugar only",
+        "Antibodies, especially IgA, which build the infant's resistance",
+        "Iron alone",
+        "Digestive enzymes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Colostrum is yellowish and thick, and the IgA it carries coats the infant's gut lining, which is why exclusive breastfeeding in the early months is strongly advised.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    }
+  ]
+}

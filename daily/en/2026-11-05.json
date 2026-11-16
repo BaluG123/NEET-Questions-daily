@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-05",
+  "language": "en",
+  "title": "Daily Dose — 5 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261105_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "The impulse of a force is equal to the change in momentum it produces. Its SI unit is:",
+      "options": [
+        "N m",
+        "N s",
+        "N/s",
+        "J s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Impulse = F × t, so its unit is newton second, which is the same as kg m s⁻¹, the unit of momentum.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261105_en_02",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "Two projectiles are thrown with the same speed at angles of 30° and 60° to the horizontal. Their horizontal ranges are:",
+      "options": [
+        "Equal",
+        "In the ratio 1 : 2",
+        "In the ratio 1 : 3",
+        "In the ratio 1 : √3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "R = u² sin 2θ / g, and sin 60° equals sin 120°, so complementary angles always give the same range even though the maximum heights and times of flight differ.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261105_en_03",
+      "subject": "Physics",
+      "topic": "Moving Charges and Magnetism",
+      "question": "The frequency of revolution of a charged particle in a cyclotron is independent of:",
+      "options": [
+        "The magnetic field",
+        "The speed and the radius of the path",
+        "The charge of the particle",
+        "The mass of the particle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The cyclotron frequency is qB/2πm. As the particle speeds up its radius grows in the same proportion, so the time per revolution stays fixed, which is why one steady radio frequency can keep accelerating it.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 4: Moving Charges and Magnetism",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261105_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "Avogadro's law states that under the same conditions of temperature and pressure, equal volumes of all gases contain:",
+      "options": [
+        "Equal masses",
+        "An equal number of molecules",
+        "Equal numbers of atoms",
+        "The same density"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The law counts molecules, not atoms or mass, and it is what lets gas volume ratios in a reaction be read directly as mole ratios.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261105_en_05",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "The number of spectral lines produced when an electron in a hydrogen atom returns from the 4th energy level to the ground state is:",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The number of lines is n(n - 1)/2 = 4 × 3/2 = 6, counting every possible downward transition between the four levels.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261105_en_06",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "The dipole moment of NH₃ is greater than that of NF₃ although fluorine is more electronegative than hydrogen. This is because in NH₃:",
+      "options": [
+        "There is no lone pair on nitrogen",
+        "The lone pair moment and the bond moments point in the same direction, while in NF₃ they oppose each other",
+        "The molecule is linear",
+        "Nitrogen is sp² hybridised"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In NH₃ the N-H bond moments point towards nitrogen, adding to the lone pair moment. In NF₃ the N-F moments point away from nitrogen and partly cancel it, so the net moment is small.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261105_en_07",
+      "subject": "Botany",
+      "topic": "Biological Classification",
+      "question": "Methanogens, halophiles and thermoacidophiles are grouped together as:",
+      "options": [
+        "Archaebacteria, which live in extreme habitats",
+        "Eubacteria of ordinary soil",
+        "Cyanobacteria",
+        "Fungi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Their distinctive cell wall lets them survive salty, hot or acidic conditions. Methanogens live in the gut of ruminants and produce the methane of biogas.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 2: Biological Classification",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261105_en_08",
+      "subject": "Botany",
+      "topic": "Plant Kingdom",
+      "question": "Pteridophytes differ from bryophytes mainly in that pteridophytes:",
+      "options": [
+        "Have a dominant gametophyte",
+        "Possess vascular tissue and a dominant sporophyte",
+        "Produce seeds",
+        "Lack any need for water in fertilisation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pteridophytes are the first land plants with xylem and phloem, and the plant body we see is the sporophyte. They still need water for fertilisation and form no seeds.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 3: Plant Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261105_en_09",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "Vital capacity of the lungs is defined as:",
+      "options": [
+        "Tidal volume plus residual volume",
+        "The maximum volume of air a person can breathe out after a forced inspiration",
+        "The air left after a forced expiration",
+        "The air breathed in during one normal breath"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vital capacity equals ERV + TV + IRV and is about 4.5 litres in a healthy adult. It leaves out the residual volume, which can never be expelled.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 14: Breathing and Exchange of Gases",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261105_en_10",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "Lymph differs from blood in that lymph:",
+      "options": [
+        "Contains red blood cells but no plasma",
+        "Lacks red blood cells and most plasma proteins but is rich in lymphocytes",
+        "Has more oxygen than blood",
+        "Contains no cells at all"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lymph returns tissue fluid and proteins to the blood, carries lymphocytes for immunity, and the lacteals of the intestinal villi use it to absorb digested fats.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-11",
+  "language": "en",
+  "title": "Daily Dose — 11 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261111_en_01",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "The escape velocity from the surface of the Earth is about:",
+      "options": [
+        "7.9 km/s",
+        "11.2 km/s",
+        "2.4 km/s",
+        "30 km/s"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Escape velocity is √(2GM/R) and does not depend on the mass or direction of projection of the body. The value 7.9 km/s is the orbital velocity near the surface.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 7: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261111_en_02",
+      "subject": "Physics",
+      "topic": "Electromagnetic Induction",
+      "question": "The energy stored in an inductor of inductance L carrying a steady current I is:",
+      "options": [
+        "LI",
+        "½LI²",
+        "LI²",
+        "½L²I"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Work must be done against the back emf while the current is built up, and this energy is stored in the magnetic field, in the same way ½CV² is stored in a capacitor's electric field.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 6: Electromagnetic Induction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261111_en_03",
+      "subject": "Physics",
+      "topic": "Ray Optics and Optical Instruments",
+      "question": "Two thin lenses of powers +5 D and -2 D are placed in contact with each other. The focal length of the combination is:",
+      "options": [
+        "+33.3 cm",
+        "+20 cm",
+        "-33.3 cm",
+        "+3 cm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Powers add, so P = 5 - 2 = +3 D, and f = 1/P = 1/3 m, which is about +33.3 cm. The combination is converging.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 9: Ray Optics and Optical Instruments",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261111_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "According to the (n + l) rule, the orbital filled immediately after 3p in a multi-electron atom is:",
+      "options": [
+        "3d",
+        "4s",
+        "4p",
+        "4d"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For 4s, n + l = 4 + 0 = 4, while for 3d it is 3 + 2 = 5. The lower sum fills first, which is why potassium and calcium are s-block elements.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261111_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "The half-life of a zero order reaction is:",
+      "options": [
+        "Independent of the initial concentration",
+        "Directly proportional to the initial concentration",
+        "Inversely proportional to the initial concentration",
+        "Always equal to 0.693/k"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For a zero order reaction t½ = [A]₀/2k, so doubling the starting concentration doubles the half-life. Only a first order reaction has a concentration independent half-life.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261111_en_06",
+      "subject": "Chemistry",
+      "topic": "Amines",
+      "question": "The Hinsberg reagent, benzenesulphonyl chloride, is used to:",
+      "options": [
+        "Distinguish between primary, secondary and tertiary amines",
+        "Prepare diazonium salts",
+        "Reduce nitro compounds",
+        "Oxidise alcohols"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A primary amine gives a product soluble in alkali, a secondary amine one insoluble in alkali, and a tertiary amine does not react at all.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 9: Amines",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261111_en_07",
+      "subject": "Botany",
+      "topic": "Biological Classification",
+      "question": "Mycoplasmas are unusual among prokaryotes because they:",
+      "options": [
+        "Have the thickest cell wall of all bacteria",
+        "Completely lack a cell wall and are the smallest living cells known",
+        "Are photosynthetic",
+        "Possess a true nucleus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Having no cell wall, they are unaffected by penicillin, which works by blocking cell wall synthesis. They can survive without oxygen and cause disease in plants and animals.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 2: Biological Classification",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261111_en_08",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "In Chargaff's base equivalence rule for double stranded DNA:",
+      "options": [
+        "A + T always equals G + C",
+        "The amount of adenine equals that of thymine and guanine equals cytosine",
+        "All four bases are present in equal amounts",
+        "Purines always exceed pyrimidines"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This equivalence was a crucial clue to base pairing, and it also means total purines equal total pyrimidines. The A + T to G + C ratio varies from species to species.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261111_en_09",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "Erythroblastosis foetalis can occur when:",
+      "options": [
+        "An Rh negative mother carries an Rh positive foetus in a later pregnancy",
+        "An Rh positive mother carries an Rh negative foetus",
+        "Both mother and foetus are Rh negative",
+        "The mother has blood group O"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The first pregnancy sensitises the mother, and in a later one her anti-Rh antibodies cross the placenta and destroy the foetal red cells. Anti-Rh injections prevent this.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261111_en_10",
+      "subject": "Zoology",
+      "topic": "Evolution",
+      "question": "Which of the following best describes stabilising natural selection?",
+      "options": [
+        "Both extreme forms are favoured over the average",
+        "The average or intermediate form is favoured and the extremes are eliminated",
+        "Only one extreme form is favoured",
+        "Selection has no effect on the population"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stabilising selection narrows variation and keeps the population as it is, directional selection shifts the mean one way, and disruptive selection favours both extremes.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 6: Evolution",
+      "language": "en"
+    }
+  ]
+}
