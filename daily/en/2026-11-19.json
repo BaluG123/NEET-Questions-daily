@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-19",
+  "language": "en",
+  "title": "Daily Dose — 19 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261119_en_01",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "question": "In an isochoric process, in which the volume of the gas is kept constant:",
+      "options": [
+        "No heat is exchanged",
+        "No work is done, so all the heat supplied changes the internal energy",
+        "The temperature stays constant",
+        "The pressure stays constant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "W = PΔV = 0 when the volume is fixed, so the first law reduces to Q = ΔU. A pressure cooker heating with its lid shut is close to this process.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 11: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261119_en_02",
+      "subject": "Physics",
+      "topic": "Kinetic Theory",
+      "question": "According to kinetic theory, the pressure exerted by an ideal gas of density ρ whose molecules have a mean square speed c² is:",
+      "options": [
+        "ρc²",
+        "½ρc²",
+        "⅓ρc²",
+        "⅔ρc²"
+      ],
+      "correctAnswer": 2,
+      "explanation": "P = ⅓ρc², the one third arising because molecular motion is shared equally among the three directions in space.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 12: Kinetic Theory",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261119_en_03",
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "question": "Two identical cells, each of emf E and internal resistance r, are joined in series across an external resistance R. The current in the circuit is:",
+      "options": [
+        "2E/(R + 2r)",
+        "E/(R + 2r)",
+        "2E/(R + r)",
+        "E/(2R + r)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In series the emfs add and so do the internal resistances, so I = 2E/(R + 2r). A series grouping is useful when R is much larger than r.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 3: Current Electricity",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261119_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "Among the elements of period 3, the one with the largest atomic radius is:",
+      "options": [
+        "Sodium",
+        "Silicon",
+        "Sulphur",
+        "Chlorine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Atomic radius decreases from left to right across a period, so the first element of the period, sodium, is the largest and chlorine the smallest.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261119_en_05",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "Adding a catalyst to a reversible reaction already at equilibrium will:",
+      "options": [
+        "Shift the equilibrium towards the products",
+        "Not change the position of equilibrium, but help it be reached faster",
+        "Increase the value of the equilibrium constant",
+        "Stop the reaction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A catalyst lowers the activation energy of the forward and the backward reaction by the same amount, so both speed up equally and the equilibrium constant is untouched.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261119_en_06",
+      "subject": "Chemistry",
+      "topic": "Amines",
+      "question": "The conversion of benzene diazonium chloride into chlorobenzene using cuprous chloride and HCl is called the:",
+      "options": [
+        "Sandmeyer reaction",
+        "Gabriel synthesis",
+        "Hoffmann reaction",
+        "Hinsberg reaction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The diazonium group is an excellent leaving group, which makes it the standard route to aryl halides, cyanides and phenols that cannot be made by direct substitution.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 9: Amines",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261119_en_07",
+      "subject": "Botany",
+      "topic": "Cell Cycle and Cell Division",
+      "question": "Cells that have stopped dividing and have left the cell cycle to stay metabolically active in a resting state are said to be in:",
+      "options": [
+        "S phase",
+        "G₀, the quiescent stage",
+        "Prophase",
+        "Metaphase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nerve cells and heart muscle cells stay in G₀ permanently, which is why such tissue repairs itself so poorly after injury.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 10: Cell Cycle and Cell Division",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261119_en_08",
+      "subject": "Botany",
+      "topic": "Organisms and Populations",
+      "question": "The kangaroo rat of the North American desert meets almost all its water needs by:",
+      "options": [
+        "Drinking dew every morning",
+        "Internal oxidation of its fat, and by passing nearly solid urine",
+        "Absorbing water through its skin",
+        "Storing water in its tail"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Metabolic water from fat breakdown plus an extremely concentrated urine lets it survive without drinking at all, a classic physiological adaptation to desert life.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 11: Organisms and Populations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261119_en_09",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "The total number of vertebrae in the vertebral column of an adult human is:",
+      "options": [
+        "24",
+        "26",
+        "33",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A child starts with 33, but the five sacral and four coccygeal vertebrae fuse into a single sacrum and coccyx, leaving 7 cervical, 12 thoracic, 5 lumbar, 1 sacrum and 1 coccyx.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Locomotion and Movement",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261119_en_10",
+      "subject": "Zoology",
+      "topic": "Reproductive Health",
+      "question": "Lactational amenorrhoea works as a natural method of contraception because:",
+      "options": [
+        "Breast milk kills the sperms",
+        "Intense lactation suppresses the ovulation cycle, so conception is unlikely for up to about six months",
+        "It permanently blocks the fallopian tubes",
+        "It changes the mother's blood group"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The method has no side effects at all but works only while the mother breastfeeds fully and only for about the first six months after delivery.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 3: Reproductive Health",
+      "language": "en"
+    }
+  ]
+}

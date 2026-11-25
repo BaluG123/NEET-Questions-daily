@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-17",
+  "language": "en",
+  "title": "Daily Dose — 17 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261117_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "A passenger standing in a bus falls backward when the bus suddenly starts moving. This is due to:",
+      "options": [
+        "Inertia of motion",
+        "Inertia of rest",
+        "Inertia of direction",
+        "Centripetal force"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lower body moves with the bus but the upper body tends to stay at rest, so the person leans back. When a moving bus brakes suddenly, inertia of motion throws him forward instead.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261117_en_02",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Fluids",
+      "question": "With a rise in temperature, the viscosity of a liquid and that of a gas respectively:",
+      "options": [
+        "Both increase",
+        "Decreases and increases",
+        "Both decrease",
+        "Increases and decreases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In a liquid, heating weakens the intermolecular attraction so it flows more easily, while in a gas viscosity comes from molecular collisions, which become more frequent and vigorous on heating.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 9: Mechanical Properties of Fluids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261117_en_03",
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "question": "The speed of electromagnetic waves in free space is given by:",
+      "options": [
+        "√(μ₀ε₀)",
+        "1/√(μ₀ε₀)",
+        "μ₀ε₀",
+        "1/(μ₀ε₀)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maxwell found this combination of two purely electrical and magnetic constants equals 3 × 10⁸ m/s, which matched the measured speed of light and showed light itself is an electromagnetic wave.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 8: Electromagnetic Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261117_en_04",
+      "subject": "Chemistry",
+      "topic": "Redox Reactions",
+      "question": "The oxidation state of oxygen in the compound OF₂ is:",
+      "options": [
+        "-2",
+        "-1",
+        "+1",
+        "+2"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Fluorine is the most electronegative element and is always -1, so oxygen must be +2 here. This is the one common compound where oxygen shows a positive oxidation state.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 7: Redox Reactions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261117_en_05",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "The number of structural isomers possible for the alkane C₅H₁₂ is:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "They are n-pentane, isopentane (2-methylbutane) and neopentane (2,2-dimethylpropane). More branching lowers the boiling point, so neopentane boils lowest.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 9: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261117_en_06",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "The effective atomic number (EAN) of the central metal atom in [Fe(CN)₆]⁴⁻ is:",
+      "options": [
+        "34",
+        "36",
+        "26",
+        "30"
+      ],
+      "correctAnswer": 1,
+      "explanation": "EAN = atomic number - oxidation state + 2 × coordination number = 26 - 2 + 12 = 36, the krypton configuration, which is why this complex is so stable.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261117_en_07",
+      "subject": "Botany",
+      "topic": "Biological Classification",
+      "question": "Red tides in the sea, which can kill large numbers of fish, are caused by the rapid multiplication of:",
+      "options": [
+        "Diatoms",
+        "Dinoflagellates such as Gonyaulax",
+        "Euglenoids",
+        "Slime moulds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "These photosynthetic protists bloom so densely that the water turns red, and the toxins they release kill fish and other marine animals.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 2: Biological Classification",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261117_en_08",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "Griffith's experiment with Streptococcus pneumoniae, in which heat killed S strain bacteria turned living R strain bacteria virulent, demonstrated:",
+      "options": [
+        "That DNA is made of nucleotides",
+        "The phenomenon of transformation, in which a transforming principle passes between cells",
+        "That proteins are the genetic material",
+        "That RNA can replicate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Griffith could not say what the transforming principle was. Avery, MacLeod and McCarty later showed by enzyme digestion that it was DNA and not protein.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261117_en_09",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "In the final step of blood clotting, the enzyme thrombin converts:",
+      "options": [
+        "Prothrombin into thrombin",
+        "Soluble fibrinogen into insoluble fibrin threads",
+        "Fibrin into fibrinogen",
+        "Platelets into thromboplastin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The mesh of fibrin threads traps blood cells and forms the clot. Calcium ions are needed at several steps of this cascade, which is why citrate stops stored blood from clotting.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261117_en_10",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Elephantiasis, or lymphatic filariasis, is caused by:",
+      "options": [
+        "Entamoeba histolytica",
+        "Wuchereria bancrofti, a filarial worm spread by mosquitoes",
+        "A rhinovirus",
+        "Trichophyton"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The worms live in the lymphatic vessels and block them, so fluid collects and the limb swells grossly. Entamoeba causes amoebiasis and Trichophyton ringworm.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    }
+  ]
+}

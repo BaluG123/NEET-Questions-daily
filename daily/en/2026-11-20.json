@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-20",
+  "language": "en",
+  "title": "Daily Dose — 20 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261120_en_01",
+      "subject": "Physics",
+      "topic": "System of Particles and Rotational Motion",
+      "question": "A rigid body is in complete mechanical equilibrium when:",
+      "options": [
+        "Only the net force on it is zero",
+        "Both the net force and the net torque on it are zero",
+        "Only the net torque on it is zero",
+        "Its velocity is zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zero net force prevents translation and zero net torque prevents rotation. A couple is the case where the net force is zero but the torque is not, so the body still spins.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 6: System of Particles and Rotational Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261120_en_02",
+      "subject": "Physics",
+      "topic": "Waves",
+      "question": "The speed of sound in air increases with a rise in temperature because the speed is proportional to:",
+      "options": [
+        "The temperature in degrees Celsius",
+        "The square root of the absolute temperature",
+        "The pressure of the air",
+        "The square of the temperature"
+      ],
+      "correctAnswer": 1,
+      "explanation": "v ∝ √T, so the speed rises by about 0.61 m/s for each degree rise in temperature. It is independent of pressure, because density changes in step with pressure.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 14: Waves",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261120_en_03",
+      "subject": "Physics",
+      "topic": "Moving Charges and Magnetism",
+      "question": "The torque acting on a rectangular current loop of N turns, area A, carrying current I, placed with its plane parallel to a uniform magnetic field B, is:",
+      "options": [
+        "Zero",
+        "NIAB",
+        "NIAB/2",
+        "NIA/B"
+      ],
+      "correctAnswer": 1,
+      "explanation": "τ = NIAB sin θ, where θ is the angle between the magnetic moment and the field. With the plane parallel to B, the moment is perpendicular to B, so sin θ = 1 and the torque is maximum.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 4: Moving Charges and Magnetism",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261120_en_04",
+      "subject": "Chemistry",
+      "topic": "Structure of Atom",
+      "question": "Atoms of different elements having the same mass number but different atomic numbers are called:",
+      "options": [
+        "Isotopes",
+        "Isobars",
+        "Isotones",
+        "Isomers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Isotopes have the same atomic number but different mass numbers, isobars the reverse, and isotones have the same number of neutrons.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 2: Structure of Atom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261120_en_05",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "The work done by a gas during free expansion into a vacuum is:",
+      "options": [
+        "Maximum",
+        "Zero, because the external pressure is zero",
+        "Equal to the heat absorbed",
+        "Negative"
+      ],
+      "correctAnswer": 1,
+      "explanation": "W = -P(ext)ΔV, and with P(ext) = 0 there is nothing to push against. If the expansion is also adiabatic, then Q = 0 as well, so ΔU = 0 and the temperature does not change.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261120_en_06",
+      "subject": "Chemistry",
+      "topic": "Chemical Kinetics",
+      "question": "The integrated rate equation for a first order reaction is k = (2.303/t) log([A]₀/[A]). A plot of log[A] against time therefore gives a straight line whose slope is:",
+      "options": [
+        "+k/2.303",
+        "-k/2.303",
+        "k",
+        "-2.303k"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rearranging gives log[A] = log[A]₀ - (k/2.303)t, so the line falls with slope -k/2.303 and the rate constant can be read straight off the graph.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 3: Chemical Kinetics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261120_en_07",
+      "subject": "Botany",
+      "topic": "Cell: The Unit of Life",
+      "question": "The membrane that bounds the large central vacuole of a mature plant cell is called the:",
+      "options": [
+        "Plasmalemma",
+        "Tonoplast",
+        "Thylakoid",
+        "Nuclear envelope"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The vacuole can occupy up to 90 percent of the cell's volume, and the tonoplast actively pumps ions into it, so the vacuole holds a far higher concentration than the cytoplasm.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 8: Cell: The Unit of Life",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261120_en_08",
+      "subject": "Botany",
+      "topic": "Microbes in Human Welfare",
+      "question": "Cyclosporin A, used as an immunosuppressive drug in organ transplant patients, is obtained from:",
+      "options": [
+        "The fungus Trichoderma polysporum",
+        "The bacterium Lactobacillus",
+        "The yeast Saccharomyces",
+        "The fungus Monascus purpureus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Monascus purpureus yields statins, which lower blood cholesterol by competitively inhibiting the enzyme that makes it.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 8: Microbes in Human Welfare",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261120_en_09",
+      "subject": "Zoology",
+      "topic": "Chemical Coordination and Integration",
+      "question": "A deficiency of antidiuretic hormone in humans leads to a condition called:",
+      "options": [
+        "Diabetes mellitus",
+        "Diabetes insipidus, with the passing of large volumes of dilute urine",
+        "Addison's disease",
+        "Cretinism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Without ADH the kidney cannot reabsorb enough water, so the patient passes litres of dilute urine and is constantly thirsty. Diabetes mellitus is instead a failure of insulin.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 19: Chemical Coordination and Integration",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261120_en_10",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "The acrosome of a human sperm is important at fertilisation because it:",
+      "options": [
+        "Provides energy for the sperm's movement",
+        "Contains enzymes that help the sperm penetrate the layers around the ovum",
+        "Carries the genetic material",
+        "Forms the tail of the sperm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The acrosome is a cap derived from the Golgi apparatus. Energy comes from the mitochondria of the middle piece, and the genetic material lies in the head's nucleus.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    }
+  ]
+}

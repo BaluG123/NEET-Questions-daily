@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-25",
+  "language": "en",
+  "title": "Daily Dose — 25 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261125_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Plane",
+      "question": "A unit vector is a vector that has:",
+      "options": [
+        "No direction",
+        "Unit magnitude and is used only to specify a direction",
+        "Unit magnitude and unit direction",
+        "Zero magnitude"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A unit vector is written as A hat = A/|A| and carries no physical unit, which is why i, j and k are used to resolve any vector into components.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 3: Motion in a Plane",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261125_en_02",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "question": "On a pressure-volume diagram drawn from the same point, the adiabatic curve is:",
+      "options": [
+        "Less steep than the isothermal curve",
+        "Steeper than the isothermal curve",
+        "Exactly the same as the isothermal curve",
+        "A straight line"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The slope of an adiabatic is γ times that of an isothermal, and γ is greater than 1, because an adiabatic expansion also cools the gas and so drops the pressure faster.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 11: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261125_en_03",
+      "subject": "Physics",
+      "topic": "Dual Nature of Radiation and Matter",
+      "question": "The momentum of a photon of wavelength λ is:",
+      "options": [
+        "hλ",
+        "h/λ",
+        "hc/λ",
+        "λ/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A photon has zero rest mass but carries momentum p = h/λ, while hc/λ is its energy. This momentum is what produces radiation pressure and drives solar sails.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 11: Dual Nature of Radiation and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261125_en_04",
+      "subject": "Chemistry",
+      "topic": "Classification of Elements and Periodicity in Properties",
+      "question": "The IUPAC name and symbol for the element with atomic number 105 are:",
+      "options": [
+        "Unnilquadium, Unq",
+        "Unnilpentium, Unp",
+        "Unnilhexium, Unh",
+        "Unnilseptium, Uns"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The digits 1, 0 and 5 are named un, nil and pent, with the suffix ium, so 105 is unnilpentium. These systematic names are used until a permanent name is approved.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 3: Classification of Elements and Periodicity in Properties",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261125_en_05",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "A reaction with a positive ΔH and a positive ΔS will be spontaneous:",
+      "options": [
+        "At all temperatures",
+        "Only at high temperature, where TΔS exceeds ΔH",
+        "Only at low temperature",
+        "Never"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ΔG = ΔH - TΔS becomes negative only when the entropy term grows large enough, which is why the thermal decomposition of limestone needs a kiln.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261125_en_06",
+      "subject": "Chemistry",
+      "topic": "Alcohols, Phenols and Ethers",
+      "question": "When methoxyethane is heated with excess hydroiodic acid, the products obtained are:",
+      "options": [
+        "Methanol and iodoethane",
+        "Iodomethane and ethanol",
+        "Two molecules of iodomethane",
+        "Methane and ethane"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The iodide ion attacks the smaller, less hindered methyl group by an SN2 path, so the halide forms at the methyl carbon and the larger group leaves as the alcohol.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 7: Alcohols, Phenols and Ethers",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261125_en_07",
+      "subject": "Botany",
+      "topic": "The Living World",
+      "question": "In taxonomy, the word taxon refers to:",
+      "options": [
+        "Only the species level",
+        "A unit of classification at any rank, such as a species, genus, family or order",
+        "The science of naming only",
+        "A preserved specimen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "So mammals, insects and wheat are all taxa at different ranks. Systematics is the broader study of the kinds and diversity of organisms and their relationships.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 1: The Living World",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261125_en_08",
+      "subject": "Botany",
+      "topic": "Respiration in Plants",
+      "question": "In anaerobic conditions, yeast converts pyruvic acid into ethanol and CO₂, whereas human muscle converts it into:",
+      "options": [
+        "Ethanol as well",
+        "Lactic acid, with no release of CO₂",
+        "Acetyl CoA",
+        "Citric acid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both routes merely regenerate NAD⁺ so glycolysis can continue, and both yield only two ATP per glucose. The lactic acid built up in muscle causes cramps.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 12: Respiration in Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261125_en_09",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Interferons, released by virus infected cells, help the body by:",
+      "options": [
+        "Directly killing the virus particles",
+        "Protecting the neighbouring uninfected cells from viral infection",
+        "Producing antibodies",
+        "Forming memory cells"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Interferons are a cytokine barrier and form part of innate immunity, so they act at once and against any virus rather than one specific pathogen.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261125_en_10",
+      "subject": "Zoology",
+      "topic": "Human Reproduction",
+      "question": "In human development, the solid ball of 8 to 16 blastomeres formed by repeated cleavage of the zygote is called the:",
+      "options": [
+        "Blastocyst",
+        "Morula",
+        "Gastrula",
+        "Zygote"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The morula moves down the fallopian tube and then develops a cavity to become the blastocyst, whose trophoblast attaches to the endometrium at implantation.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 2: Human Reproduction",
+      "language": "en"
+    }
+  ]
+}

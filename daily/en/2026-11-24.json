@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-24",
+  "language": "en",
+  "title": "Daily Dose — 24 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261124_en_01",
+      "subject": "Physics",
+      "topic": "Laws of Motion",
+      "question": "Rolling friction is very much smaller than sliding friction. This is the reason why:",
+      "options": [
+        "Brakes do not work on wheels",
+        "Ball bearings and wheels are used to move heavy loads easily",
+        "A rolling ball never stops",
+        "Friction is always harmful"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rolling replaces sliding contact with a continuously changing point of contact, so much less deformation and resistance occur. The invention of the wheel rests on this fact.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 4: Laws of Motion",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261124_en_02",
+      "subject": "Physics",
+      "topic": "Wave Optics",
+      "question": "For a sustained interference pattern to be observed, the two sources of light must be:",
+      "options": [
+        "Of very high intensity",
+        "Coherent, that is they must maintain a constant phase difference",
+        "Of different wavelengths",
+        "Very far apart"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Two independent lamps cannot interfere because their phase difference changes randomly, which is why Young split a single beam into two with a double slit.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 10: Wave Optics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261124_en_03",
+      "subject": "Physics",
+      "topic": "Semiconductor Electronics",
+      "question": "In an intrinsic semiconductor at a temperature above absolute zero:",
+      "options": [
+        "Only electrons act as carriers",
+        "The number of free electrons equals the number of holes",
+        "Holes greatly outnumber electrons",
+        "No carriers exist at all"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Every electron that jumps the gap to the conduction band leaves exactly one hole behind, so ne = nh. Doping is what breaks this equality and gives n-type or p-type material.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 14: Semiconductor Electronics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261124_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "The percentage by mass of nitrogen in ammonia, NH₃, is approximately (N = 14, H = 1):",
+      "options": [
+        "46%",
+        "82%",
+        "18%",
+        "64%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Molar mass is 14 + 3 = 17, so the mass percentage of nitrogen is (14/17) × 100, about 82 percent. This high nitrogen content is why ammonia based fertilisers are so valuable.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261124_en_05",
+      "subject": "Chemistry",
+      "topic": "Haloalkanes and Haloarenes",
+      "question": "According to Saytzeff's rule, the dehydrohalogenation of 2-bromobutane with alcoholic KOH gives mainly:",
+      "options": [
+        "But-1-ene, the less substituted alkene",
+        "But-2-ene, the more substituted and more stable alkene",
+        "Butane",
+        "Butan-2-ol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The hydrogen is removed from the carbon with fewer hydrogens, which yields the alkene stabilised by more hyperconjugation. With aqueous KOH, substitution would give the alcohol instead.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 6: Haloalkanes and Haloarenes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261124_en_06",
+      "subject": "Chemistry",
+      "topic": "Coordination Compounds",
+      "question": "The metal ion present at the centre of the chlorophyll molecule and that in haemoglobin are respectively:",
+      "options": [
+        "Iron and magnesium",
+        "Magnesium and iron",
+        "Cobalt and magnesium",
+        "Zinc and iron"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both are coordination compounds with a porphyrin type ring. Vitamin B12 is a cobalt complex, and carbonic anhydrase contains zinc.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 5: Coordination Compounds",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261124_en_07",
+      "subject": "Botany",
+      "topic": "Biomolecules",
+      "question": "RuBisCO is often described as the most abundant protein in the whole biosphere because it:",
+      "options": [
+        "Is present in the blood of all animals",
+        "Is present in enormous amounts in the chloroplasts of every green plant",
+        "Is the smallest known enzyme",
+        "Is found only in bacteria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It is a slow and inefficient enzyme, so plants must make vast quantities of it to fix enough carbon, and it can make up half the soluble protein of a leaf.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 9: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261124_en_08",
+      "subject": "Botany",
+      "topic": "Biodiversity and Conservation",
+      "question": "Cryopreservation of gametes and seeds in liquid nitrogen is a method of:",
+      "options": [
+        "In-situ conservation",
+        "Ex-situ conservation",
+        "Habitat restoration",
+        "Bioremediation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ex-situ methods keep the organism or its propagules away from their natural habitat, as in seed banks, zoos, botanical gardens and tissue culture collections.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 13: Biodiversity and Conservation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261124_en_09",
+      "subject": "Zoology",
+      "topic": "Locomotion and Movement",
+      "question": "Osteoporosis, a common age related skeletal disorder, involves:",
+      "options": [
+        "An excess of calcium in the bones",
+        "A decrease in bone mass and mineral content, often linked to low oestrogen levels",
+        "Accumulation of uric acid in joints",
+        "Fatigue of the neuromuscular junction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The bones become porous and fracture easily, and the risk rises sharply in women after menopause. Gout is the uric acid disorder and myasthenia gravis the junction disorder.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 17: Locomotion and Movement",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261124_en_10",
+      "subject": "Zoology",
+      "topic": "Reproductive Health",
+      "question": "In the assisted reproductive technique called GIFT, what is transferred and to where?",
+      "options": [
+        "An embryo into the uterus",
+        "An ovum from a donor into the fallopian tube of a woman who cannot produce one",
+        "Sperms into the uterus",
+        "A zygote into the vagina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "GIFT stands for gamete intrafallopian transfer. It suits a woman who cannot produce an ovum but can provide a suitable environment for fertilisation and further development.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 3: Reproductive Health",
+      "language": "en"
+    }
+  ]
+}

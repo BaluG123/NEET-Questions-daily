@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-21",
+  "language": "en",
+  "title": "Daily Dose — 21 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261121_en_01",
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "question": "The Moon has no atmosphere mainly because:",
+      "options": [
+        "It is too far from the Sun",
+        "Its escape velocity of about 2.4 km/s is less than the mean speed of gas molecules there",
+        "It has no gravity at all",
+        "It rotates too fast"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A low escape velocity lets gas molecules leak away into space over time. The Earth's much higher value of 11.2 km/s is what holds its atmosphere in place.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 7: Gravitation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261121_en_02",
+      "subject": "Physics",
+      "topic": "Mechanical Properties of Solids",
+      "question": "Steel is said to be more elastic than rubber because for the same applied stress, steel:",
+      "options": [
+        "Shows a much larger strain",
+        "Shows a much smaller strain, so its Young's modulus is far greater",
+        "Breaks more easily",
+        "Does not return to its original shape"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Elasticity in physics means the tendency to resist deformation and recover fully, not stretchiness. Rubber stretches far more for the same stress, so it is less elastic.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 8: Mechanical Properties of Solids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261121_en_03",
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "question": "The capacitive reactance of a capacitor of capacitance C in an AC circuit of angular frequency ω is:",
+      "options": [
+        "ωC",
+        "1/(ωC)",
+        "ω/C",
+        "C/ω"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Since Xc = 1/ωC, a capacitor offers infinite reactance to DC, where ω = 0, and very little to high frequency AC, which is why capacitors are used to block DC and pass signals.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 7: Alternating Current",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261121_en_04",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry: Some Basic Principles and Techniques",
+      "question": "The correct order of stability of free radicals is:",
+      "options": [
+        "Methyl > 1° > 2° > 3°",
+        "3° > 2° > 1° > methyl",
+        "1° > 2° > 3° > methyl",
+        "All are equally stable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alkyl groups stabilise the electron deficient radical centre by hyperconjugation and the +I effect, exactly the order seen for carbocations.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261121_en_05",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "Reverse osmosis is used for the desalination of sea water. In this process:",
+      "options": [
+        "Pure water is pushed out of the sea water by applying a pressure greater than its osmotic pressure",
+        "Salt is pushed through the membrane",
+        "Water flows from the dilute side to the concentrated side",
+        "The membrane is permeable to salt only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Applying excess pressure on the concentrated side reverses the normal direction of osmosis, so solvent leaves the solution and pure water collects on the other side.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261121_en_06",
+      "subject": "Chemistry",
+      "topic": "Aldehydes, Ketones and Carboxylic Acids",
+      "question": "In the Hell-Volhard-Zelinsky reaction, a carboxylic acid is treated with chlorine or bromine in the presence of red phosphorus to give:",
+      "options": [
+        "An alpha halogenated carboxylic acid",
+        "An acid chloride only",
+        "An ester",
+        "A ketone"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Only acids with an alpha hydrogen respond, so formic acid does not. The alpha halo acid is a valuable intermediate for making amino acids and hydroxy acids.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261121_en_07",
+      "subject": "Botany",
+      "topic": "Principles of Inheritance and Variation",
+      "question": "A test cross is performed by crossing an individual showing the dominant phenotype with a:",
+      "options": [
+        "Homozygous dominant individual",
+        "Homozygous recessive individual, to find out whether it is homozygous or heterozygous",
+        "Heterozygous individual",
+        "Individual of another species"
+      ],
+      "correctAnswer": 1,
+      "explanation": "If any recessive offspring appears, the tested parent must have been heterozygous. All dominant offspring means it was homozygous dominant.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 4: Principles of Inheritance and Variation",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261121_en_08",
+      "subject": "Botany",
+      "topic": "Plant Growth and Development",
+      "question": "The occurrence of different shapes of leaves on the same plant, as in the aquatic buttercup, is an example of:",
+      "options": [
+        "Apical dominance",
+        "Plasticity, specifically heterophylly",
+        "Senescence",
+        "Abscission"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The submerged leaves are finely dissected while the aerial ones are broad, showing that development can change with the environment. Cotton and coriander show the same with age.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 13: Plant Growth and Development",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261121_en_09",
+      "subject": "Zoology",
+      "topic": "Breathing and Exchange of Gases",
+      "question": "Asthma is characterised by difficulty in breathing because of:",
+      "options": [
+        "Permanent destruction of the alveolar walls",
+        "Inflammation of the bronchi and bronchioles, which narrows the airways",
+        "Fibrosis of the lung from stone dust",
+        "Loss of haemoglobin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The narrowing causes wheezing and is usually reversible, often triggered by an allergen. Emphysema instead destroys alveolar walls permanently.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 14: Breathing and Exchange of Gases",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261121_en_10",
+      "subject": "Zoology",
+      "topic": "Evolution",
+      "question": "Lamarck's theory of inheritance of acquired characters was rejected mainly because:",
+      "options": [
+        "Acquired somatic changes are not transmitted to the germ cells, so they are not inherited",
+        "Lamarck had no examples at all",
+        "It agreed too closely with Darwin",
+        "Giraffes do not have long necks"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Only changes in the DNA of the gametes pass to the next generation. Weismann's experiments on cutting the tails of mice over generations supported this conclusion.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 6: Evolution",
+      "language": "en"
+    }
+  ]
+}

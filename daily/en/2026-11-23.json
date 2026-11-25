@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-23",
+  "language": "en",
+  "title": "Daily Dose — 23 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261123_en_01",
+      "subject": "Physics",
+      "topic": "Motion in a Straight Line",
+      "question": "A body is thrown vertically upward and returns to the thrower's hand. For the whole journey, its:",
+      "options": [
+        "Distance and displacement are both zero",
+        "Displacement is zero but the distance travelled is not",
+        "Average velocity equals its average speed",
+        "Acceleration is zero at the highest point"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Displacement depends only on the start and end points, so it is zero, while the distance is twice the maximum height. At the top the velocity is zero but the acceleration is still g.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 2: Motion in a Straight Line",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261123_en_02",
+      "subject": "Physics",
+      "topic": "Thermal Properties of Matter",
+      "question": "Heat transfer by convection cannot take place in:",
+      "options": [
+        "Liquids",
+        "Gases",
+        "Solids, because their particles cannot move from place to place",
+        "Vacuum only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Convection needs the actual bulk movement of the medium, so it works only in fluids. Solids conduct, and radiation alone can cross a vacuum.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 10: Thermal Properties of Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261123_en_03",
+      "subject": "Physics",
+      "topic": "Electromagnetic Induction",
+      "question": "Eddy currents induced in a metal plate moving through a magnetic field are deliberately put to use in:",
+      "options": [
+        "Electric bells",
+        "Electromagnetic braking and induction furnaces",
+        "Simple fuses",
+        "Dry cells"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The induced currents oppose the motion, which brings trains smoothly to a halt, and the heat they produce melts metal in an induction furnace. In transformers they are a loss, so laminated cores are used.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 6: Electromagnetic Induction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261123_en_04",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "In the ethyne molecule C₂H₂, each carbon is sp hybridised. The H-C-C bond angle is therefore:",
+      "options": [
+        "109.5°",
+        "120°",
+        "180°",
+        "90°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Two sp hybrid orbitals point in exactly opposite directions, so the molecule is linear. The two remaining unhybridised p orbitals on each carbon form the two pi bonds.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261123_en_05",
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "question": "The electrophile that actually attacks the benzene ring during nitration with a mixture of concentrated nitric and sulphuric acids is:",
+      "options": [
+        "NO₂⁻",
+        "NO₂⁺, the nitronium ion",
+        "HNO₃ itself",
+        "SO₃"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sulphuric acid protonates nitric acid, which then loses water to give the nitronium ion. So sulphuric acid acts as the acid and nitric acid as the base in this step.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 9: Hydrocarbons",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261123_en_06",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "A hydrogen-oxygen fuel cell is more efficient than a conventional thermal power plant mainly because it:",
+      "options": [
+        "Converts chemical energy directly into electrical energy, without the heat and mechanical stages",
+        "Produces no water",
+        "Needs no electrodes",
+        "Works only at very high temperature"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Skipping the heat engine avoids the Carnot limit, so efficiency reaches about 70 percent against roughly 40 percent, and the only product is water, which astronauts can drink.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261123_en_07",
+      "subject": "Botany",
+      "topic": "Sexual Reproduction in Flowering Plants",
+      "question": "The development of a fruit without fertilisation, as in seedless grapes and bananas, is called:",
+      "options": [
+        "Apomixis",
+        "Parthenocarpy",
+        "Polyembryony",
+        "Double fertilisation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Parthenocarpy gives a seedless fruit and can be induced with growth hormones. Apomixis, in contrast, gives seeds without fertilisation.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 1: Sexual Reproduction in Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261123_en_08",
+      "subject": "Botany",
+      "topic": "Ecosystem",
+      "question": "In a detritus food chain, the energy flow begins with:",
+      "options": [
+        "Living green plants eaten by herbivores",
+        "Dead organic matter consumed by decomposers and detritivores",
+        "Top carnivores",
+        "Sunlight absorbed by fungi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In a terrestrial ecosystem the detritus chain actually carries much more energy than the grazing chain, and the two are linked where detritivores are eaten by predators.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 12: Ecosystem",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261123_en_09",
+      "subject": "Zoology",
+      "topic": "Structural Organisation in Animals",
+      "question": "The typhlosole present in the intestine of the earthworm serves to:",
+      "options": [
+        "Grind the food",
+        "Increase the absorptive surface area of the intestine",
+        "Pump blood",
+        "Excrete nitrogenous waste"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This median fold of the internal dorsal wall works on the same principle as the villi of the human intestine, giving more surface for absorption in the same length.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 7: Structural Organisation in Animals",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261123_en_10",
+      "subject": "Zoology",
+      "topic": "Body Fluids and Circulation",
+      "question": "A person is said to be hypertensive when the blood pressure is consistently:",
+      "options": [
+        "120/80 mm Hg",
+        "140/90 mm Hg or higher",
+        "100/60 mm Hg",
+        "Below 90/60 mm Hg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Normal pressure is about 120/80. Sustained hypertension strains the heart and damages the arteries, kidneys and brain, so it is treated even when there are no symptoms.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 15: Body Fluids and Circulation",
+      "language": "en"
+    }
+  ]
+}

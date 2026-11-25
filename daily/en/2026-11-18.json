@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-18",
+  "language": "en",
+  "title": "Daily Dose — 18 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261118_en_01",
+      "subject": "Physics",
+      "topic": "Work, Energy and Power",
+      "question": "The work done by a variable force acting along a straight line is given by:",
+      "options": [
+        "Force times total displacement",
+        "The area under the force-displacement graph",
+        "The slope of the force-displacement graph",
+        "Force divided by displacement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "W = ∫F dx, which is exactly the area under the curve. Simply multiplying force by displacement works only when the force is constant.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 5: Work, Energy and Power",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261118_en_02",
+      "subject": "Physics",
+      "topic": "Oscillations",
+      "question": "Two springs of force constants k₁ and k₂ are connected in parallel and support a mass. The effective force constant of the combination is:",
+      "options": [
+        "k₁ + k₂",
+        "k₁k₂/(k₁ + k₂)",
+        "√(k₁k₂)",
+        "k₁ - k₂"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In parallel both springs stretch by the same amount and share the load, so the constants add. In series they add as reciprocals, like resistors the other way round.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 13: Oscillations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261118_en_03",
+      "subject": "Physics",
+      "topic": "Ray Optics and Optical Instruments",
+      "question": "The relation between the critical angle C and the refractive index μ of a denser medium with respect to air is:",
+      "options": [
+        "μ = sin C",
+        "μ = 1/sin C",
+        "μ = tan C",
+        "μ = cos C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Applying Snell's law at the critical angle, where the refracted ray grazes the surface at 90°, gives sin C = 1/μ. A denser medium therefore has a smaller critical angle.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 9: Ray Optics and Optical Instruments",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261118_en_04",
+      "subject": "Chemistry",
+      "topic": "Some Basic Concepts of Chemistry",
+      "question": "The volume of 0.5 M HCl needed to prepare 500 mL of 0.1 M HCl by dilution is:",
+      "options": [
+        "50 mL",
+        "100 mL",
+        "250 mL",
+        "400 mL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "On dilution the moles of solute do not change, so M₁V₁ = M₂V₂ gives 0.5 × V = 0.1 × 500, that is V = 100 mL, made up to 500 mL with water.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 1: Some Basic Concepts of Chemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261118_en_05",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "The bond order of the superoxide ion O₂⁻ according to molecular orbital theory is:",
+      "options": [
+        "1",
+        "1.5",
+        "2",
+        "2.5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "O₂⁻ has 10 bonding and 7 antibonding electrons, so the bond order is (10 - 7)/2 = 1.5. Adding electrons to an antibonding orbital weakens and lengthens the bond.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261118_en_06",
+      "subject": "Chemistry",
+      "topic": "Alcohols, Phenols and Ethers",
+      "question": "Heating sodium phenoxide with carbon dioxide under pressure followed by acidification gives salicylic acid. This reaction is known as:",
+      "options": [
+        "Kolbe's reaction",
+        "Reimer-Tiemann reaction",
+        "Cannizzaro reaction",
+        "Williamson synthesis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Salicylic acid is the starting material for aspirin. The Reimer-Tiemann reaction uses chloroform and alkali instead, and gives salicylaldehyde.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 7: Alcohols, Phenols and Ethers",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261118_en_07",
+      "subject": "Botany",
+      "topic": "Morphology of Flowering Plants",
+      "question": "Ginger and turmeric are examples of which underground stem modification?",
+      "options": [
+        "Tuber",
+        "Rhizome",
+        "Corm",
+        "Bulb"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A rhizome grows horizontally and bears nodes, internodes and scaly leaves, which proves it is a stem and not a root. Potato is a tuber and Colocasia a corm.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 5: Morphology of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261118_en_08",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "Although several pigments absorb light, the molecule that actually acts as the reaction centre in both photosystems is:",
+      "options": [
+        "Chlorophyll b",
+        "Chlorophyll a",
+        "Carotenoid",
+        "Xanthophyll"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The accessory pigments only harvest light and hand the energy on to chlorophyll a, which alone releases the electron. They also protect chlorophyll a from photo-oxidation.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 11: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261118_en_09",
+      "subject": "Zoology",
+      "topic": "Excretory Products and their Elimination",
+      "question": "Haemodialysis, used to treat kidney failure, works on the principle of:",
+      "options": [
+        "Active transport of urea into the dialysing fluid",
+        "Diffusion of wastes across a semipermeable membrane down a concentration gradient",
+        "Filtration under high blood pressure",
+        "Osmosis of water only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The dialysing fluid has the same composition as plasma but no nitrogenous wastes, so urea diffuses out while useful solutes stay. Heparin is added to stop the blood clotting.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 16: Excretory Products and their Elimination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261118_en_10",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "A rasping, file-like feeding organ called the radula is characteristic of phylum:",
+      "options": [
+        "Mollusca",
+        "Annelida",
+        "Arthropoda",
+        "Echinodermata"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Molluscs such as snails use the radula to scrape food. Their body is soft and unsegmented, usually covered by a calcareous shell, and the visceral mass is covered by a mantle.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    }
+  ]
+}

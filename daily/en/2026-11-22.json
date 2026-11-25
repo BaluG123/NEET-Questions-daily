@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-22",
+  "language": "en",
+  "title": "Daily Dose — 22 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261122_en_01",
+      "subject": "Physics",
+      "topic": "Units and Measurements",
+      "question": "The dimensional formula of the coefficient of viscosity is:",
+      "options": [
+        "[M L⁻¹ T⁻¹]",
+        "[M L T⁻¹]",
+        "[M L⁻¹ T⁻²]",
+        "[M L² T⁻¹]"
+      ],
+      "correctAnswer": 0,
+      "explanation": "From F = ηA(dv/dx), η = F dx/(A dv) = [MLT⁻²][L]/([L²][LT⁻¹]) = [ML⁻¹T⁻¹]. Its SI unit is the poiseuille or pascal second.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 1: Units and Measurements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261122_en_02",
+      "subject": "Physics",
+      "topic": "Electric Charges and Fields",
+      "question": "The quantisation of electric charge means that the charge on any body:",
+      "options": [
+        "Can take any value whatsoever",
+        "Is always an integral multiple of the elementary charge e",
+        "Is always positive",
+        "Depends on its mass"
+      ],
+      "correctAnswer": 1,
+      "explanation": "q = ne, where e is 1.6 × 10⁻¹⁹ C. Because e is so small, charge appears continuous at the everyday scale, just as matter appears continuous despite being made of atoms.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 1: Electric Charges and Fields",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261122_en_03",
+      "subject": "Physics",
+      "topic": "Nuclei",
+      "question": "The energy equivalent of one atomic mass unit is approximately:",
+      "options": [
+        "931 MeV",
+        "13.6 eV",
+        "1.6 × 10⁻¹⁹ J",
+        "8.5 MeV"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Putting 1 u = 1.66 × 10⁻²⁷ kg into E = mc² gives about 931 MeV, which is why mass defects of a fraction of a u release millions of electron volts.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 13: Nuclei",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261122_en_04",
+      "subject": "Chemistry",
+      "topic": "Equilibrium",
+      "question": "Ostwald's dilution law applies to the dissociation of:",
+      "options": [
+        "Strong acids and bases only",
+        "Weak electrolytes, relating the degree of dissociation to the dissociation constant and concentration",
+        "Covalent non-electrolytes",
+        "Molten salts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For a weak electrolyte Ka = cα²/(1 - α), and when α is small this simplifies to α = √(Ka/c), so dilution raises the degree of dissociation.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 6: Equilibrium",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261122_en_05",
+      "subject": "Chemistry",
+      "topic": "The d- and f-Block Elements",
+      "question": "Interstitial compounds formed by transition metals with small atoms such as hydrogen, carbon and nitrogen are characteristically:",
+      "options": [
+        "Soft and chemically very reactive",
+        "Hard, with high melting points and chemically rather inert",
+        "Always gaseous",
+        "Always ionic and water soluble"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The small atoms slip into the holes of the metal lattice and lock it, so steel, which is an interstitial compound of iron and carbon, is much harder than pure iron.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 4: The d- and f-Block Elements",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261122_en_06",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "Which of the following is a correct difference between DNA and RNA?",
+      "options": [
+        "DNA has ribose and uracil, RNA has deoxyribose and thymine",
+        "DNA has deoxyribose and thymine, RNA has ribose and uracil",
+        "Both contain thymine",
+        "RNA is always double stranded"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The missing 2' hydroxyl group makes DNA chemically more stable, which is why it is the better store of genetic information while RNA acts as the working copy.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261122_en_07",
+      "subject": "Botany",
+      "topic": "Anatomy of Flowering Plants",
+      "question": "A sieve tube element of the phloem is always accompanied by a companion cell because the sieve tube:",
+      "options": [
+        "Has no cytoplasm at all",
+        "Loses its nucleus at maturity and depends on the companion cell to control its activity",
+        "Is dead and lignified",
+        "Conducts only water"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The two are linked by many plasmodesmata, and the companion cell also helps load sugars into the sieve tube for long distance transport.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 6: Anatomy of Flowering Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261122_en_08",
+      "subject": "Botany",
+      "topic": "Biotechnology: Principles and Processes",
+      "question": "Agrobacterium tumefaciens is widely used in plant genetic engineering because it:",
+      "options": [
+        "Kills all competing bacteria",
+        "Naturally transfers a part of its Ti plasmid into the plant genome, and so can act as a vector",
+        "Produces antibiotics",
+        "Fixes atmospheric nitrogen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The tumour causing genes are removed and the genes of interest put in their place, so the disarmed plasmid delivers the desired gene instead of causing crown gall disease.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 9: Biotechnology: Principles and Processes",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261122_en_09",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "The two cerebral hemispheres of the human brain are connected by a thick band of nerve fibres called the:",
+      "options": [
+        "Corpus callosum",
+        "Corpora quadrigemina",
+        "Pons",
+        "Medulla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The corpus callosum lets the two halves share information. The cerebral cortex above it holds the motor, sensory and association areas.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261122_en_10",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "Cannabinoids, obtained from the inflorescences of Cannabis sativa, act mainly on which organ system when abused?",
+      "options": [
+        "The excretory system",
+        "The cardiovascular system, along with their effects on the brain",
+        "The skeletal system only",
+        "The digestive system only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "They bind receptors mainly in the brain, and abuse is known to affect the heart and blood vessels. Marijuana, hashish, charas and ganja all come from this plant.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    }
+  ]
+}
