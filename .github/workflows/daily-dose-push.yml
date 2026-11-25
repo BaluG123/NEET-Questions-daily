@@ -1,1 +1,91 @@
+# Sends "Today's Daily Dose is live" to the app once per day.
+#
+#  - 7:00 AM IST every day: if today's file exists, send.
+#  - When you push a file later in the day (after 7 AM IST): send right away.
+#  - Never sends twice for the same date (remembered with the Actions cache).
+#
+# Needs one repository secret: FIREBASE_SERVICE_ACCOUNT (see daily-push/README.md).
+name: Daily Dose push
+
+on:
+  schedule:
+    - cron: '30 1 * * *' # 01:30 UTC = 07:00 IST
+  push:
+    branches: [main]
+    paths:
+      - 'daily/**/*.json'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Send even if today was already sent'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-dose-push
+  cancel-in-progress: false
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Today in IST
+        id: day
+        run: |
+          echo "date=$(TZ=Asia/Kolkata date +%F)" >> "$GITHUB_OUTPUT"
+          echo "hour=$(TZ=Asia/Kolkata date +%-H)" >> "$GITHUB_OUTPUT"
+
+      - name: Already sent today?
+        id: sent
+        uses: actions/cache/restore@v4
+        with:
+          path: .push-sent
+          key: daily-dose-push-${{ steps.day.outputs.date }}
+
+      - name: Decide
+        id: decide
+        env:
+          DAY: ${{ steps.day.outputs.date }}
+          HOUR: ${{ steps.day.outputs.hour }}
+          EVENT: ${{ github.event_name }}
+          FORCE: ${{ inputs.force }}
+          ALREADY: ${{ steps.sent.outputs.cache-hit }}
+        run: |
+          if [ ! -f "daily/en/$DAY.json" ] && [ ! -f "daily/hi/$DAY.json" ]; then
+            echo "No questions for $DAY yet — nothing to send."; echo "send=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if [ "$FORCE" = "true" ]; then echo "send=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if [ "$ALREADY" = "true" ]; then
+            echo "Already sent for $DAY."; echo "send=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if [ "$EVENT" = "push" ] && [ "$HOUR" -lt 7 ]; then
+            echo "Uploaded before 7 AM IST — the 7 AM run will send it."; echo "send=false" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          echo "send=true" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-node@v4
+        if: steps.decide.outputs.send == 'true'
+        with:
+          node-version: 20
+
+      - name: Send notifications
+        if: steps.decide.outputs.send == 'true'
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: node scripts/send-daily-push.mjs "${{ steps.day.outputs.date }}"
+
+      - name: Remember it was sent
+        if: steps.decide.outputs.send == 'true'
+        run: mkdir -p .push-sent && date > .push-sent/sent
+
+      - uses: actions/cache/save@v4
+        if: steps.decide.outputs.send == 'true' && steps.sent.outputs.cache-hit != 'true'
+        with:
+          path: .push-sent
+          key: daily-dose-push-${{ steps.day.outputs.date }}
 
