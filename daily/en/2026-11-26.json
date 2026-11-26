@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-26",
+  "language": "en",
+  "title": "Daily Dose — 26 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261126_en_01",
+      "subject": "Physics",
+      "topic": "Electromagnetic Induction",
+      "question": "The SI unit of magnetic flux is the:",
+      "options": [
+        "Tesla",
+        "Weber",
+        "Henry",
+        "Ampere"
+      ],
+      "correctAnswer": 1,
+      "explanation": "One weber equals one tesla times one square metre. Tesla is the unit of magnetic field and henry that of inductance, so a weber per second is a volt.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 6: Electromagnetic Induction",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261126_en_02",
+      "subject": "Physics",
+      "topic": "Ray Optics and Optical Instruments",
+      "question": "The magnifying power of an astronomical telescope in normal adjustment is given by:",
+      "options": [
+        "f(o) × f(e)",
+        "f(o)/f(e)",
+        "f(e)/f(o)",
+        "f(o) + f(e)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A high magnification therefore needs an objective of long focal length and an eyepiece of short focal length, and the tube length is f(o) + f(e).",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 9: Ray Optics and Optical Instruments",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261126_en_03",
+      "subject": "Physics",
+      "topic": "Oscillations",
+      "question": "A simple pendulum is taken inside an artificial satellite orbiting the Earth. Its time period will:",
+      "options": [
+        "Remain unchanged",
+        "Become infinite, so the pendulum does not oscillate at all",
+        "Become half",
+        "Become zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "T = 2π√(l/g), and inside an orbiting satellite everything is in free fall, so the effective g is zero. With no restoring force the bob simply stays where it is put.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 13: Oscillations",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261126_en_04",
+      "subject": "Chemistry",
+      "topic": "Biomolecules",
+      "question": "Starch, the storage polysaccharide of plants, is made up of:",
+      "options": [
+        "Amylose and amylopectin",
+        "Glucose and fructose",
+        "Amylose and cellulose",
+        "Glycogen and chitin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Amylose is a long unbranched helical chain and amylopectin a highly branched one. The helix of amylose traps iodine, which is why starch gives the familiar blue colour.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 10: Biomolecules",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261126_en_05",
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "question": "The standard emf of a galvanic cell is calculated as:",
+      "options": [
+        "E(anode) - E(cathode)",
+        "E(cathode) - E(anode)",
+        "E(cathode) + E(anode)",
+        "E(cathode) × E(anode)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Both values are taken as reduction potentials, so subtracting the anode's from the cathode's gives the cell emf. A positive answer means the cell reaction is spontaneous.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 2: Electrochemistry",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261126_en_06",
+      "subject": "Chemistry",
+      "topic": "Thermodynamics",
+      "question": "For a reaction in which the number of moles of gas does not change, that is Δn(g) = 0, the relation between ΔH and ΔU is:",
+      "options": [
+        "ΔH is greater than ΔU",
+        "ΔH equals ΔU",
+        "ΔH is less than ΔU",
+        "ΔH equals zero"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ΔH = ΔU + Δn(g)RT, so when Δn(g) is zero the pressure-volume work term vanishes and the two become identical. The reaction H₂ + Cl₂ → 2HCl is one such case, with two moles of gas on each side.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 5: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261126_en_07",
+      "subject": "Botany",
+      "topic": "Biological Classification",
+      "question": "The cell walls of diatoms are indestructible and pile up over time to form a substance used in filtration and polishing, called:",
+      "options": [
+        "Agar",
+        "Diatomaceous earth",
+        "Carrageenan",
+        "Peat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The walls are embedded with silica, which does not decay. Diatoms are also the chief producers of the oceans, so they support almost all marine food chains.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 2: Biological Classification",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261126_en_08",
+      "subject": "Botany",
+      "topic": "Molecular Basis of Inheritance",
+      "question": "tRNA is called an adaptor molecule during translation because it:",
+      "options": [
+        "Reads the DNA directly",
+        "Reads the codon on mRNA at one end and carries the matching amino acid at the other",
+        "Joins two ribosomal subunits",
+        "Removes the introns from mRNA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The anticodon loop base pairs with the codon while the amino acid sits at the opposite end, so tRNA is what physically translates nucleotide language into protein language.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 5: Molecular Basis of Inheritance",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261126_en_09",
+      "subject": "Zoology",
+      "topic": "Neural Control and Coordination",
+      "question": "The organ of Corti, which contains the hair cells that actually convert sound vibrations into nerve impulses, is located in the:",
+      "options": [
+        "Tympanic membrane",
+        "Cochlea of the inner ear",
+        "Middle ear cavity",
+        "External auditory canal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It rests on the basilar membrane inside the coiled cochlea. Damage to these hair cells is the usual cause of permanent hearing loss, since they do not regenerate.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 18: Neural Control and Coordination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261126_en_10",
+      "subject": "Zoology",
+      "topic": "Human Health and Disease",
+      "question": "The common cold, caused by rhinoviruses, differs from many other viral diseases in that it:",
+      "options": [
+        "Infects the lungs and causes lasting immunity",
+        "Infects the nose and respiratory passage but not the lungs, and confers no lasting immunity",
+        "Is spread only by mosquitoes",
+        "Can be cured completely by antibiotics"
+      ],
+      "correctAnswer": 1,
+      "explanation": "There are well over a hundred rhinovirus types, so recovering from one gives no protection against the next, and being viral it does not respond to antibiotics at all.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 12, Chapter 7: Human Health and Disease",
+      "language": "en"
+    }
+  ]
+}
