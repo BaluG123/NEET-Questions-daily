@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-27",
+  "language": "en",
+  "title": "Daily Dose — 27 Nov 2026",
+  "questions": [
+    {
+      "id": "daily_20261127_en_01",
+      "subject": "Physics",
+      "topic": "Magnetism and Matter",
+      "question": "The angle of dip at the magnetic equator of the Earth is:",
+      "options": [
+        "0°",
+        "45°",
+        "90°",
+        "180°"
+      ],
+      "correctAnswer": 0,
+      "explanation": "At the magnetic equator the Earth's field is horizontal, so a freely suspended needle stays level and the dip is zero. At the magnetic poles the field is vertical and the dip is 90°.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 5: Magnetism and Matter",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261127_en_02",
+      "subject": "Physics",
+      "topic": "Electric Charges and Fields",
+      "question": "The electric field due to an infinite plane sheet of uniform surface charge density σ is:",
+      "options": [
+        "Proportional to the distance from the sheet",
+        "Independent of the distance from the sheet",
+        "Inversely proportional to the distance",
+        "Inversely proportional to the square of the distance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gauss's law gives E = σ/2ε₀, with no r in it at all. A line charge gives a field varying as 1/r and a point charge as 1/r², so the symmetry of the source decides the dependence.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 12, Chapter 1: Electric Charges and Fields",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261127_en_03",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "question": "The coefficient of performance of a refrigerator working between a cold reservoir at T₂ and a hot reservoir at T₁ is:",
+      "options": [
+        "T₂/(T₁ - T₂)",
+        "T₁/(T₁ - T₂)",
+        "(T₁ - T₂)/T₁",
+        "T₁/T₂"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The coefficient of performance is the heat removed divided by the work done, and unlike an efficiency it can be greater than one. Trying to cool to a much lower T₂ makes it fall sharply.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Physics Class 11, Chapter 11: Thermodynamics",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261127_en_04",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry: Some Basic Principles and Techniques",
+      "question": "Chromatography is used to separate the components of a mixture on the basis of their:",
+      "options": [
+        "Boiling points",
+        "Different distribution between a stationary phase and a mobile phase",
+        "Melting points",
+        "Densities"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A component held more strongly by the stationary phase moves slowly and one held weakly moves fast, so the mixture separates along the plate or column.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 8: Organic Chemistry: Some Basic Principles and Techniques",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261127_en_05",
+      "subject": "Chemistry",
+      "topic": "Solutions",
+      "question": "Common salt is spread on icy roads in cold countries because adding a solute:",
+      "options": [
+        "Raises the freezing point of water",
+        "Lowers the freezing point of water, so the ice melts",
+        "Raises the boiling point of water",
+        "Has no effect on the melting of ice"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Depression of freezing point is a colligative property, ΔTf = Kf × m, so salty water stays liquid below 0 °C. Since NaCl gives two ions per formula unit, it is doubly effective.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 12, Chapter 1: Solutions",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261127_en_06",
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding and Molecular Structure",
+      "question": "The formal charge on the central oxygen atom of the ozone molecule O₃ is:",
+      "options": [
+        "0",
+        "+1",
+        "-1",
+        "+2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Formal charge = valence electrons - non-bonding electrons - half the bonding electrons. The central atom has one lone pair and three bonds, so it is 6 - 2 - 3 = +1, while the singly bonded terminal oxygen carries -1.",
+      "difficulty": "Hard",
+      "isNCERTBased": true,
+      "ncertReference": "Chemistry Class 11, Chapter 4: Chemical Bonding and Molecular Structure",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261127_en_07",
+      "subject": "Botany",
+      "topic": "Plant Kingdom",
+      "question": "The red colour of the members of Rhodophyceae is mainly due to the predominance of the pigment:",
+      "options": [
+        "Fucoxanthin",
+        "Phycoerythrin",
+        "Chlorophyll b",
+        "Carotene"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Red algae are mostly marine and grow in deeper water, since phycoerythrin absorbs the blue green light that penetrates to that depth. Agar and carrageenan come from them.",
+      "difficulty": "Easy",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 3: Plant Kingdom",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261127_en_08",
+      "subject": "Botany",
+      "topic": "Photosynthesis in Higher Plants",
+      "question": "According to Blackman's law of limiting factors, when several factors affect photosynthesis, the rate is determined by:",
+      "options": [
+        "The factor present in the largest amount",
+        "The factor that is nearest its minimum value",
+        "The average of all the factors",
+        "Light intensity alone, always"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Raising any other factor will not help until the limiting one is improved, which is why increasing CO₂ in a greenhouse raises yield only when light and temperature are already adequate.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 11: Photosynthesis in Higher Plants",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261127_en_09",
+      "subject": "Zoology",
+      "topic": "Excretory Products and their Elimination",
+      "question": "The micturition reflex, by which urine is voided, is triggered when:",
+      "options": [
+        "The kidney stops filtering blood",
+        "Stretch receptors in the wall of the filled urinary bladder send signals to the central nervous system",
+        "The ureters contract on their own",
+        "Blood pressure in the glomerulus falls"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The CNS then makes the bladder muscle contract and the urethral sphincter relax. An adult passes about one to one and a half litres of urine a day.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 16: Excretory Products and their Elimination",
+      "language": "en"
+    },
+    {
+      "id": "daily_20261127_en_10",
+      "subject": "Zoology",
+      "topic": "Animal Kingdom",
+      "question": "The largest phylum of the animal kingdom, which includes more than two thirds of all known animal species, is:",
+      "options": [
+        "Mollusca",
+        "Arthropoda",
+        "Chordata",
+        "Annelida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Insects alone account for most of it. Arthropods have a chitinous exoskeleton, jointed appendages and an open circulatory system, and they occupy almost every habitat on Earth.",
+      "difficulty": "Medium",
+      "isNCERTBased": true,
+      "ncertReference": "Biology Class 11, Chapter 4: Animal Kingdom",
+      "language": "en"
+    }
+  ]
+}
